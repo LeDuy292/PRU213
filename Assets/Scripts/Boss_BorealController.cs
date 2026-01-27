@@ -28,8 +28,8 @@ public class Boss_BorealController : MonoBehaviour
     [Header("Shoot (Fireball)")]
     [SerializeField] private GameObject projectilePrefab;
     [SerializeField] private Transform firePoint;
-    [SerializeField] private float shootRate = 0.25f;
-    [SerializeField] private float shootDuration = 1.2f;
+    [SerializeField] private float shootRate = 0.5f;
+    [SerializeField] private int bulletsPerShoot = 5;
     [SerializeField] private float minShootDistance = 3f;
 
     // ================= PRIVATE =================
@@ -42,9 +42,11 @@ public class Boss_BorealController : MonoBehaviour
 
     private float attackTimer;
     private float lastMeleeTime;
-    private float lastShootTime;
     private float lastShootSkillTime;
+    private float lastShootTime;
 
+    private int bulletsShot;
+    private bool isShooting;
     private bool isDie;
     private bool isTouchingPlayer;
 
@@ -80,7 +82,7 @@ public class Boss_BorealController : MonoBehaviour
     {
         if (isDie || player == null) return;
 
-        // ❗ Nếu đang tung skill thì KHÔNG làm gì khác
+        // Đang tung skill → đứng yên
         if (currentState == State.Melee || currentState == State.Shoot)
         {
             moveX = 0;
@@ -115,7 +117,7 @@ public class Boss_BorealController : MonoBehaviour
         {
             moveX = 0;
 
-            if (Time.time >= lastShootSkillTime + shootCooldown)
+            if (!isShooting && Time.time >= lastShootSkillTime + shootCooldown)
             {
                 StartShoot();
             }
@@ -131,7 +133,6 @@ public class Boss_BorealController : MonoBehaviour
 
         UpdateAnimation();
     }
-
 
     private void FixedUpdate()
     {
@@ -156,23 +157,26 @@ public class Boss_BorealController : MonoBehaviour
     // ================= SHOOT =================
     private void StartShoot()
     {
+        isShooting = true;
         currentState = State.Shoot;
         lastShootSkillTime = Time.time;
-        lastShootTime = 0f;
 
-        Invoke(nameof(EndShoot), shootDuration);
-    }
-
-    private void EndShoot()
-    {
-        currentState = State.Idle;
+        bulletsShot = 0;
+        lastShootTime = -999f;
     }
 
     private void Fireball()
     {
+        if (bulletsShot >= bulletsPerShoot)
+        {
+            EndShoot();
+            return;
+        }
+
         if (Time.time < lastShootTime + shootRate) return;
 
         lastShootTime = Time.time;
+        bulletsShot++;
 
         Vector2 dir = (player.position - firePoint.position).normalized;
 
@@ -185,6 +189,12 @@ public class Boss_BorealController : MonoBehaviour
         Projectile proj = bullet.GetComponent<Projectile>();
         if (proj != null)
             proj.SetDirection(dir);
+    }
+
+    private void EndShoot()
+    {
+        isShooting = false;
+        currentState = State.Idle;
     }
 
     // ================= COLLISION =================
@@ -231,7 +241,6 @@ public class Boss_BorealController : MonoBehaviour
             Fireball();
         }
     }
-
 
     // ================= DIE =================
     public void Die()

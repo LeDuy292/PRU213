@@ -2,6 +2,7 @@
 
 [RequireComponent(typeof(Rigidbody2D))]
 [RequireComponent(typeof(Animator))]
+[RequireComponent(typeof(Collider2D))]
 public class Boss_BorealController : MonoBehaviour
 {
     // ================= RANGE =================
@@ -17,18 +18,19 @@ public class Boss_BorealController : MonoBehaviour
     [Header("Timing")]
     [SerializeField] private float attackDelay = 0.4f;
     [SerializeField] private float meleeCooldown = 1.5f;
-    [SerializeField] private float shootSkillCooldown = 3f;
+    [SerializeField] private float shootCooldown = 3f;
 
     // ================= MELEE =================
-    [Header("Melee Skill")]
+    [Header("Melee")]
     [SerializeField] private float meleeDuration = 0.6f;
 
     // ================= SHOOT =================
-    [Header("Shoot Skill")]
+    [Header("Shoot (Fireball)")]
     [SerializeField] private GameObject projectilePrefab;
     [SerializeField] private Transform firePoint;
-    [SerializeField] private float shootRate = 0.25f;
-    [SerializeField] private float shootDuration = 1.2f;
+    [SerializeField] private float shootRate = 0.5f;
+    [SerializeField] private int bulletsPerShoot = 5;
+    [SerializeField] private float minShootDistance = 3f;
 
     // ================= PRIVATE =================
     private Rigidbody2D rb;
@@ -43,17 +45,21 @@ public class Boss_BorealController : MonoBehaviour
     private float lastShootSkillTime;
     private float lastShootTime;
 
+    private int bulletsShot;
+    private bool isShooting;
     private bool isDie;
+    private bool isTouchingPlayer;
 
     // ================= STATE =================
-    private enum SkillState
+    private enum State
     {
-        None,
+        Idle,
+        Chase,
         Melee,
         Shoot
     }
 
-    private SkillState currentSkill = SkillState.None;
+    private State currentState = State.Idle;
 
     // ================= UNITY =================
     private void Awake()
@@ -63,6 +69,7 @@ public class Boss_BorealController : MonoBehaviour
 
         rb.bodyType = RigidbodyType2D.Kinematic;
         rb.gravityScale = 0;
+        rb.freezeRotation = true;
     }
 
     private void Start()
@@ -75,22 +82,22 @@ public class Boss_BorealController : MonoBehaviour
     {
         if (isDie || player == null) return;
 
+        // Đang tung skill → đứng yên
+        if (currentState == State.Melee || currentState == State.Shoot)
+        {
+            moveX = 0;
+            UpdateAnimation();
+            return;
+        }
+
         float deltaX = player.position.x - transform.position.x;
         float distance = Mathf.Abs(deltaX);
         int dir = deltaX > 0 ? 1 : -1;
 
         Flip(dir);
 
-        // 🔒 ĐANG DÙNG SKILL
-        if (currentSkill != SkillState.None)
-        {
-            HandleSkill();
-            UpdateAnimation();
-            return;
-        }
-
-        // 🔴 ƯU TIÊN 1: CẬN CHIẾN
-        if (distance <= meleeRange)
+        // ================= MELEE =================
+        if (distance <= meleeRange || isTouchingPlayer)
         {
             moveX = 0;
             attackTimer += Time.deltaTime;
@@ -98,35 +105,34 @@ public class Boss_BorealController : MonoBehaviour
             if (attackTimer >= attackDelay &&
                 Time.time >= lastMeleeTime + meleeCooldown)
             {
-                UseMeleeSkill();
+                StartMelee();
             }
 
             UpdateAnimation();
             return;
         }
 
-        // 🔵 ƯU TIÊN 2: BẮN XA (<= shootRange)
-        if (distance <= shootRange)
+        // ================= SHOOT =================
+        if (distance <= shootRange && distance >= minShootDistance)
         {
             moveX = 0;
 
-            if (Time.time >= lastShootSkillTime + shootSkillCooldown)
+            if (!isShooting && Time.time >= lastShootSkillTime + shootCooldown)
             {
-                UseShootSkill();
+                StartShoot();
             }
 
             UpdateAnimation();
             return;
         }
 
-        // 🏃 NGOÀI TẦM → ĐUỔI
+        // ================= CHASE =================
+        currentState = State.Chase;
         moveX = dir * moveSpeed;
         attackTimer = 0;
 
         UpdateAnimation();
     }
-
-
 
     private void FixedUpdate()
     {
@@ -134,40 +140,43 @@ public class Boss_BorealController : MonoBehaviour
     }
 
     // ================= MELEE =================
-    private void UseMeleeSkill()
+    private void StartMelee()
     {
-        currentSkill = SkillState.Melee;
+        currentState = State.Melee;
         lastMeleeTime = Time.time;
         attackTimer = 0;
 
-        Invoke(nameof(ResetSkill), meleeDuration);
+        Invoke(nameof(EndMelee), meleeDuration);
+    }
+
+    private void EndMelee()
+    {
+        currentState = State.Idle;
     }
 
     // ================= SHOOT =================
-    private void UseShootSkill()
+    private void StartShoot()
     {
-        currentSkill = SkillState.Shoot;
+        isShooting = true;
+        currentState = State.Shoot;
         lastShootSkillTime = Time.time;
-        lastShootTime = 0f;
 
-        Invoke(nameof(ResetSkill), shootDuration);
+        bulletsShot = 0;
+        lastShootTime = -999f;
     }
 
-    private void HandleSkill()
+    private void Fireball()
     {
-        moveX = 0;
-
-        if (currentSkill == SkillState.Shoot)
+        if (bulletsShot >= bulletsPerShoot)
         {
-            AutoShoot();
+            EndShoot();
+            return;
         }
-    }
 
-    private void AutoShoot()
-    {
         if (Time.time < lastShootTime + shootRate) return;
 
         lastShootTime = Time.time;
+        bulletsShot++;
 
         Vector2 dir = (player.position - firePoint.position).normalized;
 
@@ -182,10 +191,29 @@ public class Boss_BorealController : MonoBehaviour
             proj.SetDirection(dir);
     }
 
-    // ================= RESET =================
-    private void ResetSkill()
+    private void EndShoot()
     {
-        currentSkill = SkillState.None;
+        isShooting = false;
+        currentState = State.Idle;
+    }
+
+    // ================= COLLISION =================
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Player"))
+        {
+            isTouchingPlayer = true;
+            moveX = 0;
+            rb.linearVelocity = Vector2.zero;
+        }
+    }
+
+    private void OnCollisionExit2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Player"))
+        {
+            isTouchingPlayer = false;
+        }
     }
 
     // ================= FLIP =================
@@ -202,10 +230,16 @@ public class Boss_BorealController : MonoBehaviour
     // ================= ANIMATION =================
     private void UpdateAnimation()
     {
-        animator.SetBool("IsRunning", Mathf.Abs(moveX) > 0.1f);
-        animator.SetBool("IsMelee", currentSkill == SkillState.Melee);
-        animator.SetBool("IsShoot", currentSkill == SkillState.Shoot);
+        bool isRunning = currentState == State.Chase && Mathf.Abs(moveX) > 0.1f;
+
+        animator.SetBool("IsRunning", isRunning);
+        animator.SetBool("IsSkill", currentState == State.Melee);
         animator.SetBool("IsDie", isDie);
+
+        if (currentState == State.Shoot)
+        {
+            Fireball();
+        }
     }
 
     // ================= DIE =================

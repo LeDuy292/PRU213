@@ -17,6 +17,9 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private int skill3Damage = 60;
     [SerializeField] private Transform attackPoint;
     [Header("Cooldowns")]
+    [SerializeField] private SkillCooldownUI skill1UI;
+    [SerializeField] private SkillCooldownUI skill2UI;
+    [SerializeField] private SkillCooldownUI skill3UI;
     [SerializeField] private float normalCooldown = 0.3f;
     [SerializeField] private float skill1Cooldown = 6f;
     [SerializeField] private float skill2Cooldown = 10f;
@@ -76,11 +79,16 @@ public class PlayerController : MonoBehaviour
         {
             skill1Timer = skill1Cooldown;
             DoAttack("Skill1");
+            skill1UI.StartCooldown(skill1Cooldown);
+            Debug.Log("Skill1 UI = " + skill1UI);
+
         }
         else if (Input.GetKeyDown(KeyCode.W) && skill2Timer <= 0)
         {
             skill2Timer = skill2Cooldown;
             DoAttack("Skill2");
+            skill2UI.StartCooldown(skill2Cooldown);
+
         }
         else if (Input.GetKeyDown(KeyCode.E) && skill3Timer <= 0)
         {
@@ -92,6 +100,8 @@ public class PlayerController : MonoBehaviour
 
             skill3Timer = skill3Cooldown;
             DoAttack("Skill3");
+            skill3UI.StartCooldown(skill3Cooldown);
+
         }
     }
 

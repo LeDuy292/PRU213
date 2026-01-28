@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: c40592666c8806f44ad45c36d12dac05
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2980617623274048526
+    second: Emberwyrm_idle_0
+  - first:
+      213: 5470922680008669442
+    second: Emberwyrm_idle_1
+  - first:
+      213: -1366140682256057183
+    second: Emberwyrm_idle_2
+  - first:
+      213: 4924864511018070522
+    second: Emberwyrm_idle_3
+  - first:
+      213: 7960639445490390241
+    second: Emberwyrm_idle_4
+  - first:
+      213: 3254864160858793887
+    second: Emberwyrm_idle_5
+  - first:
+      213: -3622125453929471758
+    second: Emberwyrm_idle_6
+  - first:
+      213: 2909954832955272011
+    second: Emberwyrm_idle_7
+  - first:
+      213: -5489131741136520758
+    second: Emberwyrm_idle_8
+  - first:
+      213: -5461949056215883267
+    second: Emberwyrm_idle_9
+  - first:
+      213: 8714790953545473040
+    second: Emberwyrm_idle_10
+  - first:
+      213: 1621545410110305529
+    second: Emberwyrm_idle_11
+  - first:
+      213: -7528293589663404123
+    second: Emberwyrm_idle_12
+  - first:
+      213: 3968177519477095643
+    second: Emberwyrm_idle_13
+  - first:
+      213: 3276512500454570921
+    second: Emberwyrm_idle_14
+  - first:
+      213: 7381274966509590005
+    second: Emberwyrm_idle_15
+  - first:
+      213: -1330581645998631281
+    second: Emberwyrm_idle_16
+  - first:
+      213: 4244029150204680306
+    second: Emberwyrm_idle_17
+  - first:
+      213: -2113342129572172316
+    second: Emberwyrm_idle_18
+  - first:
+      213: -240312710227443364
+    second: Emberwyrm_idle_19
+  - first:
+      213: -334333321045758971
+    second: Emberwyrm_idle_20
+  - first:
+      213: 5455108654871589128
+    second: Emberwyrm_idle_21
+  - first:
+      213: 2312896169450737018
+    second: Emberwyrm_idle_22
+  - first:
+      213: -2484188777635276980
+    second: Emberwyrm_idle_23
+  - first:
+      213: 4190765609282779810
+    second: Emberwyrm_idle_24
+  - first:
+      213: -6344667036153819586
+    second: Emberwyrm_idle_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Emberwyrm_idle_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 374
+        width: 70
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f33b794018b2a6d0800000000000000
+      internalID: -2980617623274048526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_idle_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 439
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2097b87f03f9ceb40800000000000000
+      internalID: 5470922680008669442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_idle_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 374
+        width: 71
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1acfae0a94e7a0de0800000000000000
+      internalID: -1366140682256057183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_idle_3
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 374
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1f8220e22a85440800000000000000
+      internalID: 4924864511018070522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_idle_4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 437
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4da6df56fd97e60800000000000000
+      internalID: 7960639445490390241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_idle_5
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 374
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97632495b99b2d20800000000000000
+      internalID: 3254864160858793887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_idle_6
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 440
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f022aa2710abbdc0800000000000000
+      internalID: -3622125453929471758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_idle_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 254
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4beab2c08c326820800000000000000
+      internalID: 2909954832955272011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_idle_8
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 314
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac97c3c93cfa2d3b0800000000000000
+      internalID: -5489131741136520758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_idle_9
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 254
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1e8f2a5424334b0800000000000000
+      internalID: -5461949056215883267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_idle_10
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 254
+        width: 77
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c9dd5033821f870800000000000000
+      internalID: 8714790953545473040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_idle_11
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 313
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f43acc85f2e08610800000000000000
+      internalID: 1621545410110305529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_idle_12
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 254
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af2347edd0268790800000000000000
+      internalID: -7528293589663404123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_idle_13
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 319
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc7f1efd6cc11730800000000000000
+      internalID: 3968177519477095643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_idle_14
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 310
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9abb8bb62c2887d20800000000000000
+      internalID: 3276512500454570921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_idle_15
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 134
+        width: 66
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f59940797e8f6660800000000000000
+      internalID: 7381274966509590005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_idle_16
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 134
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86d89dea03d88de0800000000000000
+      internalID: -1330581645998631281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_idle_17
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 197
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2785a5ab602d5ea30800000000000000
+      internalID: 4244029150204680306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_idle_18
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 134
+        width: 68
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4edabf5b786eba2e0800000000000000
+      internalID: -2113342129572172316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_idle_19
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 200
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51c1effcdc3aacf0800000000000000
+      internalID: -240312710227443364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_idle_20
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 134
+        width: 68
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50cad7aad953c5bf0800000000000000
+      internalID: -334333321045758971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_idle_21
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 194
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801b7c05b6074bb40800000000000000
+      internalID: 5455108654871589128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_idle_22
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 14
+        width: 65
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d0976dfce091020800000000000000
+      internalID: 2312896169450737018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_idle_23
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 70
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c479902f773668dd0800000000000000
+      internalID: -2484188777635276980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_idle_24
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 14
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa39363e17982a30800000000000000
+      internalID: 4190765609282779810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_idle_25
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 73
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ecbe332f633f7a0800000000000000
+      internalID: -6344667036153819586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Emberwyrm_idle_0: -2980617623274048526
+      Emberwyrm_idle_1: 5470922680008669442
+      Emberwyrm_idle_10: 8714790953545473040
+      Emberwyrm_idle_11: 1621545410110305529
+      Emberwyrm_idle_12: -7528293589663404123
+      Emberwyrm_idle_13: 3968177519477095643
+      Emberwyrm_idle_14: 3276512500454570921
+      Emberwyrm_idle_15: 7381274966509590005
+      Emberwyrm_idle_16: -1330581645998631281
+      Emberwyrm_idle_17: 4244029150204680306
+      Emberwyrm_idle_18: -2113342129572172316
+      Emberwyrm_idle_19: -240312710227443364
+      Emberwyrm_idle_2: -1366140682256057183
+      Emberwyrm_idle_20: -334333321045758971
+      Emberwyrm_idle_21: 5455108654871589128
+      Emberwyrm_idle_22: 2312896169450737018
+      Emberwyrm_idle_23: -2484188777635276980
+      Emberwyrm_idle_24: 4190765609282779810
+      Emberwyrm_idle_25: -6344667036153819586
+      Emberwyrm_idle_3: 4924864511018070522
+      Emberwyrm_idle_4: 7960639445490390241
+      Emberwyrm_idle_5: 3254864160858793887
+      Emberwyrm_idle_6: -3622125453929471758
+      Emberwyrm_idle_7: 2909954832955272011
+      Emberwyrm_idle_8: -5489131741136520758
+      Emberwyrm_idle_9: -5461949056215883267
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

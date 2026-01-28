@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 56253f1b618525e4b9f95cd30bec1308
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2557316641531210313
+    second: Ice_Drake_breathing_0
+  - first:
+      213: 6000338566863591103
+    second: Ice_Drake_breathing_1
+  - first:
+      213: 1680061258393684762
+    second: Ice_Drake_breathing_2
+  - first:
+      213: 7991209218005719901
+    second: Ice_Drake_breathing_3
+  - first:
+      213: -3505637850731195745
+    second: Ice_Drake_breathing_4
+  - first:
+      213: 728088691325855362
+    second: Ice_Drake_breathing_5
+  - first:
+      213: 4243423602718368170
+    second: Ice_Drake_breathing_6
+  - first:
+      213: -448336474894626436
+    second: Ice_Drake_breathing_7
+  - first:
+      213: 1097272463578776951
+    second: Ice_Drake_breathing_8
+  - first:
+      213: 5121599774378321201
+    second: Ice_Drake_breathing_9
+  - first:
+      213: 8636014399032976143
+    second: Ice_Drake_breathing_10
+  - first:
+      213: -4818014630343275335
+    second: Ice_Drake_breathing_11
+  - first:
+      213: 653422838738301273
+    second: Ice_Drake_breathing_12
+  - first:
+      213: -3767525382932061833
+    second: Ice_Drake_breathing_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ice_Drake_breathing_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 255
+        width: 58
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94aa9acafe96d7320800000000000000
+      internalID: 2557316641531210313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Drake_breathing_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 255
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb61bf9a22c754350800000000000000
+      internalID: 6000338566863591103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Drake_breathing_2
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 255
+        width: 62
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b837b20d6c05710800000000000000
+      internalID: 1680061258393684762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Drake_breathing_3
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 255
+        width: 62
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5bde0dc17a76ee60800000000000000
+      internalID: 7991209218005719901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Drake_breathing_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 175
+        width: 62
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92d00cc2f8795fc0800000000000000
+      internalID: -3505637850731195745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Drake_breathing_5
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 175
+        width: 65
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286e473aec0ba1a00800000000000000
+      internalID: 728088691325855362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Drake_breathing_6
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 175
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa16987b84ba3ea30800000000000000
+      internalID: 4243423602718368170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Drake_breathing_7
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 175
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c711e0af95037c9f0800000000000000
+      internalID: -448336474894626436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Drake_breathing_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 95
+        width: 67
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7754e65fd7b4a3f00800000000000000
+      internalID: 1097272463578776951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Drake_breathing_9
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 95
+        width: 67
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1356a810cd3931740800000000000000
+      internalID: 5121599774378321201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Drake_breathing_10
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 95
+        width: 67
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03e481275949d770800000000000000
+      internalID: 8636014399032976143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Drake_breathing_11
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 95
+        width: 57
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc01cb7839f22db0800000000000000
+      internalID: -4818014630343275335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Drake_breathing_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 15
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951bf1f1c9c611900800000000000000
+      internalID: 653422838738301273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Drake_breathing_13
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 15
+        width: 59
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771211c10af07bbc0800000000000000
+      internalID: -3767525382932061833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ice_Drake_breathing_0: 2557316641531210313
+      Ice_Drake_breathing_1: 6000338566863591103
+      Ice_Drake_breathing_10: 8636014399032976143
+      Ice_Drake_breathing_11: -4818014630343275335
+      Ice_Drake_breathing_12: 653422838738301273
+      Ice_Drake_breathing_13: -3767525382932061833
+      Ice_Drake_breathing_2: 1680061258393684762
+      Ice_Drake_breathing_3: 7991209218005719901
+      Ice_Drake_breathing_4: -3505637850731195745
+      Ice_Drake_breathing_5: 728088691325855362
+      Ice_Drake_breathing_6: 4243423602718368170
+      Ice_Drake_breathing_7: -448336474894626436
+      Ice_Drake_breathing_8: 1097272463578776951
+      Ice_Drake_breathing_9: 5121599774378321201
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

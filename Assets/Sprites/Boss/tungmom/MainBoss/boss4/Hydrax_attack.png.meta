@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: 202b1168cf0e3b04397aa544ffc89cc3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 151412129642687209
+    second: Hydrax_attack_0
+  - first:
+      213: 6321246515958611529
+    second: Hydrax_attack_1
+  - first:
+      213: -9106636580755031624
+    second: Hydrax_attack_2
+  - first:
+      213: 7546170223093646129
+    second: Hydrax_attack_3
+  - first:
+      213: 5312690057184340741
+    second: Hydrax_attack_4
+  - first:
+      213: -948975857981792743
+    second: Hydrax_attack_5
+  - first:
+      213: -2435888165745079800
+    second: Hydrax_attack_6
+  - first:
+      213: -3974520772902282174
+    second: Hydrax_attack_7
+  - first:
+      213: 6030307445183524244
+    second: Hydrax_attack_8
+  - first:
+      213: -483728690226459730
+    second: Hydrax_attack_9
+  - first:
+      213: -7875823232740408695
+    second: Hydrax_attack_10
+  - first:
+      213: -1907485128429603594
+    second: Hydrax_attack_11
+  - first:
+      213: -6464054458813670582
+    second: Hydrax_attack_12
+  - first:
+      213: 4353023342441402741
+    second: Hydrax_attack_13
+  - first:
+      213: 6751847347455966063
+    second: Hydrax_attack_14
+  - first:
+      213: 4830763148944880332
+    second: Hydrax_attack_15
+  - first:
+      213: -6472829582538525790
+    second: Hydrax_attack_16
+  - first:
+      213: 2614179055111000755
+    second: Hydrax_attack_17
+  - first:
+      213: -5533425118906435425
+    second: Hydrax_attack_18
+  - first:
+      213: -9171798247062219948
+    second: Hydrax_attack_19
+  - first:
+      213: -5624680409872707049
+    second: Hydrax_attack_20
+  - first:
+      213: -8850003538819385917
+    second: Hydrax_attack_21
+  - first:
+      213: 1400995320221540069
+    second: Hydrax_attack_22
+  - first:
+      213: -2934096248961422017
+    second: Hydrax_attack_23
+  - first:
+      213: -4649450077719722363
+    second: Hydrax_attack_24
+  - first:
+      213: -844674541072881722
+    second: Hydrax_attack_25
+  - first:
+      213: 338711644964639256
+    second: Hydrax_attack_26
+  - first:
+      213: 4216786125264995629
+    second: Hydrax_attack_27
+  - first:
+      213: 1990240367534825150
+    second: Hydrax_attack_28
+  - first:
+      213: 4368255958925429180
+    second: Hydrax_attack_29
+  - first:
+      213: 5988816338988462329
+    second: Hydrax_attack_30
+  - first:
+      213: -2450302275845835479
+    second: Hydrax_attack_31
+  - first:
+      213: -7007671624171541168
+    second: Hydrax_attack_32
+  - first:
+      213: 8319343867068937171
+    second: Hydrax_attack_33
+  - first:
+      213: 8178065018916880412
+    second: Hydrax_attack_34
+  - first:
+      213: 4301974284897663348
+    second: Hydrax_attack_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hydrax_attack_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 415
+        width: 59
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eaa90a978ce91200800000000000000
+      internalID: 151412129642687209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_attack_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 415
+        width: 57
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e7361073499b750800000000000000
+      internalID: 6321246515958611529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_attack_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 415
+        width: 56
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9b481674abe9180800000000000000
+      internalID: -9106636580755031624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_attack_3
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 415
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133802a26d169b860800000000000000
+      internalID: 7546170223093646129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_attack_4
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 415
+        width: 57
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50be83c85777ab940800000000000000
+      internalID: 5312690057184340741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_attack_5
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 315
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ed29c2c7f84d2f0800000000000000
+      internalID: -948975857981792743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_attack_6
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 315
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80acf208e9cf13ed0800000000000000
+      internalID: -2435888165745079800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_attack_7
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 359
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c9fba3a6aa7d8c0800000000000000
+      internalID: -3974520772902282174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_attack_8
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 315
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49dae84eba4ffa350800000000000000
+      internalID: 6030307445183524244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_attack_9
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 304
+        width: 74
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab0363b1537949f0800000000000000
+      internalID: -483728690226459730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_attack_10
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 302
+        width: 74
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9824dba6f7473b290800000000000000
+      internalID: -7875823232740408695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_attack_11
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 202
+        width: 72
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4fc99c1604785e0800000000000000
+      internalID: -1907485128429603594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_attack_12
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 203
+        width: 68
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b91adb7b01b46a0800000000000000
+      internalID: -6464054458813670582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_attack_13
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 215
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5711439aaab096c30800000000000000
+      internalID: 4353023342441402741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_attack_14
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 204
+        width: 71
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6bb6c2c36163bd50800000000000000
+      internalID: 6751847347455966063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_attack_15
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 223
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc238ee4d715a0340800000000000000
+      internalID: 4830763148944880332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_attack_16
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 207
+        width: 71
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3b6290ac3eb26a0800000000000000
+      internalID: -6472829582538525790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_attack_17
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 207
+        width: 69
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b25827000e674420800000000000000
+      internalID: 2614179055111000755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_attack_18
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 204
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98bb54fb235533b0800000000000000
+      internalID: -5533425118906435425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_attack_19
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 214
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4535e4ca61a37b080800000000000000
+      internalID: -9171798247062219948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_attack_20
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 206
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7125072d7fe11f1b0800000000000000
+      internalID: -5624680409872707049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_attack_21
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 207
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c578b7bba87e2580800000000000000
+      internalID: -8850003538819385917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_attack_22
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 107
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee1ac922d5517310800000000000000
+      internalID: 1400995320221540069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_attack_23
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 111
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d29dfc10ff747d0800000000000000
+      internalID: -2934096248961422017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_attack_24
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 108
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5868a94c9c5d97fb0800000000000000
+      internalID: -4649450077719722363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_attack_25
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 116
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7e88ceafc1744f0800000000000000
+      internalID: -844674541072881722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_attack_26
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 109
+        width: 63
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812d76f427853b400800000000000000
+      internalID: 338711644964639256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_attack_27
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 109
+        width: 63
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d254732b3a8058a30800000000000000
+      internalID: 4216786125264995629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_attack_28
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 110
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe5e8cc111ce9b10800000000000000
+      internalID: 1990240367534825150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_attack_29
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 107
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9cbbf86a92f9c30800000000000000
+      internalID: 4368255958925429180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_attack_30
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 107
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0767eeabc8c1350800000000000000
+      internalID: 5988816338988462329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_attack_31
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 108
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925b0e7ff07cefdd0800000000000000
+      internalID: -2450302275845835479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_attack_32
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 11
+        width: 62
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05dabaa39cfbfbe90800000000000000
+      internalID: -7007671624171541168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_attack_33
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 15
+        width: 61
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3f7f85b2f347370800000000000000
+      internalID: 8319343867068937171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_attack_34
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 15
+        width: 61
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10c6923ec25e7170800000000000000
+      internalID: 8178065018916880412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_attack_35
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 15
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479b03cb1dea3bb30800000000000000
+      internalID: 4301974284897663348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hydrax_attack_0: 151412129642687209
+      Hydrax_attack_1: 6321246515958611529
+      Hydrax_attack_10: -7875823232740408695
+      Hydrax_attack_11: -1907485128429603594
+      Hydrax_attack_12: -6464054458813670582
+      Hydrax_attack_13: 4353023342441402741
+      Hydrax_attack_14: 6751847347455966063
+      Hydrax_attack_15: 4830763148944880332
+      Hydrax_attack_16: -6472829582538525790
+      Hydrax_attack_17: 2614179055111000755
+      Hydrax_attack_18: -5533425118906435425
+      Hydrax_attack_19: -9171798247062219948
+      Hydrax_attack_2: -9106636580755031624
+      Hydrax_attack_20: -5624680409872707049
+      Hydrax_attack_21: -8850003538819385917
+      Hydrax_attack_22: 1400995320221540069
+      Hydrax_attack_23: -2934096248961422017
+      Hydrax_attack_24: -4649450077719722363
+      Hydrax_attack_25: -844674541072881722
+      Hydrax_attack_26: 338711644964639256
+      Hydrax_attack_27: 4216786125264995629
+      Hydrax_attack_28: 1990240367534825150
+      Hydrax_attack_29: 4368255958925429180
+      Hydrax_attack_3: 7546170223093646129
+      Hydrax_attack_30: 5988816338988462329
+      Hydrax_attack_31: -2450302275845835479
+      Hydrax_attack_32: -7007671624171541168
+      Hydrax_attack_33: 8319343867068937171
+      Hydrax_attack_34: 8178065018916880412
+      Hydrax_attack_35: 4301974284897663348
+      Hydrax_attack_4: 5312690057184340741
+      Hydrax_attack_5: -948975857981792743
+      Hydrax_attack_6: -2435888165745079800
+      Hydrax_attack_7: -3974520772902282174
+      Hydrax_attack_8: 6030307445183524244
+      Hydrax_attack_9: -483728690226459730
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -64,6 +64,27 @@
         "com.unity.modules.uielements": "1.0.0"
       }
     },
+    "com.unity.2d.tilemap.extras": {
+      "version": "6.0.1",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.2d.tilemap": "1.0.0",
+        "com.unity.modules.tilemap": "1.0.0",
+        "com.unity.modules.jsonserialize": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.2d.tooling": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.2d.common": "12.0.1",
+        "com.unity.modules.uielements": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
     "com.unity.burst": {
       "version": "1.8.27",
       "depth": 2,
@@ -74,8 +95,6 @@
       },
       "url": "https://packages.unity.com"
     },
- feature/UIIntroduction
-
     "com.unity.cinemachine": {
       "version": "3.1.5",
       "depth": 0,
@@ -93,7 +112,6 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
- develop
     "com.unity.collections": {
       "version": "2.6.2",
       "depth": 1,
@@ -109,12 +127,30 @@
     },
     "com.unity.ext.nunit": {
       "version": "2.0.5",
-      "depth": 3,
+      "depth": 1,
       "source": "builtin",
       "dependencies": {}
     },
+    "com.unity.ide.rider": {
+      "version": "3.0.38",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.ext.nunit": "1.0.6"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.ide.visualstudio": {
+      "version": "2.0.25",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.test-framework": "1.1.31"
+      },
+      "url": "https://packages.unity.com"
+    },
     "com.unity.inputsystem": {
-      "version": "1.8.2",
+      "version": "1.17.0",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -129,6 +165,14 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+    "com.unity.multiplayer.center": {
+      "version": "1.0.1",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.modules.uielements": "1.0.0"
+      }
+    },
     "com.unity.nuget.mono-cecil": {
       "version": "1.11.6",
       "depth": 2,
@@ -136,8 +180,6 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
-feature/UIIntroduction
-
     "com.unity.render-pipelines.core": {
       "version": "17.3.0",
       "depth": 1,
@@ -204,10 +246,9 @@ feature/UIIntroduction
       },
       "url": "https://packages.unity.com"
     },
- develop
     "com.unity.test-framework": {
       "version": "1.6.0",
-      "depth": 2,
+      "depth": 0,
       "source": "builtin",
       "dependencies": {
         "com.unity.ext.nunit": "2.0.3",
@@ -233,6 +274,18 @@ feature/UIIntroduction
         "com.unity.ugui": "2.0.0"
       }
     },
+    "com.unity.timeline": {
+      "version": "1.8.10",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.audio": "1.0.0",
+        "com.unity.modules.director": "1.0.0",
+        "com.unity.modules.animation": "1.0.0",
+        "com.unity.modules.particlesystem": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
     "com.unity.ugui": {
       "version": "2.0.0",
       "depth": 0,
@@ -254,6 +307,15 @@ feature/UIIntroduction
       "source": "builtin",
       "dependencies": {}
     },
+    "com.unity.modules.director": {
+      "version": "1.0.0",
+      "depth": 1,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.modules.audio": "1.0.0",
+        "com.unity.modules.animation": "1.0.0"
+      }
+    },
     "com.unity.modules.hierarchycore": {
       "version": "1.0.0",
       "depth": 2,
@@ -274,7 +336,13 @@ feature/UIIntroduction
     },
     "com.unity.modules.jsonserialize": {
       "version": "1.0.0",
-      "depth": 2,
+      "depth": 1,
+      "source": "builtin",
+      "dependencies": {}
+    },
+    "com.unity.modules.particlesystem": {
+      "version": "1.0.0",
+      "depth": 1,
       "source": "builtin",
       "dependencies": {}
     },
@@ -285,6 +353,12 @@ feature/UIIntroduction
       "dependencies": {}
     },
     "com.unity.modules.physics2d": {
+      "version": "1.0.0",
+      "depth": 2,
+      "source": "builtin",
+      "dependencies": {}
+    },
+    "com.unity.modules.terrain": {
       "version": "1.0.0",
       "depth": 2,
       "source": "builtin",

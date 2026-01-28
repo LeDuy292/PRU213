@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: adcabff8f921fab489fd0c085a020f21
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1913285597709999506
+    second: Flamewreath_run_0
+  - first:
+      213: -2642698482054911793
+    second: Flamewreath_run_1
+  - first:
+      213: -2854861382433356791
+    second: Flamewreath_run_2
+  - first:
+      213: 6098617195824491472
+    second: Flamewreath_run_3
+  - first:
+      213: -3523426100580019978
+    second: Flamewreath_run_4
+  - first:
+      213: 9207707224221505643
+    second: Flamewreath_run_5
+  - first:
+      213: -8294457047249406334
+    second: Flamewreath_run_6
+  - first:
+      213: 5043391589363754920
+    second: Flamewreath_run_7
+  - first:
+      213: 5062181377057522157
+    second: Flamewreath_run_8
+  - first:
+      213: -6249632598909746125
+    second: Flamewreath_run_9
+  - first:
+      213: 850537556742328571
+    second: Flamewreath_run_10
+  - first:
+      213: 2817538927847381996
+    second: Flamewreath_run_11
+  - first:
+      213: -5378210520456908966
+    second: Flamewreath_run_12
+  - first:
+      213: 7403664445730786661
+    second: Flamewreath_run_13
+  - first:
+      213: -2615443788902465262
+    second: Flamewreath_run_14
+  - first:
+      213: 7191522374314676045
+    second: Flamewreath_run_15
+  - first:
+      213: 4524907244369766347
+    second: Flamewreath_run_16
+  - first:
+      213: -1146990217171344240
+    second: Flamewreath_run_17
+  - first:
+      213: 9180433994743556880
+    second: Flamewreath_run_18
+  - first:
+      213: 5215828502072805447
+    second: Flamewreath_run_19
+  - first:
+      213: -5424514542150101237
+    second: Flamewreath_run_20
+  - first:
+      213: -2133736882410704570
+    second: Flamewreath_run_21
+  - first:
+      213: 2181543190127006247
+    second: Flamewreath_run_22
+  - first:
+      213: -7438722580990094391
+    second: Flamewreath_run_23
+  - first:
+      213: -1472391474165034181
+    second: Flamewreath_run_24
+  - first:
+      213: -5539431569413064920
+    second: Flamewreath_run_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flamewreath_run_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 296
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d10653d1b5d8a10800000000000000
+      internalID: 1913285597709999506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_run_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 261
+        width: 53
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc827a07bbf335bd0800000000000000
+      internalID: -2642698482054911793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_run_2
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 296
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9044419c2be7168d0800000000000000
+      internalID: -2854861382433356791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_run_3
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 299
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db253a1704a2a450800000000000000
+      internalID: 6098617195824491472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_run_4
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 289
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0969221a64a1fc0800000000000000
+      internalID: -3523426100580019978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_run_5
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 290
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6855879fe858cf70800000000000000
+      internalID: 9207707224221505643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_run_6
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 287
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286b6fde24b24ec80800000000000000
+      internalID: -8294457047249406334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_run_7
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 288
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a72833fde9bdf540800000000000000
+      internalID: 5043391589363754920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_run_8
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 262
+        width: 54
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de18c10542b704640800000000000000
+      internalID: 5062181377057522157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_run_9
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 262
+        width: 52
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33488456348d449a0800000000000000
+      internalID: -6249632598909746125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_run_10
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 141
+        width: 55
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf051c9c667bdcb00800000000000000
+      internalID: 850537556742328571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_run_11
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 169
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb9d271ab8e91720800000000000000
+      internalID: 2817538927847381996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_run_12
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 170
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5fa5e0d602cc55b0800000000000000
+      internalID: -5378210520456908966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_run_13
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 140
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d09fb46991fb660800000000000000
+      internalID: 7403664445730786661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_run_14
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 169
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21187703bb314bbd0800000000000000
+      internalID: -2615443788902465262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_run_15
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 170
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4fcc434f7b6dc360800000000000000
+      internalID: 7191522374314676045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_run_16
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 139
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7604e2a23bbce30800000000000000
+      internalID: 4524907244369766347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_run_17
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 169
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09467a879721510f0800000000000000
+      internalID: -1146990217171344240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_run_18
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 170
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b2c940414776f70800000000000000
+      internalID: 9180433994743556880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_run_19
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 49
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74848635368526840800000000000000
+      internalID: 5215828502072805447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_run_20
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 50
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07d334a3c048b4b0800000000000000
+      internalID: -5424514542150101237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_run_21
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 58
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641b2c74c917362e0800000000000000
+      internalID: -2133736882410704570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_run_22
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 49
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72251bd19f5664e10800000000000000
+      internalID: 2181543190127006247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_run_23
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 49
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c39861893954c890800000000000000
+      internalID: -7438722580990094391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_run_24
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 21
+        width: 59
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33541c51c3019be0800000000000000
+      internalID: -1472391474165034181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_run_25
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 21
+        width: 60
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827bc87365cff13b0800000000000000
+      internalID: -5539431569413064920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Flamewreath_run_0: 1913285597709999506
+      Flamewreath_run_1: -2642698482054911793
+      Flamewreath_run_10: 850537556742328571
+      Flamewreath_run_11: 2817538927847381996
+      Flamewreath_run_12: -5378210520456908966
+      Flamewreath_run_13: 7403664445730786661
+      Flamewreath_run_14: -2615443788902465262
+      Flamewreath_run_15: 7191522374314676045
+      Flamewreath_run_16: 4524907244369766347
+      Flamewreath_run_17: -1146990217171344240
+      Flamewreath_run_18: 9180433994743556880
+      Flamewreath_run_19: 5215828502072805447
+      Flamewreath_run_2: -2854861382433356791
+      Flamewreath_run_20: -5424514542150101237
+      Flamewreath_run_21: -2133736882410704570
+      Flamewreath_run_22: 2181543190127006247
+      Flamewreath_run_23: -7438722580990094391
+      Flamewreath_run_24: -1472391474165034181
+      Flamewreath_run_25: -5539431569413064920
+      Flamewreath_run_3: 6098617195824491472
+      Flamewreath_run_4: -3523426100580019978
+      Flamewreath_run_5: 9207707224221505643
+      Flamewreath_run_6: -8294457047249406334
+      Flamewreath_run_7: 5043391589363754920
+      Flamewreath_run_8: 5062181377057522157
+      Flamewreath_run_9: -6249632598909746125
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

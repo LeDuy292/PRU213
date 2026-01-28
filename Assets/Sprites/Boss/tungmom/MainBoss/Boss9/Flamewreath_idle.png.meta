@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: a7d5e357610aa224aa376e1384553f5a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8468739792982855182
+    second: Flamewreath_idle_0
+  - first:
+      213: 6947792498925629934
+    second: Flamewreath_idle_1
+  - first:
+      213: 1982752718294608356
+    second: Flamewreath_idle_2
+  - first:
+      213: 2584279057946833341
+    second: Flamewreath_idle_3
+  - first:
+      213: -3663351771638275389
+    second: Flamewreath_idle_4
+  - first:
+      213: -6735841504807606540
+    second: Flamewreath_idle_5
+  - first:
+      213: 1625920111643381341
+    second: Flamewreath_idle_6
+  - first:
+      213: -8214876626346045176
+    second: Flamewreath_idle_7
+  - first:
+      213: -933907505287195205
+    second: Flamewreath_idle_8
+  - first:
+      213: 2865526087025062768
+    second: Flamewreath_idle_9
+  - first:
+      213: 5060219806714873674
+    second: Flamewreath_idle_10
+  - first:
+      213: 3936428292189446727
+    second: Flamewreath_idle_11
+  - first:
+      213: -6036604742309198279
+    second: Flamewreath_idle_12
+  - first:
+      213: -3784654419039675898
+    second: Flamewreath_idle_13
+  - first:
+      213: 3008785349994083852
+    second: Flamewreath_idle_14
+  - first:
+      213: 2998648963727885420
+    second: Flamewreath_idle_15
+  - first:
+      213: 3935638159937852319
+    second: Flamewreath_idle_16
+  - first:
+      213: -4653004767465307879
+    second: Flamewreath_idle_17
+  - first:
+      213: 3909290168383357041
+    second: Flamewreath_idle_18
+  - first:
+      213: 6364408279150499524
+    second: Flamewreath_idle_19
+  - first:
+      213: 8067343054489019351
+    second: Flamewreath_idle_20
+  - first:
+      213: -6158604686348897813
+    second: Flamewreath_idle_21
+  - first:
+      213: 149350665075670964
+    second: Flamewreath_idle_22
+  - first:
+      213: 7638284782141752929
+    second: Flamewreath_idle_23
+  - first:
+      213: 6304486262076481128
+    second: Flamewreath_idle_24
+  - first:
+      213: 7458825948116953459
+    second: Flamewreath_idle_25
+  - first:
+      213: -7828345826192049694
+    second: Flamewreath_idle_26
+  - first:
+      213: 2822679366083367498
+    second: Flamewreath_idle_27
+  - first:
+      213: -7828377955231838396
+    second: Flamewreath_idle_28
+  - first:
+      213: 8704172137532299495
+    second: Flamewreath_idle_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flamewreath_idle_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 376
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e45ffe8f1078570800000000000000
+      internalID: 8468739792982855182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_idle_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 376
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1f59f77748b6060800000000000000
+      internalID: 6947792498925629934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_idle_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 344
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9e36b9717248b10800000000000000
+      internalID: 1982752718294608356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_idle_3
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 375
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1f6617c143dd320800000000000000
+      internalID: 2584279057946833341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_idle_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 386
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2e33419f8292dc0800000000000000
+      internalID: -3663351771638275389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_idle_5
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 375
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f62c92e6db7582a0800000000000000
+      internalID: -6735841504807606540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_idle_6
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 375
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ecaaf1abd609610800000000000000
+      internalID: 1625920111643381341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_idle_7
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 359
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8011cfc8b35eefd80800000000000000
+      internalID: -8214876626346045176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_idle_8
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 345
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5194e62181a03f0800000000000000
+      internalID: -933907505287195205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_idle_9
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 345
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0737ebf3bc464c720800000000000000
+      internalID: 2865526087025062768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_idle_10
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 236
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47c2a0aa13893640800000000000000
+      internalID: 5060219806714873674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_idle_11
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 266
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742efb7fca001a630800000000000000
+      internalID: 3936428292189446727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_idle_12
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 266
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936c83d58fba93ca0800000000000000
+      internalID: -6036604742309198279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_idle_13
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 236
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a178b9bd43a7bc0800000000000000
+      internalID: -3784654419039675898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_idle_14
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 238
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06fbc7a55a51c920800000000000000
+      internalID: 3008785349994083852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_idle_15
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 268
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64081158575d9920800000000000000
+      internalID: 2998648963727885420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_idle_16
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 268
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f935197fd023e9630800000000000000
+      internalID: 3935638159937852319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_idle_17
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 240
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911080111d43d6fb0800000000000000
+      internalID: -4653004767465307879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_idle_18
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 128
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170ca6222b6904630800000000000000
+      internalID: 3909290168383357041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_idle_19
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 158
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6125c1c9be25850800000000000000
+      internalID: 6364408279150499524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_idle_20
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 158
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d36804f3c5f4ff60800000000000000
+      internalID: 8067343054489019351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_idle_21
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be13e1edaad388aa0800000000000000
+      internalID: -6158604686348897813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_idle_22
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 158
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bfbdca73a9921200800000000000000
+      internalID: 149350665075670964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_idle_23
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 158
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166c4dc3a83a00a60800000000000000
+      internalID: 7638284782141752929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_idle_24
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 128
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e166e4ad80e7750800000000000000
+      internalID: 6304486262076481128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_idle_25
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 158
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3792af66ea2138760800000000000000
+      internalID: 7458825948116953459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_idle_26
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 158
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e939ea82f02c5390800000000000000
+      internalID: -7828345826192049694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_idle_27
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 16
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a425932adeb2c2720800000000000000
+      internalID: 2822679366083367498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_idle_28
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 47
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f48eae9b30c5390800000000000000
+      internalID: -7828377955231838396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_idle_29
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 47
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e81771417e6bc870800000000000000
+      internalID: 8704172137532299495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Flamewreath_idle_0: 8468739792982855182
+      Flamewreath_idle_1: 6947792498925629934
+      Flamewreath_idle_10: 5060219806714873674
+      Flamewreath_idle_11: 3936428292189446727
+      Flamewreath_idle_12: -6036604742309198279
+      Flamewreath_idle_13: -3784654419039675898
+      Flamewreath_idle_14: 3008785349994083852
+      Flamewreath_idle_15: 2998648963727885420
+      Flamewreath_idle_16: 3935638159937852319
+      Flamewreath_idle_17: -4653004767465307879
+      Flamewreath_idle_18: 3909290168383357041
+      Flamewreath_idle_19: 6364408279150499524
+      Flamewreath_idle_2: 1982752718294608356
+      Flamewreath_idle_20: 8067343054489019351
+      Flamewreath_idle_21: -6158604686348897813
+      Flamewreath_idle_22: 149350665075670964
+      Flamewreath_idle_23: 7638284782141752929
+      Flamewreath_idle_24: 6304486262076481128
+      Flamewreath_idle_25: 7458825948116953459
+      Flamewreath_idle_26: -7828345826192049694
+      Flamewreath_idle_27: 2822679366083367498
+      Flamewreath_idle_28: -7828377955231838396
+      Flamewreath_idle_29: 8704172137532299495
+      Flamewreath_idle_3: 2584279057946833341
+      Flamewreath_idle_4: -3663351771638275389
+      Flamewreath_idle_5: -6735841504807606540
+      Flamewreath_idle_6: 1625920111643381341
+      Flamewreath_idle_7: -8214876626346045176
+      Flamewreath_idle_8: -933907505287195205
+      Flamewreath_idle_9: 2865526087025062768
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

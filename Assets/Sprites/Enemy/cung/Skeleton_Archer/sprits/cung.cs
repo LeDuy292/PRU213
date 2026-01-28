@@ -3,23 +3,30 @@ using System.Collections;
 
 public class Cung : MonoBehaviour
 {
+    // ================== PATROL ==================
+
     [Header("Patrol")]
     public float patrolSpeed = 2f;
-    public float patrolDistance = 3f;     // đi tuần rộng hơn
+    public float patrolDistance = 3f;
     public float idleTimeAtEdge = 1.5f;
 
-    [Header("Archer")]
-    public float shootRange = 14f;         // bắn xa
+    // ================== ARCHER ==================
 
+    [Header("Archer")]
+    public float shootRange = 14f;
     public float shootCooldown = 1.8f;
-    public float arrowSpeed = 10f;         // Tốc độ bay của tên
+    public float arrowSpeed = 10f;
     public float pauseAfterLostTime = 1f;
 
+    // ================== ENVIRONMENT ==================
+
     [Header("Environment")]
-    public float checkAhead = 1f;      // Khoảng cách check phía trước
-    public float checkDown = 1f;       // Khoảng cách check xuống dưới
+    public float checkAhead = 1f;
+    public float checkDown = 1f;
     public GameObject arrowPrefab;
     public Transform shootPoint;
+
+    // ================== BIẾN NỘI BỘ ==================
 
     private Vector2 startPos;
     private int direction = 1;
@@ -35,9 +42,12 @@ public class Cung : MonoBehaviour
     void Start()
     {
         startPos = transform.position;
+
         anim = GetComponent<Animator>();
 
+        // Tìm GameObject có Tag = Player
         GameObject p = GameObject.FindGameObjectWithTag("Player");
+
         if (p != null)
         {
             player = p.transform;
@@ -53,14 +63,18 @@ public class Cung : MonoBehaviour
     {
         if (player == null) return;
 
-        // Nếu player đã chết thì ngừng tấn công, chỉ patrol
+        // Nếu player đã chết
         if (playerHealth != null && playerHealth.IsDead)
         {
             Patrol();
             return;
         }
 
-        float dist = Vector2.Distance(transform.position, player.position);
+        // Tính khoảng cách từ enemy tới player
+        float dist = Vector2.Distance(
+            transform.position,
+            player.position
+        );
 
         // ===== PLAYER TRONG TẦM BẮN =====
         if (dist <= shootRange)
@@ -76,11 +90,7 @@ public class Cung : MonoBehaviour
             return;
         }
 
-        // ===== PLAYER RA KHỎI TẦM =====
-        // Nếu không bắn nữa thì đi tuần
-        Patrol();
-
-        // ===== PATROL =====
+        // ===== KHÔNG THẤY PLAYER =====
         Patrol();
     }
 
@@ -89,36 +99,51 @@ public class Cung : MonoBehaviour
     {
         if (isWaiting) return;
 
-        // --- KIỂM TRA VỰC THẲM (GROUND CHECK) ---
-        // Vị trí bắt đầu bắn tia Ray (ngay trước mặt theo hưởng di chuyển)
+        // Tạo điểm bắn ray phía trước mặt
         Vector2 checkPos = transform.position;
         checkPos.x += direction * checkAhead;
 
-        // Bắn tia Ray xuống dưới để check mặt đất
-        RaycastHit2D hit = Physics2D.Raycast(checkPos, Vector2.down, checkDown);
-        Debug.DrawRay(checkPos, Vector2.down * checkDown, Color.green);
+        // Bắn ray xuống dưới để kiểm tra có đất không
+        RaycastHit2D hit = Physics2D.Raycast(
+            checkPos,
+            Vector2.down,
+            checkDown
+        );
 
-        // Nếu KHÔNG chạm gì (collider == null) => Là vực thẳm
+        Debug.DrawRay(
+            checkPos,
+            Vector2.down * checkDown,
+            Color.green
+        );
+
         if (hit.collider == null)
         {
             StartCoroutine(IdleAndTurn());
             return;
         }
 
-        // =======================================
-
         anim.SetBool("iswalk", true);
 
-        transform.Translate(Vector2.right * direction * patrolSpeed * Time.deltaTime, Space.World);
+        // Di chuyển enemy theo hướng hiện tại
+        transform.Translate(
+            Vector2.right * direction * patrolSpeed * Time.deltaTime,
+            Space.World
+        );
+
+        // Lật sprite theo hướng
         transform.localScale = new Vector3(direction, 1, 1);
 
-        // Chỉ quay đầu nếu đi quá giới hạn VÀ đang đi ra xa
-        if (direction > 0 && transform.position.x >= startPos.x + patrolDistance)
+        // Nếu vượt quá giới hạn tuần tra
+        if (direction > 0 &&
+            transform.position.x >= startPos.x + patrolDistance)
             StartCoroutine(IdleAndTurn());
-        else if (direction < 0 && transform.position.x <= startPos.x - patrolDistance)
+
+        else if (direction < 0 &&
+                 transform.position.x <= startPos.x - patrolDistance)
             StartCoroutine(IdleAndTurn());
     }
 
+    // ================== DỪNG & QUAY ĐẦU ==================
     IEnumerator IdleAndTurn()
     {
         isWaiting = true;
@@ -130,16 +155,16 @@ public class Cung : MonoBehaviour
         isWaiting = false;
     }
 
-    // ================== QUAY MẶT ==================
+    // ================== QUAY MẶT VỀ PLAYER ==================
     void FacePlayer()
     {
-        float dir = Mathf.Sign(player.position.x - transform.position.x);
+        float dir = Mathf.Sign(
+            player.position.x - transform.position.x
+        );                                  // Xác định player ở trái hay phải
+
         if (dir != 0)
             transform.localScale = new Vector3(dir, 1, 1);
     }
-
-    // ================== PAUSE AFTER LOST ==================
-
 
     // ================== SHOOT ==================
     IEnumerator Shoot()
@@ -150,12 +175,15 @@ public class Cung : MonoBehaviour
 
         yield return new WaitForSeconds(0.3f);
 
-        if (arrowPrefab != null && shootPoint != null)
+        if (arrowPrefab != null &&
+            shootPoint != null)
         {
-            float dir = Mathf.Sign(transform.localScale.x);
-            
-            // Xoay mũi tên theo hướng bắn (Quay trái thì xoay 180 độ)
-            Quaternion rotation = (dir > 0) ? Quaternion.identity : Quaternion.Euler(0, 0, 180);
+            float dir = Mathf.Sign(transform.localScale.x); // Hướng bắn
+
+            Quaternion rotation =
+                (dir > 0)
+                ? Quaternion.identity
+                : Quaternion.Euler(0, 0, 180); // Quay mũi tên
 
             GameObject arrow = Instantiate(
                 arrowPrefab,
@@ -163,22 +191,26 @@ public class Cung : MonoBehaviour
                 rotation
             );
 
-            // Gán vận tốc bay cho mũi tên
-            Rigidbody2D rbArrow = arrow.GetComponent<Rigidbody2D>();
+            Rigidbody2D rbArrow =
+                arrow.GetComponent<Rigidbody2D>();
+
             if (rbArrow != null)
             {
-                // Bay theo hướng trục phải (đỏ) của mũi tên
-                rbArrow.linearVelocity = arrow.transform.right * arrowSpeed;
+                rbArrow.linearVelocity =
+                    arrow.transform.right * arrowSpeed;
             }
         }
 
         yield return new WaitForSeconds(shootCooldown);
         isShooting = false;
     }
-
+    // ================== VẼ TẦM BẮN ==================
     void OnDrawGizmosSelected()
     {
-        Gizmos.color = Color.red;
-        Gizmos.DrawWireSphere(transform.position, shootRange);
+        Gizmos.color = Color.red;           // Màu đỏ
+        Gizmos.DrawWireSphere(
+            transform.position,
+            shootRange
+        );                                  // Vẽ vòng tầm bắn
     }
 }

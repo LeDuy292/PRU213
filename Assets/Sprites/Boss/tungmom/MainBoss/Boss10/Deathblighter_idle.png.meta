@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 22735c4742019a943a970ee6d4ab7186
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5010271150312276528
+    second: Deathblighter_idle_0
+  - first:
+      213: 5036586594272806643
+    second: Deathblighter_idle_1
+  - first:
+      213: -7503560445599319674
+    second: Deathblighter_idle_2
+  - first:
+      213: -8263090073077275529
+    second: Deathblighter_idle_3
+  - first:
+      213: 4625154021451811894
+    second: Deathblighter_idle_4
+  - first:
+      213: 3184578864047218165
+    second: Deathblighter_idle_5
+  - first:
+      213: -4324810496482973877
+    second: Deathblighter_idle_6
+  - first:
+      213: 2036631544415491933
+    second: Deathblighter_idle_7
+  - first:
+      213: 6739290410963341686
+    second: Deathblighter_idle_8
+  - first:
+      213: 9160268056248523030
+    second: Deathblighter_idle_9
+  - first:
+      213: 5808369422174584858
+    second: Deathblighter_idle_10
+  - first:
+      213: 603474934693986102
+    second: Deathblighter_idle_11
+  - first:
+      213: 8603834393202749691
+    second: Deathblighter_idle_12
+  - first:
+      213: -5956602216592087764
+    second: Deathblighter_idle_13
+  - first:
+      213: 2331520936399040717
+    second: Deathblighter_idle_14
+  - first:
+      213: 8731516226903524389
+    second: Deathblighter_idle_15
+  - first:
+      213: 3814421229926629717
+    second: Deathblighter_idle_16
+  - first:
+      213: -8023059836473530647
+    second: Deathblighter_idle_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Deathblighter_idle_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 314
+        width: 68
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ddbf313fe0f77ab0800000000000000
+      internalID: -5010271150312276528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_idle_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 314
+        width: 68
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6002092dc85e540800000000000000
+      internalID: 5036586594272806643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_idle_2
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 314
+        width: 59
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6897161c78ffdd790800000000000000
+      internalID: -7503560445599319674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_idle_3
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 314
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7742c27bb5b935d80800000000000000
+      internalID: -8263090073077275529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_idle_4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 214
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63cca10d319df2040800000000000000
+      internalID: 4625154021451811894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_idle_5
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 214
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd50ceaa95e13c20800000000000000
+      internalID: 3184578864047218165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_idle_6
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 214
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47604c64cf2bf3c0800000000000000
+      internalID: -4324810496482973877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_idle_7
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 214
+        width: 67
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d579d3f5991934c10800000000000000
+      internalID: 2036631544415491933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_idle_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 114
+        width: 69
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6719aa72ce4c68d50800000000000000
+      internalID: 6739290410963341686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_idle_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 148
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6191d04934fcf1f70800000000000000
+      internalID: 9160268056248523030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_idle_10
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 114
+        width: 70
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1005f427397b9050800000000000000
+      internalID: 5808369422174584858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_idle_11
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 148
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f79497149ff5800800000000000000
+      internalID: 603474934693986102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_idle_12
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 114
+        width: 70
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf07329abc5f66770800000000000000
+      internalID: 8603834393202749691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_idle_13
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 148
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2569bbe7d5e55da0800000000000000
+      internalID: -5956602216592087764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_idle_14
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 114
+        width: 70
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0737050f93b5020800000000000000
+      internalID: 2331520936399040717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_idle_15
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 148
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524c42f2fb39c2970800000000000000
+      internalID: 8731516226903524389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_idle_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 14
+        width: 70
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5514c7126eb8fe430800000000000000
+      internalID: 3814421229926629717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_idle_17
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 14
+        width: 70
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6aa43369d58a090800000000000000
+      internalID: -8023059836473530647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Deathblighter_idle_0: -5010271150312276528
+      Deathblighter_idle_1: 5036586594272806643
+      Deathblighter_idle_10: 5808369422174584858
+      Deathblighter_idle_11: 603474934693986102
+      Deathblighter_idle_12: 8603834393202749691
+      Deathblighter_idle_13: -5956602216592087764
+      Deathblighter_idle_14: 2331520936399040717
+      Deathblighter_idle_15: 8731516226903524389
+      Deathblighter_idle_16: 3814421229926629717
+      Deathblighter_idle_17: -8023059836473530647
+      Deathblighter_idle_2: -7503560445599319674
+      Deathblighter_idle_3: -8263090073077275529
+      Deathblighter_idle_4: 4625154021451811894
+      Deathblighter_idle_5: 3184578864047218165
+      Deathblighter_idle_6: -4324810496482973877
+      Deathblighter_idle_7: 2036631544415491933
+      Deathblighter_idle_8: 6739290410963341686
+      Deathblighter_idle_9: 9160268056248523030
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1287 @@
+fileFormatVersion: 2
+guid: f520a028fa3822b409a57af9bbce3ab6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9009609112728371112
+    second: Flamewreath_death_0
+  - first:
+      213: 512031470080638140
+    second: Flamewreath_death_1
+  - first:
+      213: 3279671368099713619
+    second: Flamewreath_death_2
+  - first:
+      213: -9119844775045160317
+    second: Flamewreath_death_3
+  - first:
+      213: -1246142370674495470
+    second: Flamewreath_death_4
+  - first:
+      213: -985620054169579044
+    second: Flamewreath_death_5
+  - first:
+      213: 745945429072069745
+    second: Flamewreath_death_6
+  - first:
+      213: -2195465522148384706
+    second: Flamewreath_death_7
+  - first:
+      213: -6927402290721284168
+    second: Flamewreath_death_8
+  - first:
+      213: 244775777556743030
+    second: Flamewreath_death_9
+  - first:
+      213: -7813371659666538204
+    second: Flamewreath_death_10
+  - first:
+      213: 6188220997201675727
+    second: Flamewreath_death_11
+  - first:
+      213: 1139352089149486206
+    second: Flamewreath_death_12
+  - first:
+      213: -1302427588901749127
+    second: Flamewreath_death_13
+  - first:
+      213: -1323676265645360497
+    second: Flamewreath_death_14
+  - first:
+      213: -5390134843175334237
+    second: Flamewreath_death_15
+  - first:
+      213: 8152677501047075059
+    second: Flamewreath_death_16
+  - first:
+      213: -2486113446159399726
+    second: Flamewreath_death_17
+  - first:
+      213: 8445506101053384635
+    second: Flamewreath_death_18
+  - first:
+      213: -2099325058836094667
+    second: Flamewreath_death_19
+  - first:
+      213: 2358744853207581236
+    second: Flamewreath_death_20
+  - first:
+      213: -2158716267238925321
+    second: Flamewreath_death_21
+  - first:
+      213: 6244939959387539261
+    second: Flamewreath_death_22
+  - first:
+      213: 6718648872316164951
+    second: Flamewreath_death_23
+  - first:
+      213: 2637548881119369453
+    second: Flamewreath_death_24
+  - first:
+      213: -8991924989255583129
+    second: Flamewreath_death_25
+  - first:
+      213: -6729689662437215120
+    second: Flamewreath_death_26
+  - first:
+      213: 6368776295096200697
+    second: Flamewreath_death_27
+  - first:
+      213: 2521047787126978718
+    second: Flamewreath_death_28
+  - first:
+      213: -5102165603960255346
+    second: Flamewreath_death_29
+  - first:
+      213: -7379062044144311467
+    second: Flamewreath_death_30
+  - first:
+      213: 6497757747441547540
+    second: Flamewreath_death_31
+  - first:
+      213: 7992697707337524405
+    second: Flamewreath_death_32
+  - first:
+      213: 6602063363787092315
+    second: Flamewreath_death_33
+  - first:
+      213: 8445266347886278758
+    second: Flamewreath_death_34
+  - first:
+      213: -2699151385006189372
+    second: Flamewreath_death_35
+  - first:
+      213: 8680945161651857027
+    second: Flamewreath_death_36
+  - first:
+      213: 242872111985746450
+    second: Flamewreath_death_37
+  - first:
+      213: 5597550479665426029
+    second: Flamewreath_death_38
+  - first:
+      213: -1543156118444149295
+    second: Flamewreath_death_39
+  - first:
+      213: 5490450717481117705
+    second: Flamewreath_death_40
+  - first:
+      213: -5131304040878996079
+    second: Flamewreath_death_41
+  - first:
+      213: 590884576506742498
+    second: Flamewreath_death_42
+  - first:
+      213: 8564439403052117087
+    second: Flamewreath_death_43
+  - first:
+      213: -2387504042677291045
+    second: Flamewreath_death_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flamewreath_death_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 516
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85004b63f3077f280800000000000000
+      internalID: -9009609112728371112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_death_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 526
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc3affb8e91b1700800000000000000
+      internalID: 512031470080638140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_death_2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 500
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3525a9b9bbbb38d20800000000000000
+      internalID: 3279671368099713619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_death_3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 530
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3822bb00f7dcf6180800000000000000
+      internalID: -9119844775045160317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_death_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 530
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2103260cd10d4bee0800000000000000
+      internalID: -1246142370674495470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_death_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 500
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd198b368cf5252f0800000000000000
+      internalID: -985620054169579044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_death_6
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 529
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174caa16a612a5a00800000000000000
+      internalID: 745945429072069745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_death_7
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 530
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e306abb5db32881e0800000000000000
+      internalID: -2195465522148384706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_death_8
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 498
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf945dc15cecdf90800000000000000
+      internalID: -6927402290721284168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_death_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 529
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673c3e6d54e956300800000000000000
+      internalID: 244775777556743030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_death_10
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 530
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421c87f5fd3519390800000000000000
+      internalID: -7813371659666538204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_death_11
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 497
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5c1d9d53af0e550800000000000000
+      internalID: 6188220997201675727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_death_12
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 497
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74bad340bacfcf00800000000000000
+      internalID: 1139352089149486206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_death_13
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 513
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97eb7d92209dcede0800000000000000
+      internalID: -1302427588901749127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_death_14
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 380
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ab794137b51ade0800000000000000
+      internalID: -1323676265645360497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_death_15
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 376
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae04151be46235b0800000000000000
+      internalID: -5390134843175334237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_death_16
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 417
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0fa321ef0242170800000000000000
+      internalID: 8152677501047075059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_death_17
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 419
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4c8522efc8f7dd0800000000000000
+      internalID: -2486113446159399726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_death_18
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 417
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb76ead7d07743570800000000000000
+      internalID: 8445506101053384635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_death_19
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 376
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531afff4bf2bdd2e0800000000000000
+      internalID: -2099325058836094667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_death_20
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 421
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432083362f1fbb020800000000000000
+      internalID: 2358744853207581236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_death_21
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 417
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fbdd580ef2ba02e0800000000000000
+      internalID: -2158716267238925321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_death_22
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 376
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37cfe25ecb7aa650800000000000000
+      internalID: 6244939959387539261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_death_23
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 417
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75bdbfc6d8f6d3d50800000000000000
+      internalID: 6718648872316164951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_death_24
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 418
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de859d8abb47a9420800000000000000
+      internalID: 2637548881119369453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_death_25
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 417
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a76701dd3463380800000000000000
+      internalID: -8991924989255583129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_death_26
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 376
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 074bfcd48e65b92a0800000000000000
+      internalID: -6729689662437215120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_death_27
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 417
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd23231c40726850800000000000000
+      internalID: 6368776295096200697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_death_28
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 418
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98fc75fa9f8cf220800000000000000
+      internalID: 2521047787126978718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_death_29
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 417
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c8bb66a677139b0800000000000000
+      internalID: -5102165603960255346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_death_30
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 377
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553e533ba2e489990800000000000000
+      internalID: -7379062044144311467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_death_31
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 256
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419bbc4ae3cac2a50800000000000000
+      internalID: 6497757747441547540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_death_32
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 297
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4aeeab734cbee60800000000000000
+      internalID: 7992697707337524405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_death_33
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 298
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51762f66ad3f9b50800000000000000
+      internalID: 6602063363787092315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_death_34
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 297
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668725b9ffc933570800000000000000
+      internalID: 8445266347886278758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_death_35
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 258
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4d3b5bd10ba8ad0800000000000000
+      internalID: -2699151385006189372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_death_36
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 260
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386a7e281a9e87870800000000000000
+      internalID: 8680945161651857027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_death_37
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 258
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21262c826eade5300800000000000000
+      internalID: 242872111985746450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_death_38
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 260
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e66c0118e7ead40800000000000000
+      internalID: 5597550479665426029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_death_39
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 139
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d57a2fafab959ae0800000000000000
+      internalID: -1543156118444149295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_death_40
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 134
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908204086dff13c40800000000000000
+      internalID: 5490450717481117705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_death_41
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 134
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19581e06922f9c8b0800000000000000
+      internalID: -5131304040878996079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_death_42
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 134
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e601f5446e333800800000000000000
+      internalID: 590884576506742498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_death_43
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 134
+        width: 50
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ca74fb2400bd670800000000000000
+      internalID: 8564439403052117087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_death_44
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 14
+        width: 50
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7396409b1edded0800000000000000
+      internalID: -2387504042677291045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Flamewreath_death_0: -9009609112728371112
+      Flamewreath_death_1: 512031470080638140
+      Flamewreath_death_10: -7813371659666538204
+      Flamewreath_death_11: 6188220997201675727
+      Flamewreath_death_12: 1139352089149486206
+      Flamewreath_death_13: -1302427588901749127
+      Flamewreath_death_14: -1323676265645360497
+      Flamewreath_death_15: -5390134843175334237
+      Flamewreath_death_16: 8152677501047075059
+      Flamewreath_death_17: -2486113446159399726
+      Flamewreath_death_18: 8445506101053384635
+      Flamewreath_death_19: -2099325058836094667
+      Flamewreath_death_2: 3279671368099713619
+      Flamewreath_death_20: 2358744853207581236
+      Flamewreath_death_21: -2158716267238925321
+      Flamewreath_death_22: 6244939959387539261
+      Flamewreath_death_23: 6718648872316164951
+      Flamewreath_death_24: 2637548881119369453
+      Flamewreath_death_25: -8991924989255583129
+      Flamewreath_death_26: -6729689662437215120
+      Flamewreath_death_27: 6368776295096200697
+      Flamewreath_death_28: 2521047787126978718
+      Flamewreath_death_29: -5102165603960255346
+      Flamewreath_death_3: -9119844775045160317
+      Flamewreath_death_30: -7379062044144311467
+      Flamewreath_death_31: 6497757747441547540
+      Flamewreath_death_32: 7992697707337524405
+      Flamewreath_death_33: 6602063363787092315
+      Flamewreath_death_34: 8445266347886278758
+      Flamewreath_death_35: -2699151385006189372
+      Flamewreath_death_36: 8680945161651857027
+      Flamewreath_death_37: 242872111985746450
+      Flamewreath_death_38: 5597550479665426029
+      Flamewreath_death_39: -1543156118444149295
+      Flamewreath_death_4: -1246142370674495470
+      Flamewreath_death_40: 5490450717481117705
+      Flamewreath_death_41: -5131304040878996079
+      Flamewreath_death_42: 590884576506742498
+      Flamewreath_death_43: 8564439403052117087
+      Flamewreath_death_44: -2387504042677291045
+      Flamewreath_death_5: -985620054169579044
+      Flamewreath_death_6: 745945429072069745
+      Flamewreath_death_7: -2195465522148384706
+      Flamewreath_death_8: -6927402290721284168
+      Flamewreath_death_9: 244775777556743030
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

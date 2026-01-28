@@ -1,0 +1,2145 @@
+fileFormatVersion: 2
+guid: b76ba81ed08ba844682255bcf09d090e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3311588654680817884
+    second: Deathblighter_attack_0
+  - first:
+      213: -9090996669174299758
+    second: Deathblighter_attack_1
+  - first:
+      213: -3628084315494734776
+    second: Deathblighter_attack_2
+  - first:
+      213: -491983834396397257
+    second: Deathblighter_attack_3
+  - first:
+      213: -7704411060595455858
+    second: Deathblighter_attack_4
+  - first:
+      213: 7235671486761930513
+    second: Deathblighter_attack_5
+  - first:
+      213: -3960943959204483461
+    second: Deathblighter_attack_6
+  - first:
+      213: 1397881843748878551
+    second: Deathblighter_attack_7
+  - first:
+      213: -5801785841895246203
+    second: Deathblighter_attack_8
+  - first:
+      213: -8831317207379003292
+    second: Deathblighter_attack_9
+  - first:
+      213: -1041905049458688643
+    second: Deathblighter_attack_10
+  - first:
+      213: 2925835410101754135
+    second: Deathblighter_attack_11
+  - first:
+      213: 4217701163279163946
+    second: Deathblighter_attack_12
+  - first:
+      213: 8384750578446704151
+    second: Deathblighter_attack_13
+  - first:
+      213: -7376753883101284543
+    second: Deathblighter_attack_14
+  - first:
+      213: 3514247270033926728
+    second: Deathblighter_attack_15
+  - first:
+      213: -3333186156650319198
+    second: Deathblighter_attack_16
+  - first:
+      213: 5785227974729624076
+    second: Deathblighter_attack_17
+  - first:
+      213: 4376797814554224587
+    second: Deathblighter_attack_18
+  - first:
+      213: -1260772916756714278
+    second: Deathblighter_attack_19
+  - first:
+      213: 701034527697256274
+    second: Deathblighter_attack_20
+  - first:
+      213: 2500615407126795445
+    second: Deathblighter_attack_21
+  - first:
+      213: -1892093485923120066
+    second: Deathblighter_attack_22
+  - first:
+      213: 8803874219139416551
+    second: Deathblighter_attack_23
+  - first:
+      213: -7415362375409852370
+    second: Deathblighter_attack_24
+  - first:
+      213: 6320945862235413100
+    second: Deathblighter_attack_25
+  - first:
+      213: 759254581851406911
+    second: Deathblighter_attack_26
+  - first:
+      213: 3652169082459127151
+    second: Deathblighter_attack_27
+  - first:
+      213: -7617597199859104545
+    second: Deathblighter_attack_28
+  - first:
+      213: 1096756911307278923
+    second: Deathblighter_attack_29
+  - first:
+      213: 5104502328388058752
+    second: Deathblighter_attack_30
+  - first:
+      213: 1281033490284061496
+    second: Deathblighter_attack_31
+  - first:
+      213: 8647162162534718710
+    second: Deathblighter_attack_32
+  - first:
+      213: 5557645528110345924
+    second: Deathblighter_attack_33
+  - first:
+      213: -1024919758868345180
+    second: Deathblighter_attack_34
+  - first:
+      213: 7285304479455930039
+    second: Deathblighter_attack_35
+  - first:
+      213: -5334424030194050112
+    second: Deathblighter_attack_36
+  - first:
+      213: -5927369432851774926
+    second: Deathblighter_attack_37
+  - first:
+      213: 8338009991513053756
+    second: Deathblighter_attack_38
+  - first:
+      213: -8926452756809057414
+    second: Deathblighter_attack_39
+  - first:
+      213: -8818316190577743848
+    second: Deathblighter_attack_40
+  - first:
+      213: 5886307211831954802
+    second: Deathblighter_attack_41
+  - first:
+      213: -2433537158791012008
+    second: Deathblighter_attack_42
+  - first:
+      213: -590571447000019430
+    second: Deathblighter_attack_43
+  - first:
+      213: -3364893166126422795
+    second: Deathblighter_attack_44
+  - first:
+      213: -3440092729748966347
+    second: Deathblighter_attack_45
+  - first:
+      213: 5186568884767276223
+    second: Deathblighter_attack_46
+  - first:
+      213: 4264862790473316896
+    second: Deathblighter_attack_47
+  - first:
+      213: -4252485396052053093
+    second: Deathblighter_attack_48
+  - first:
+      213: 9219624947504502696
+    second: Deathblighter_attack_49
+  - first:
+      213: 4803895232256780612
+    second: Deathblighter_attack_50
+  - first:
+      213: 3390735622028279601
+    second: Deathblighter_attack_51
+  - first:
+      213: 2954200504420789716
+    second: Deathblighter_attack_52
+  - first:
+      213: 8166051345552972219
+    second: Deathblighter_attack_53
+  - first:
+      213: 5845309730299949098
+    second: Deathblighter_attack_54
+  - first:
+      213: 6671387301224683532
+    second: Deathblighter_attack_55
+  - first:
+      213: -2321402222108458156
+    second: Deathblighter_attack_56
+  - first:
+      213: -4908090005226074964
+    second: Deathblighter_attack_57
+  - first:
+      213: 933709347486251763
+    second: Deathblighter_attack_58
+  - first:
+      213: 5440657038865582344
+    second: Deathblighter_attack_59
+  - first:
+      213: 5115111593785395081
+    second: Deathblighter_attack_60
+  - first:
+      213: 521828676686153854
+    second: Deathblighter_attack_61
+  - first:
+      213: 4824493041798574907
+    second: Deathblighter_attack_62
+  - first:
+      213: -7744149239695817187
+    second: Deathblighter_attack_63
+  - first:
+      213: 7999732488352295519
+    second: Deathblighter_attack_64
+  - first:
+      213: -244584994791625113
+    second: Deathblighter_attack_65
+  - first:
+      213: 2057599845891492068
+    second: Deathblighter_attack_66
+  - first:
+      213: 6994425190478359591
+    second: Deathblighter_attack_67
+  - first:
+      213: 7143470118827658850
+    second: Deathblighter_attack_68
+  - first:
+      213: -4152272707263843826
+    second: Deathblighter_attack_69
+  - first:
+      213: -194386467498066559
+    second: Deathblighter_attack_70
+  - first:
+      213: 102677130485871975
+    second: Deathblighter_attack_71
+  - first:
+      213: 1837250894328147847
+    second: Deathblighter_attack_72
+  - first:
+      213: -168245429749287280
+    second: Deathblighter_attack_73
+  - first:
+      213: -7155165978989357157
+    second: Deathblighter_attack_74
+  - first:
+      213: -6658766401965202795
+    second: Deathblighter_attack_75
+  - first:
+      213: -7369065761448565890
+    second: Deathblighter_attack_76
+  - first:
+      213: -1506173687115412447
+    second: Deathblighter_attack_77
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Deathblighter_attack_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 414
+        width: 68
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0c67cf55025fd20800000000000000
+      internalID: 3311588654680817884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 414
+        width: 68
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2934b9f02ba46d180800000000000000
+      internalID: -9090996669174299758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_2
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 414
+        width: 59
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84425c7998476adc0800000000000000
+      internalID: -3628084315494734776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_3
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 414
+        width: 59
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731719b2f4f1c29f0800000000000000
+      internalID: -491983834396397257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_4
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 314
+        width: 56
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e880e99c5fe641590800000000000000
+      internalID: -7704411060595455858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_5
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 314
+        width: 57
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f0ed781e44a6460800000000000000
+      internalID: 7235671486761930513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_6
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 314
+        width: 57
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e23608476e709c0800000000000000
+      internalID: -3960943959204483461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_7
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 314
+        width: 64
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8be9e6126466310800000000000000
+      internalID: 1397881843748878551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 212
+        width: 68
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58671f6148aeb7fa0800000000000000
+      internalID: -5801785841895246203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_9
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 205
+        width: 75
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468316b4acbd07580800000000000000
+      internalID: -8831317207379003292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_10
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 251
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d3455b0e86a81f0800000000000000
+      internalID: -1041905049458688643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_11
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 251
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719df52cdc7aa9820800000000000000
+      internalID: 2925835410101754135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_12
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 260
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22a1069cd8488a30800000000000000
+      internalID: 4217701163279163946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_13
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 245
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e119e0a3e9c5470800000000000000
+      internalID: 8384750578446704151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_14
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 254
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147b3425d6180a990800000000000000
+      internalID: -7376753883101284543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_15
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 253
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a2247d54d15c030800000000000000
+      internalID: 3514247270033926728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_16
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 248
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2bb9ab9d42eb1d0800000000000000
+      internalID: -3333186156650319198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_17
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 153
+        width: 92
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a696a0132494050800000000000000
+      internalID: 5785227974729624076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_18
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 250
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7e53e4c628dbc30800000000000000
+      internalID: 4376797814554224587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_19
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 247
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc684a46b5d08ee0800000000000000
+      internalID: -1260772916756714278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_20
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 178
+        width: 81
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25fbdae40339ab900800000000000000
+      internalID: 701034527697256274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_21
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 199
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b459a5c678f3b220800000000000000
+      internalID: 2500615407126795445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_22
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 199
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3cc8b1dffeedb5e0800000000000000
+      internalID: -1892093485923120066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_23
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 169
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1460715f4ad2a70800000000000000
+      internalID: 8803874219139416551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_24
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 155
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2026e43537571990800000000000000
+      internalID: -7415362375409852370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_25
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 175
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a540b95c288b750800000000000000
+      internalID: 6320945862235413100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_26
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 169
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32475df40a698a00800000000000000
+      internalID: 759254581851406911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_27
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 174
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6df3a33e6c1fa230800000000000000
+      internalID: 3652169082459127151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_28
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 175
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4436cd4bbd84690800000000000000
+      internalID: -7617597199859104545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_29
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 178
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4acc679996783f00800000000000000
+      internalID: 1096756911307278923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_30
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 173
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e79b6a2d5d6d640800000000000000
+      internalID: 5104502328388058752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_31
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 187
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833a2c51c2527c110800000000000000
+      internalID: 1281033490284061496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_32
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 173
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc94151c24e00870800000000000000
+      internalID: 8647162162534718710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_33
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 164
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce2e828929b02d40800000000000000
+      internalID: 5557645528110345924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 158
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae8f59d8e0c6c1f0800000000000000
+      internalID: -1024919758868345180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_35
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 157
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6688a23d99a1560800000000000000
+      internalID: 7285304479455930039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_36
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 172
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cbd9f68b9158f5b0800000000000000
+      internalID: -5334424030194050112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_37
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 162
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2328c56c7e0cdbda0800000000000000
+      internalID: -5927369432851774926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_38
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 172
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a1bcd19ef86b370800000000000000
+      internalID: 8338009991513053756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_39
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 163
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7bf616138ede1480800000000000000
+      internalID: -8926452756809057414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_40
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 142
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818a987652c0f9580800000000000000
+      internalID: -8818316190577743848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_41
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 151
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d4010e83d50b150800000000000000
+      internalID: 5886307211831954802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_42
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 151
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8516c86f8d65a3ed0800000000000000
+      internalID: -2433537158791012008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_43
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 83
+        width: 111
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e431fd56eddc7f0800000000000000
+      internalID: -590571447000019430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 151
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f425ed4e7f7d41d0800000000000000
+      internalID: -3364893166126422795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_45
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 158
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534b8e083e55240d0800000000000000
+      internalID: -3440092729748966347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_46
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 151
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbcb5abcbe46af740800000000000000
+      internalID: 5186568884767276223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_47
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 101
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a71f99c16df2b30800000000000000
+      internalID: 4264862790473316896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_48
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 148
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93f7cb10132cf4c0800000000000000
+      internalID: -4252485396052053093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_49
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 101
+        width: 86
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7d556ca00b2ff70800000000000000
+      internalID: 9219624947504502696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_50
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 141
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449abd8f24ddaa240800000000000000
+      internalID: 4803895232256780612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_51
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 141
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f324655105e0f20800000000000000
+      internalID: 3390735622028279601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_52
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 133
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dde74de4bd6ff820800000000000000
+      internalID: 2954200504420789716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_53
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 141
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb91945ee64a35170800000000000000
+      internalID: 8166051345552972219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_54
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 104
+        width: 69
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20b9acda36be1150800000000000000
+      internalID: 5845309730299949098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_55
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 129
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c089c886767859c50800000000000000
+      internalID: 6671387301224683532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_56
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 111
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4534c627af8b8cfd0800000000000000
+      internalID: -2321402222108458156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_57
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 114
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caccad8f426f2ebb0800000000000000
+      internalID: -4908090005226074964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_58
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 112
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa316c54b335fc00800000000000000
+      internalID: 933709347486251763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_59
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 121
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809cf4240c8118b40800000000000000
+      internalID: 5440657038865582344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_60
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 110
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9878f0eb4e68cf640800000000000000
+      internalID: 5115111593785395081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_61
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 74
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e788d7baa68ed3700800000000000000
+      internalID: 521828676686153854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_62
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 107
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b337fb93cda04f240800000000000000
+      internalID: 4824493041798574907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_63
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 101
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16c158fb41478490800000000000000
+      internalID: -7744149239695817187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_64
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 105
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ae3625052c40f60800000000000000
+      internalID: 7999732488352295519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_65
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 101
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76eed0c3e3f0b9cf0800000000000000
+      internalID: -244584994791625113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_66
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 107
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8c24088201e8c10800000000000000
+      internalID: 2057599845891492068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_67
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 87
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ca18617a0311160800000000000000
+      internalID: 6994425190478359591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_68
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 78
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e0750b934b22360800000000000000
+      internalID: 7143470118827658850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_69
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 74
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e023df0f8f92066c0800000000000000
+      internalID: -4152272707263843826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_70
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 82
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d72a7a9866d4df0800000000000000
+      internalID: -194386467498066559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_71
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4
+        width: 76
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765ba216e48cc6100800000000000000
+      internalID: 102677130485871975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_72
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 41
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78fa2b744f93f7910800000000000000
+      internalID: 1837250894328147847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_73
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 10
+        width: 98
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096f5bc4ca54aadf0800000000000000
+      internalID: -168245429749287280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_74
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 34
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b971169a37eb3bc90800000000000000
+      internalID: -7155165978989357157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_75
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 12
+        width: 112
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592ee80bc3f4793a0800000000000000
+      internalID: -6658766401965202795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_76
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 29
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e736d52abb1dbb990800000000000000
+      internalID: -7369065761448565890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_attack_77
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 16
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c0279f20ff81be0800000000000000
+      internalID: -1506173687115412447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Deathblighter_attack_0: 3311588654680817884
+      Deathblighter_attack_1: -9090996669174299758
+      Deathblighter_attack_10: -1041905049458688643
+      Deathblighter_attack_11: 2925835410101754135
+      Deathblighter_attack_12: 4217701163279163946
+      Deathblighter_attack_13: 8384750578446704151
+      Deathblighter_attack_14: -7376753883101284543
+      Deathblighter_attack_15: 3514247270033926728
+      Deathblighter_attack_16: -3333186156650319198
+      Deathblighter_attack_17: 5785227974729624076
+      Deathblighter_attack_18: 4376797814554224587
+      Deathblighter_attack_19: -1260772916756714278
+      Deathblighter_attack_2: -3628084315494734776
+      Deathblighter_attack_20: 701034527697256274
+      Deathblighter_attack_21: 2500615407126795445
+      Deathblighter_attack_22: -1892093485923120066
+      Deathblighter_attack_23: 8803874219139416551
+      Deathblighter_attack_24: -7415362375409852370
+      Deathblighter_attack_25: 6320945862235413100
+      Deathblighter_attack_26: 759254581851406911
+      Deathblighter_attack_27: 3652169082459127151
+      Deathblighter_attack_28: -7617597199859104545
+      Deathblighter_attack_29: 1096756911307278923
+      Deathblighter_attack_3: -491983834396397257
+      Deathblighter_attack_30: 5104502328388058752
+      Deathblighter_attack_31: 1281033490284061496
+      Deathblighter_attack_32: 8647162162534718710
+      Deathblighter_attack_33: 5557645528110345924
+      Deathblighter_attack_34: -1024919758868345180
+      Deathblighter_attack_35: 7285304479455930039
+      Deathblighter_attack_36: -5334424030194050112
+      Deathblighter_attack_37: -5927369432851774926
+      Deathblighter_attack_38: 8338009991513053756
+      Deathblighter_attack_39: -8926452756809057414
+      Deathblighter_attack_4: -7704411060595455858
+      Deathblighter_attack_40: -8818316190577743848
+      Deathblighter_attack_41: 5886307211831954802
+      Deathblighter_attack_42: -2433537158791012008
+      Deathblighter_attack_43: -590571447000019430
+      Deathblighter_attack_44: -3364893166126422795
+      Deathblighter_attack_45: -3440092729748966347
+      Deathblighter_attack_46: 5186568884767276223
+      Deathblighter_attack_47: 4264862790473316896
+      Deathblighter_attack_48: -4252485396052053093
+      Deathblighter_attack_49: 9219624947504502696
+      Deathblighter_attack_5: 7235671486761930513
+      Deathblighter_attack_50: 4803895232256780612
+      Deathblighter_attack_51: 3390735622028279601
+      Deathblighter_attack_52: 2954200504420789716
+      Deathblighter_attack_53: 8166051345552972219
+      Deathblighter_attack_54: 5845309730299949098
+      Deathblighter_attack_55: 6671387301224683532
+      Deathblighter_attack_56: -2321402222108458156
+      Deathblighter_attack_57: -4908090005226074964
+      Deathblighter_attack_58: 933709347486251763
+      Deathblighter_attack_59: 5440657038865582344
+      Deathblighter_attack_6: -3960943959204483461
+      Deathblighter_attack_60: 5115111593785395081
+      Deathblighter_attack_61: 521828676686153854
+      Deathblighter_attack_62: 4824493041798574907
+      Deathblighter_attack_63: -7744149239695817187
+      Deathblighter_attack_64: 7999732488352295519
+      Deathblighter_attack_65: -244584994791625113
+      Deathblighter_attack_66: 2057599845891492068
+      Deathblighter_attack_67: 6994425190478359591
+      Deathblighter_attack_68: 7143470118827658850
+      Deathblighter_attack_69: -4152272707263843826
+      Deathblighter_attack_7: 1397881843748878551
+      Deathblighter_attack_70: -194386467498066559
+      Deathblighter_attack_71: 102677130485871975
+      Deathblighter_attack_72: 1837250894328147847
+      Deathblighter_attack_73: -168245429749287280
+      Deathblighter_attack_74: -7155165978989357157
+      Deathblighter_attack_75: -6658766401965202795
+      Deathblighter_attack_76: -7369065761448565890
+      Deathblighter_attack_77: -1506173687115412447
+      Deathblighter_attack_8: -5801785841895246203
+      Deathblighter_attack_9: -8831317207379003292
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

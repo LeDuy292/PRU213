@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: 4343751fac79c5441addeca55f210998
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2549191640711756211
+    second: Young_Flamewing_idle_0
+  - first:
+      213: 7726597372851455284
+    second: Young_Flamewing_idle_1
+  - first:
+      213: 2693723978093620696
+    second: Young_Flamewing_idle_2
+  - first:
+      213: -4158398152419080927
+    second: Young_Flamewing_idle_3
+  - first:
+      213: -7128936762743970891
+    second: Young_Flamewing_idle_4
+  - first:
+      213: -1188137717208006032
+    second: Young_Flamewing_idle_5
+  - first:
+      213: 1948471038534036050
+    second: Young_Flamewing_idle_6
+  - first:
+      213: 5494177638920910376
+    second: Young_Flamewing_idle_7
+  - first:
+      213: 6527044319273311459
+    second: Young_Flamewing_idle_8
+  - first:
+      213: 5245686020935687554
+    second: Young_Flamewing_idle_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Young_Flamewing_idle_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 255
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9f4018a4c806320800000000000000
+      internalID: 2549191640711756211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young_Flamewing_idle_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 255
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43507439f536a3b60800000000000000
+      internalID: 7726597372851455284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young_Flamewing_idle_2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 255
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dde835afa7026520800000000000000
+      internalID: 2693723978093620696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young_Flamewing_idle_3
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 175
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1258b6a99e66a46c0800000000000000
+      internalID: -4158398152419080927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young_Flamewing_idle_4
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 175
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b32c66f8cde01d90800000000000000
+      internalID: -7128936762743970891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young_Flamewing_idle_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 175
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 072c29d8a03e28fe0800000000000000
+      internalID: -1188137717208006032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young_Flamewing_idle_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 95
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a25fa061c5a0b10800000000000000
+      internalID: 1948471038534036050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young_Flamewing_idle_7
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 95
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82676c4047d3f3c40800000000000000
+      internalID: 5494177638920910376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young_Flamewing_idle_8
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 95
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec54830a38b49a50800000000000000
+      internalID: 6527044319273311459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young_Flamewing_idle_9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 15
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d9a19a4ab6cc840800000000000000
+      internalID: 5245686020935687554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Young_Flamewing_idle_0: 2549191640711756211
+      Young_Flamewing_idle_1: 7726597372851455284
+      Young_Flamewing_idle_2: 2693723978093620696
+      Young_Flamewing_idle_3: -4158398152419080927
+      Young_Flamewing_idle_4: -7128936762743970891
+      Young_Flamewing_idle_5: -1188137717208006032
+      Young_Flamewing_idle_6: 1948471038534036050
+      Young_Flamewing_idle_7: 5494177638920910376
+      Young_Flamewing_idle_8: 6527044319273311459
+      Young_Flamewing_idle_9: 5245686020935687554
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

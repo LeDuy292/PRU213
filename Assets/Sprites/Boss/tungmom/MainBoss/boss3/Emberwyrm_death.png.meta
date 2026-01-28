@@ -1,0 +1,1339 @@
+fileFormatVersion: 2
+guid: 350113f0aeb4d7f49abb05c5e18a24af
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6763705238083924460
+    second: Emberwyrm_death_0
+  - first:
+      213: 858862193796915003
+    second: Emberwyrm_death_1
+  - first:
+      213: 72447123186290429
+    second: Emberwyrm_death_2
+  - first:
+      213: 4392828227760775618
+    second: Emberwyrm_death_3
+  - first:
+      213: 164141171999477889
+    second: Emberwyrm_death_4
+  - first:
+      213: 7917528662078400769
+    second: Emberwyrm_death_5
+  - first:
+      213: 7199191566756756112
+    second: Emberwyrm_death_6
+  - first:
+      213: -3555590334850770027
+    second: Emberwyrm_death_7
+  - first:
+      213: 8748558014292588724
+    second: Emberwyrm_death_8
+  - first:
+      213: 6296680147773575842
+    second: Emberwyrm_death_9
+  - first:
+      213: -4713687572722619741
+    second: Emberwyrm_death_10
+  - first:
+      213: -6485069587888965728
+    second: Emberwyrm_death_11
+  - first:
+      213: -8080485125423089701
+    second: Emberwyrm_death_12
+  - first:
+      213: 3716565526682398873
+    second: Emberwyrm_death_13
+  - first:
+      213: -4510896513006921957
+    second: Emberwyrm_death_14
+  - first:
+      213: -2952435928171732559
+    second: Emberwyrm_death_15
+  - first:
+      213: -4046477814080855968
+    second: Emberwyrm_death_16
+  - first:
+      213: 988293663748745747
+    second: Emberwyrm_death_17
+  - first:
+      213: -7274333723877832244
+    second: Emberwyrm_death_18
+  - first:
+      213: 5490901190576428204
+    second: Emberwyrm_death_19
+  - first:
+      213: 8242350791863904899
+    second: Emberwyrm_death_20
+  - first:
+      213: 6095632232663900395
+    second: Emberwyrm_death_21
+  - first:
+      213: 6234450480106510647
+    second: Emberwyrm_death_22
+  - first:
+      213: 7812016563852910514
+    second: Emberwyrm_death_23
+  - first:
+      213: 9184358616035861685
+    second: Emberwyrm_death_24
+  - first:
+      213: 4224656265037402845
+    second: Emberwyrm_death_25
+  - first:
+      213: -2460175917453587373
+    second: Emberwyrm_death_26
+  - first:
+      213: 6218575151550157954
+    second: Emberwyrm_death_27
+  - first:
+      213: -7819615150088262909
+    second: Emberwyrm_death_28
+  - first:
+      213: 3949147476485006788
+    second: Emberwyrm_death_29
+  - first:
+      213: 8566671496140706614
+    second: Emberwyrm_death_30
+  - first:
+      213: 7461726904857544865
+    second: Emberwyrm_death_31
+  - first:
+      213: -4614320658946972110
+    second: Emberwyrm_death_32
+  - first:
+      213: 2210408363935036422
+    second: Emberwyrm_death_33
+  - first:
+      213: 5789150679149108338
+    second: Emberwyrm_death_34
+  - first:
+      213: 259096337210384067
+    second: Emberwyrm_death_35
+  - first:
+      213: -1253915111717771919
+    second: Emberwyrm_death_36
+  - first:
+      213: 1582571664087062116
+    second: Emberwyrm_death_37
+  - first:
+      213: 1052258658847202839
+    second: Emberwyrm_death_38
+  - first:
+      213: -5178153392077523915
+    second: Emberwyrm_death_39
+  - first:
+      213: 7921986994020860988
+    second: Emberwyrm_death_40
+  - first:
+      213: -1331125609883667800
+    second: Emberwyrm_death_41
+  - first:
+      213: 356730263330305140
+    second: Emberwyrm_death_42
+  - first:
+      213: -8141701641096030209
+    second: Emberwyrm_death_43
+  - first:
+      213: -1211839197551563047
+    second: Emberwyrm_death_44
+  - first:
+      213: 6655928259691659168
+    second: Emberwyrm_death_45
+  - first:
+      213: 2075988317226130549
+    second: Emberwyrm_death_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Emberwyrm_death_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 494
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1f07114128ddd50800000000000000
+      internalID: 6763705238083924460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_death_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 494
+        width: 63
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f17446d9a4beb00800000000000000
+      internalID: 858862193796915003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_death_2
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 494
+        width: 65
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe84825642610100800000000000000
+      internalID: 72447123186290429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_death_3
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 494
+        width: 69
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c16dfabff576fc30800000000000000
+      internalID: 4392828227760775618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_death_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 374
+        width: 68
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1809b0ab685274200800000000000000
+      internalID: 164141171999477889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_death_5
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 374
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109282a8e56b0ed60800000000000000
+      internalID: 7917528662078400769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_death_6
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 430
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a3686469aa8e360800000000000000
+      internalID: 7199191566756756112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_death_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 374
+        width: 68
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b5864cd6108aec0800000000000000
+      internalID: -3555590334850770027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_death_8
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 374
+        width: 70
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b87ec2892f196970800000000000000
+      internalID: 8748558014292588724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_death_9
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 254
+        width: 76
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a25c40bb3d426750800000000000000
+      internalID: 6296680147773575842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_death_10
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 308
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aae1b5702e959eb0800000000000000
+      internalID: -4713687572722619741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_death_11
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 305
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a77036b1976006a0800000000000000
+      internalID: -6485069587888965728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_death_12
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 254
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7345637995cdf80800000000000000
+      internalID: -8080485125423089701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_death_13
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 302
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990fd52c7a4e39330800000000000000
+      internalID: 3716565526682398873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_death_14
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 254
+        width: 77
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b179cab65831661c0800000000000000
+      internalID: -4510896513006921957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_death_15
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 254
+        width: 78
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1293f7a27d607d0800000000000000
+      internalID: -2952435928171732559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_death_16
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 301
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06026340ed508d7c0800000000000000
+      internalID: -4046477814080855968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_death_17
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 166
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a6389d9df17bd00800000000000000
+      internalID: 988293663748745747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_death_18
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 180
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc90e9ae4006c0b90800000000000000
+      internalID: -7274333723877832244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_death_19
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 183
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4d3117a89933c40800000000000000
+      internalID: 5490901190576428204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_death_20
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 190
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a25371066b26270800000000000000
+      internalID: 8242350791863904899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_death_21
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 179
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be06a553839089450800000000000000
+      internalID: 6095632232663900395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_death_22
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 186
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739138c1ea7358650800000000000000
+      internalID: 6234450480106510647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_death_23
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 193
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf9bebccabd96c60800000000000000
+      internalID: 7812016563852910514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_death_24
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 177
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4ad9e1085657f70800000000000000
+      internalID: 9184358616035861685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_death_25
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 164
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2dea76d7ef0aa30800000000000000
+      internalID: 4224656265037402845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_death_26
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 171
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c4533a903bbddd0800000000000000
+      internalID: -2460175917453587373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_death_27
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 166
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284d7352721dc4650800000000000000
+      internalID: 6218575151550157954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_death_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 175
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30be9ba73752b7390800000000000000
+      internalID: -7819615150088262909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_death_29
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 173
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5e485d4b03ec630800000000000000
+      internalID: 3949147476485006788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_death_30
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 169
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6335eea665ee2e670800000000000000
+      internalID: 8566671496140706614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_death_31
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 179
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8420706116d8760800000000000000
+      internalID: 7461726904857544865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_death_32
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 169
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23628b3fec3a6ffb0800000000000000
+      internalID: -4614320658946972110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_death_33
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 175
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60476ec12b2fcae10800000000000000
+      internalID: 2210408363935036422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_death_34
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 172
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27cd4e5ded1375050800000000000000
+      internalID: 5789150679149108338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_death_35
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 134
+        width: 78
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce9706febe789300800000000000000
+      internalID: 259096337210384067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_death_36
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 134
+        width: 78
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175619379d2399ee0800000000000000
+      internalID: -1253915111717771919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_death_37
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 134
+        width: 78
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466128d2b8c66f510800000000000000
+      internalID: 1582571664087062116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_death_38
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 134
+        width: 78
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e9a64dcaf5a9e00800000000000000
+      internalID: 1052258658847202839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_death_39
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 72
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5343cb8cce08328b0800000000000000
+      internalID: -5178153392077523915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_death_40
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 75
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34c0e5d23d80fd60800000000000000
+      internalID: 7921986994020860988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_death_41
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 75
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a275777f44e68de0800000000000000
+      internalID: -1331125609883667800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_death_42
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 70
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4743f62d84c53f400800000000000000
+      internalID: 356730263330305140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_death_43
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 14
+        width: 79
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff791477e7dd20f80800000000000000
+      internalID: -8141701641096030209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_death_44
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 57
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de6b01abaeae2fe0800000000000000
+      internalID: -1211839197551563047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_death_45
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 14
+        width: 78
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0afb761dc7b9e5c50800000000000000
+      internalID: 6655928259691659168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_death_46
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 14
+        width: 77
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57cdf1e10646fcc10800000000000000
+      internalID: 2075988317226130549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Emberwyrm_death_0: 6763705238083924460
+      Emberwyrm_death_1: 858862193796915003
+      Emberwyrm_death_10: -4713687572722619741
+      Emberwyrm_death_11: -6485069587888965728
+      Emberwyrm_death_12: -8080485125423089701
+      Emberwyrm_death_13: 3716565526682398873
+      Emberwyrm_death_14: -4510896513006921957
+      Emberwyrm_death_15: -2952435928171732559
+      Emberwyrm_death_16: -4046477814080855968
+      Emberwyrm_death_17: 988293663748745747
+      Emberwyrm_death_18: -7274333723877832244
+      Emberwyrm_death_19: 5490901190576428204
+      Emberwyrm_death_2: 72447123186290429
+      Emberwyrm_death_20: 8242350791863904899
+      Emberwyrm_death_21: 6095632232663900395
+      Emberwyrm_death_22: 6234450480106510647
+      Emberwyrm_death_23: 7812016563852910514
+      Emberwyrm_death_24: 9184358616035861685
+      Emberwyrm_death_25: 4224656265037402845
+      Emberwyrm_death_26: -2460175917453587373
+      Emberwyrm_death_27: 6218575151550157954
+      Emberwyrm_death_28: -7819615150088262909
+      Emberwyrm_death_29: 3949147476485006788
+      Emberwyrm_death_3: 4392828227760775618
+      Emberwyrm_death_30: 8566671496140706614
+      Emberwyrm_death_31: 7461726904857544865
+      Emberwyrm_death_32: -4614320658946972110
+      Emberwyrm_death_33: 2210408363935036422
+      Emberwyrm_death_34: 5789150679149108338
+      Emberwyrm_death_35: 259096337210384067
+      Emberwyrm_death_36: -1253915111717771919
+      Emberwyrm_death_37: 1582571664087062116
+      Emberwyrm_death_38: 1052258658847202839
+      Emberwyrm_death_39: -5178153392077523915
+      Emberwyrm_death_4: 164141171999477889
+      Emberwyrm_death_40: 7921986994020860988
+      Emberwyrm_death_41: -1331125609883667800
+      Emberwyrm_death_42: 356730263330305140
+      Emberwyrm_death_43: -8141701641096030209
+      Emberwyrm_death_44: -1211839197551563047
+      Emberwyrm_death_45: 6655928259691659168
+      Emberwyrm_death_46: 2075988317226130549
+      Emberwyrm_death_5: 7917528662078400769
+      Emberwyrm_death_6: 7199191566756756112
+      Emberwyrm_death_7: -3555590334850770027
+      Emberwyrm_death_8: 8748558014292588724
+      Emberwyrm_death_9: 6296680147773575842
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

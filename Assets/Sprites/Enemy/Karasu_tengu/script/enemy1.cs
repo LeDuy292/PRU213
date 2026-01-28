@@ -5,30 +5,30 @@ public class EnemyAI1 : MonoBehaviour
 {
     // ===== TUẦN TRA =====
     [Header("Patrol")]
-    public float patrolSpeed = 2f;        // Tốc độ đi tuần
-    public float patrolDistance = 3f;     // Khoảng cách đi tuần
-    public float idleTimeAtEdge = 2f;     // Thời gian đứng lại khi tới biên
+    public float patrolSpeed = 2f;
+    public float patrolDistance = 3f;
+    public float idleTimeAtEdge = 2f;
 
     // ===== PHÁT HIỆN PLAYER =====
     [Header("Detect Player")]
-    public float detectRange = 5f;         // Bán kính phát hiện player
-    public float chaseSpeed = 2.5f;        // Tốc độ đuổi
-    public float pauseAfterLostTime = 1f;  // Đứng khựng khi mất dấu
+    public float detectRange = 5f;
+    public float chaseSpeed = 2.5f;
+    public float pauseAfterLostTime = 1f;
 
     // ===== TẤN CÔNG =====
     [Header("Attack")]
-    public float attackCooldown = 1.2f;    // Thời gian hồi đánh
-    public int attackDamage = 15;          // Sát thương gây ra
+    public float attackCooldown = 1.2f;
+    public int attackDamage = 15;
 
     // ===== BIẾN NỘI BỘ =====
-    private Vector2 startPos;               // Vị trí bắt đầu tuần tra
-    private int direction = 1;              // Hướng di chuyển (1 hoặc -1)
+    private Vector2 startPos;
+    private int direction = 1;
 
-    private bool isWaiting = false;          // Đang đứng chờ
-    private bool isChasing = false;          // Đang đuổi
-    private bool isPausingAfterLost = false; // Đang đứng khựng
-    private bool isTouchingPlayer = false;   // Đang chạm player
-    private bool isAttacking = false;        // Đang đánh
+    private bool isWaiting = false;
+    private bool isChasing = false;
+    private bool isPausingAfterLost = false;
+    private bool isTouchingPlayer = false;
+    private bool isAttacking = false;
 
     private Transform player;
     private PlayerHealth playerHealth;
@@ -38,12 +38,14 @@ public class EnemyAI1 : MonoBehaviour
     void Start()
     {
         startPos = transform.position;
+
         anim = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
 
         rb.gravityScale = 2;
         rb.freezeRotation = true;
 
+        // Tìm player theo Tag
         GameObject p = GameObject.FindGameObjectWithTag("Player");
         if (p != null)
         {
@@ -62,7 +64,7 @@ public class EnemyAI1 : MonoBehaviour
     {
         if (player == null) return;
 
-        // Nếu player đã chết thì ngừng tấn công, chỉ patrol
+        // ===== PLAYER ĐÃ CHẾT =====
         if (playerHealth != null && playerHealth.IsDead)
         {
             isTouchingPlayer = false;
@@ -78,7 +80,7 @@ public class EnemyAI1 : MonoBehaviour
             return;
         }
 
-        // ===== CHẠM PLAYER → ĐÁNH =====
+        // ===== ĐANG CHẠM PLAYER → ĐÁNH =====
         if (isTouchingPlayer)
         {
             rb.linearVelocity = Vector2.zero;
@@ -90,9 +92,13 @@ public class EnemyAI1 : MonoBehaviour
             return;
         }
 
-        float dist = Vector2.Distance(transform.position, player.position);
+        // Tính khoảng cách tới player
+        float dist = Vector2.Distance(
+            transform.position,
+            player.position
+        );
 
-        // ===== CHASE =====
+        // ===== PLAYER TRONG TẦM PHÁT HIỆN =====
         if (dist <= detectRange)
         {
             isWaiting = false;
@@ -111,7 +117,7 @@ public class EnemyAI1 : MonoBehaviour
             return;
         }
 
-        // ===== PATROL =====
+        // ===== KHÔNG THẤY PLAYER → PATROL =====
         Patrol();
     }
 
@@ -122,13 +128,19 @@ public class EnemyAI1 : MonoBehaviour
 
         anim.SetBool("iswalk", true);
 
-        transform.Translate(Vector2.right * direction * patrolSpeed * Time.deltaTime);
+        // Di chuyển theo hướng hiện tại
+        transform.Translate(
+            Vector2.right * direction * patrolSpeed * Time.deltaTime
+        );
+
+        // Lật sprite theo hướng
         transform.localScale = new Vector3(direction, 1, 1);
 
-        // Nếu đi quá xa vị trí ban đầu → đứng lại & quay đầu
+        // Nếu đi quá xa vị trí ban đầu
         if (Mathf.Abs(transform.position.x - startPos.x) >= patrolDistance)
             StartCoroutine(IdleAndTurn());
     }
+
 
     IEnumerator IdleAndTurn()
     {
@@ -137,7 +149,7 @@ public class EnemyAI1 : MonoBehaviour
 
         yield return new WaitForSeconds(idleTimeAtEdge);
 
-        direction *= -1; // đổi hướng
+        direction *= -1;
         isWaiting = false;
     }
 
@@ -146,17 +158,23 @@ public class EnemyAI1 : MonoBehaviour
     {
         anim.SetBool("iswalk", true);
 
-        // Chỉ đuổi theo trục X
-        Vector2 target = new Vector2(player.position.x, transform.position.y);
 
+        Vector2 target = new Vector2(
+            player.position.x,
+            transform.position.y
+        );
+
+        // Di chuyển dần về phía player
         transform.position = Vector2.MoveTowards(
             transform.position,
             target,
             chaseSpeed * Time.deltaTime
         );
 
-        // Quay mặt về player
-        float dir = Mathf.Sign(player.position.x - transform.position.x);
+        // Quay mặt về phía player
+        float dir = Mathf.Sign(
+            player.position.x - transform.position.x
+        );
         if (dir != 0)
             transform.localScale = new Vector3(dir, 1, 1);
     }
@@ -169,7 +187,6 @@ public class EnemyAI1 : MonoBehaviour
 
         yield return new WaitForSeconds(pauseAfterLostTime);
 
-        // Reset tuần tra tại vị trí mới
         startPos = transform.position;
         direction = 1;
 
@@ -184,25 +201,30 @@ public class EnemyAI1 : MonoBehaviour
         anim.ResetTrigger("attack");
         anim.SetTrigger("attack");
 
-        // Đợi một chút để animation chơi đến frame đánh
+        // Đợi tới frame đánh trong animation
         yield return new WaitForSeconds(0.3f);
 
-        // Gây damage cho player
-        if (player != null && playerHealth != null && !playerHealth.IsDead)
+        // Gây damage nếu player còn sống
+        if (player != null &&
+            playerHealth != null &&
+            !playerHealth.IsDead)
         {
             playerHealth.TakeDamage(attackDamage);
             Debug.Log($"Enemy dealt {attackDamage} damage to player!");
         }
 
-        // Đợi hết cooldown
-        yield return new WaitForSeconds(attackCooldown - 0.3f);
+        // Đợi hết thời gian hồi chiêu
+        yield return new WaitForSeconds(
+            attackCooldown - 0.3f
+        );
 
         isAttacking = false;
     }
 
-    // ================== COLLISION ==================
+    // ================== COLLISION va cham ==================
     void OnCollisionEnter2D(Collision2D collision)
     {
+
         if (collision.gameObject.CompareTag("Player"))
         {
             isTouchingPlayer = true;
@@ -212,6 +234,7 @@ public class EnemyAI1 : MonoBehaviour
 
     void OnCollisionExit2D(Collision2D collision)
     {
+
         if (collision.gameObject.CompareTag("Player"))
         {
             isTouchingPlayer = false;
@@ -222,6 +245,9 @@ public class EnemyAI1 : MonoBehaviour
     void OnDrawGizmosSelected()
     {
         Gizmos.color = Color.red;
-        Gizmos.DrawWireSphere(transform.position, detectRange);
+        Gizmos.DrawWireSphere(
+            transform.position,
+            detectRange
+        );                                   // Vẽ vòng phát hiện player
     }
 }

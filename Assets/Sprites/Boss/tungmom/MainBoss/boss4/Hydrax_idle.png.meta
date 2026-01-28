@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 6cbebf5d0d53dcf42abc3b28ca147347
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 400562946890327665
+    second: Hydrax_idle_0
+  - first:
+      213: 5230813452369854631
+    second: Hydrax_idle_1
+  - first:
+      213: 3278480024682651125
+    second: Hydrax_idle_2
+  - first:
+      213: -7965318855031159748
+    second: Hydrax_idle_3
+  - first:
+      213: -1863361890103758102
+    second: Hydrax_idle_4
+  - first:
+      213: -7483548716922276351
+    second: Hydrax_idle_5
+  - first:
+      213: -6614924070145383105
+    second: Hydrax_idle_6
+  - first:
+      213: 4820551020402809085
+    second: Hydrax_idle_7
+  - first:
+      213: -8679470642730926453
+    second: Hydrax_idle_8
+  - first:
+      213: -7796319831666489714
+    second: Hydrax_idle_9
+  - first:
+      213: -4805326879795975409
+    second: Hydrax_idle_10
+  - first:
+      213: -6889840716706636380
+    second: Hydrax_idle_11
+  - first:
+      213: -5027235476976055638
+    second: Hydrax_idle_12
+  - first:
+      213: -7343413509588878153
+    second: Hydrax_idle_13
+  - first:
+      213: 2708622443291029797
+    second: Hydrax_idle_14
+  - first:
+      213: 3100734702263225793
+    second: Hydrax_idle_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hydrax_idle_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 314
+        width: 59
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176e49fb0e51f8500800000000000000
+      internalID: 400562946890327665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_idle_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 314
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a007d2fe15979840800000000000000
+      internalID: 5230813452369854631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_idle_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 314
+        width: 61
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd5c6a56308f7d20800000000000000
+      internalID: 3278480024682651125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_idle_3
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 314
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34852314b0857190800000000000000
+      internalID: -7965318855031159748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_idle_4
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 214
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae27d54cb320426e0800000000000000
+      internalID: -1863361890103758102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_idle_5
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 214
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106748c6718152890800000000000000
+      internalID: -7483548716922276351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_idle_6
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 214
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35adc60b911334a0800000000000000
+      internalID: -6614924070145383105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_idle_7
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 215
+        width: 58
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df891c8dc9906e240800000000000000
+      internalID: 4820551020402809085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_idle_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 115
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e779daf635c8780800000000000000
+      internalID: -8679470642730926453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_idle_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 115
+        width: 58
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e868f267b68edc390800000000000000
+      internalID: -7796319831666489714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_idle_10
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 115
+        width: 59
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bef1c99ac005db0800000000000000
+      internalID: -4805326879795975409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_idle_11
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 115
+        width: 63
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad9da14f5e5260a0800000000000000
+      internalID: -6889840716706636380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_idle_12
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 15
+        width: 67
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaac99818fbab3ab0800000000000000
+      internalID: -5027235476976055638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_idle_13
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 15
+        width: 70
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc7622f154f61a90800000000000000
+      internalID: -7343413509588878153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_idle_14
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 15
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5213303e2c5f69520800000000000000
+      internalID: 2708622443291029797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_idle_15
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 15
+        width: 62
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd402788c5080b20800000000000000
+      internalID: 3100734702263225793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hydrax_idle_0: 400562946890327665
+      Hydrax_idle_1: 5230813452369854631
+      Hydrax_idle_10: -4805326879795975409
+      Hydrax_idle_11: -6889840716706636380
+      Hydrax_idle_12: -5027235476976055638
+      Hydrax_idle_13: -7343413509588878153
+      Hydrax_idle_14: 2708622443291029797
+      Hydrax_idle_15: 3100734702263225793
+      Hydrax_idle_2: 3278480024682651125
+      Hydrax_idle_3: -7965318855031159748
+      Hydrax_idle_4: -1863361890103758102
+      Hydrax_idle_5: -7483548716922276351
+      Hydrax_idle_6: -6614924070145383105
+      Hydrax_idle_7: 4820551020402809085
+      Hydrax_idle_8: -8679470642730926453
+      Hydrax_idle_9: -7796319831666489714
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

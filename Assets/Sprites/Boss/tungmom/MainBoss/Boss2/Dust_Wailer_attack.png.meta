@@ -1,0 +1,2613 @@
+fileFormatVersion: 2
+guid: a7659103c847ca1448061eb4f378618a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5600702581818076598
+    second: Dust_Wailer_attack_0
+  - first:
+      213: 2655760274721560541
+    second: Dust_Wailer_attack_1
+  - first:
+      213: -1885768478564585890
+    second: Dust_Wailer_attack_2
+  - first:
+      213: -9210464971125568178
+    second: Dust_Wailer_attack_3
+  - first:
+      213: -5378181392377482219
+    second: Dust_Wailer_attack_4
+  - first:
+      213: 706224885858608481
+    second: Dust_Wailer_attack_5
+  - first:
+      213: -5473374756429397749
+    second: Dust_Wailer_attack_6
+  - first:
+      213: -6242926238211957194
+    second: Dust_Wailer_attack_7
+  - first:
+      213: -8530331984797781178
+    second: Dust_Wailer_attack_8
+  - first:
+      213: 6318010501267916361
+    second: Dust_Wailer_attack_9
+  - first:
+      213: 6428965138217104906
+    second: Dust_Wailer_attack_10
+  - first:
+      213: -143645960426259870
+    second: Dust_Wailer_attack_11
+  - first:
+      213: 7343968236796202402
+    second: Dust_Wailer_attack_12
+  - first:
+      213: -1769669117315615432
+    second: Dust_Wailer_attack_13
+  - first:
+      213: 2777272564028478340
+    second: Dust_Wailer_attack_14
+  - first:
+      213: 7689353901747263413
+    second: Dust_Wailer_attack_15
+  - first:
+      213: 667635827768566223
+    second: Dust_Wailer_attack_16
+  - first:
+      213: 7782406572219599236
+    second: Dust_Wailer_attack_17
+  - first:
+      213: 3191699427297413998
+    second: Dust_Wailer_attack_18
+  - first:
+      213: -6040380015183192771
+    second: Dust_Wailer_attack_19
+  - first:
+      213: -1954400812535993276
+    second: Dust_Wailer_attack_20
+  - first:
+      213: -4108210452195568436
+    second: Dust_Wailer_attack_21
+  - first:
+      213: -9033256551316334990
+    second: Dust_Wailer_attack_22
+  - first:
+      213: 3082281347994341999
+    second: Dust_Wailer_attack_23
+  - first:
+      213: -5968669241287748996
+    second: Dust_Wailer_attack_24
+  - first:
+      213: -7906598538322343890
+    second: Dust_Wailer_attack_25
+  - first:
+      213: 6989598973597027637
+    second: Dust_Wailer_attack_26
+  - first:
+      213: 8577235987710122309
+    second: Dust_Wailer_attack_27
+  - first:
+      213: -4682955430637035102
+    second: Dust_Wailer_attack_28
+  - first:
+      213: -6531818869768341582
+    second: Dust_Wailer_attack_29
+  - first:
+      213: -5578662047436822287
+    second: Dust_Wailer_attack_30
+  - first:
+      213: -7783892368456826134
+    second: Dust_Wailer_attack_31
+  - first:
+      213: 4428388387101342754
+    second: Dust_Wailer_attack_32
+  - first:
+      213: -3914163381095867004
+    second: Dust_Wailer_attack_33
+  - first:
+      213: -7262463925716117924
+    second: Dust_Wailer_attack_34
+  - first:
+      213: -4557412662731731417
+    second: Dust_Wailer_attack_35
+  - first:
+      213: 7204232041967535022
+    second: Dust_Wailer_attack_36
+  - first:
+      213: 6408666476951675501
+    second: Dust_Wailer_attack_37
+  - first:
+      213: -2504041901761239432
+    second: Dust_Wailer_attack_38
+  - first:
+      213: -3492878833958979519
+    second: Dust_Wailer_attack_39
+  - first:
+      213: 7451296413482487313
+    second: Dust_Wailer_attack_40
+  - first:
+      213: -603068185708890035
+    second: Dust_Wailer_attack_41
+  - first:
+      213: 5757551576743021538
+    second: Dust_Wailer_attack_42
+  - first:
+      213: -5100303138004985768
+    second: Dust_Wailer_attack_43
+  - first:
+      213: 5786104607932672349
+    second: Dust_Wailer_attack_44
+  - first:
+      213: 337364177246206763
+    second: Dust_Wailer_attack_45
+  - first:
+      213: 3975111161040988967
+    second: Dust_Wailer_attack_46
+  - first:
+      213: -2255732600345547681
+    second: Dust_Wailer_attack_47
+  - first:
+      213: 4895764565538676421
+    second: Dust_Wailer_attack_48
+  - first:
+      213: -4906460890207521283
+    second: Dust_Wailer_attack_49
+  - first:
+      213: -8952575936717679601
+    second: Dust_Wailer_attack_50
+  - first:
+      213: -7066109607998120139
+    second: Dust_Wailer_attack_51
+  - first:
+      213: -1520048674015110657
+    second: Dust_Wailer_attack_52
+  - first:
+      213: 8649700675336653916
+    second: Dust_Wailer_attack_53
+  - first:
+      213: 647148881658834207
+    second: Dust_Wailer_attack_54
+  - first:
+      213: 4543708317630350873
+    second: Dust_Wailer_attack_55
+  - first:
+      213: 3248712082010387470
+    second: Dust_Wailer_attack_56
+  - first:
+      213: -6682700795464472697
+    second: Dust_Wailer_attack_57
+  - first:
+      213: 3443521351011815538
+    second: Dust_Wailer_attack_58
+  - first:
+      213: -6209243779873858954
+    second: Dust_Wailer_attack_59
+  - first:
+      213: 6906486313918112370
+    second: Dust_Wailer_attack_60
+  - first:
+      213: 2559182739873686879
+    second: Dust_Wailer_attack_61
+  - first:
+      213: 3666965118162165662
+    second: Dust_Wailer_attack_62
+  - first:
+      213: 6349727697916581734
+    second: Dust_Wailer_attack_63
+  - first:
+      213: 399764136076802749
+    second: Dust_Wailer_attack_64
+  - first:
+      213: -9009624083863419847
+    second: Dust_Wailer_attack_65
+  - first:
+      213: -4363265476057472549
+    second: Dust_Wailer_attack_66
+  - first:
+      213: -2762023138376984435
+    second: Dust_Wailer_attack_67
+  - first:
+      213: 815354290469084614
+    second: Dust_Wailer_attack_68
+  - first:
+      213: -6807668401119841862
+    second: Dust_Wailer_attack_69
+  - first:
+      213: -7348067283211724384
+    second: Dust_Wailer_attack_70
+  - first:
+      213: -653135221506205761
+    second: Dust_Wailer_attack_71
+  - first:
+      213: 7615417744340964496
+    second: Dust_Wailer_attack_72
+  - first:
+      213: -4353846391054534614
+    second: Dust_Wailer_attack_73
+  - first:
+      213: -2244909230644443029
+    second: Dust_Wailer_attack_74
+  - first:
+      213: -5070365306435974228
+    second: Dust_Wailer_attack_75
+  - first:
+      213: -1660260404125749839
+    second: Dust_Wailer_attack_76
+  - first:
+      213: 690604656151076348
+    second: Dust_Wailer_attack_77
+  - first:
+      213: -6192125215462617361
+    second: Dust_Wailer_attack_78
+  - first:
+      213: 5619834099207300185
+    second: Dust_Wailer_attack_79
+  - first:
+      213: 5887911567455974367
+    second: Dust_Wailer_attack_80
+  - first:
+      213: 5217455705730251054
+    second: Dust_Wailer_attack_81
+  - first:
+      213: -3428387023708534837
+    second: Dust_Wailer_attack_82
+  - first:
+      213: 3098197615106652222
+    second: Dust_Wailer_attack_83
+  - first:
+      213: 6401317600257831060
+    second: Dust_Wailer_attack_84
+  - first:
+      213: 6893206138516973361
+    second: Dust_Wailer_attack_85
+  - first:
+      213: 2832305855678777264
+    second: Dust_Wailer_attack_86
+  - first:
+      213: 5448483778865085389
+    second: Dust_Wailer_attack_87
+  - first:
+      213: -7007114774050624806
+    second: Dust_Wailer_attack_88
+  - first:
+      213: 2658621599147100009
+    second: Dust_Wailer_attack_89
+  - first:
+      213: -4993989334192808213
+    second: Dust_Wailer_attack_90
+  - first:
+      213: 6906282156346143296
+    second: Dust_Wailer_attack_91
+  - first:
+      213: -3854814917150499270
+    second: Dust_Wailer_attack_92
+  - first:
+      213: 4998683699515183657
+    second: Dust_Wailer_attack_93
+  - first:
+      213: 2173770382561170724
+    second: Dust_Wailer_attack_94
+  - first:
+      213: 6768157928358030057
+    second: Dust_Wailer_attack_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 612
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd21e90351b9bd40800000000000000
+      internalID: 5600702581818076598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 611
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd75f5726e72bd420800000000000000
+      internalID: 2655760274721560541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_2
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 612
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e678a5f8764d5e0800000000000000
+      internalID: -1885768478564585890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_3
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 603
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4dc1eb68eadd2080800000000000000
+      internalID: -9210464971125568178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 604
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51479b9b48cdc55b0800000000000000
+      internalID: -5378181392377482219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_5
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 614
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165a42dbac30dc900800000000000000
+      internalID: 706224885858608481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_6
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 495
+        width: 78
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b018f6088aaaa04b0800000000000000
+      internalID: -5473374756429397749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_7
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 495
+        width: 72
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e196ca9abac59a0800000000000000
+      internalID: -6242926238211957194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_8
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 495
+        width: 72
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643b9f5614c2e9980800000000000000
+      internalID: -8530331984797781178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_9
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 495
+        width: 79
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946034f93151ea750800000000000000
+      internalID: 6318010501267916361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_10
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 495
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06fcc82bb5483950800000000000000
+      internalID: 6428965138217104906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_11
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 496
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a7f5392caa10ef0800000000000000
+      internalID: -143645960426259870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_12
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 378
+        width: 59
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad4dfb83340be560800000000000000
+      internalID: 7343968236796202402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_13
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 378
+        width: 78
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8357c6c505fd077e0800000000000000
+      internalID: -1769669117315615432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_14
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 379
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4831b5faeaada8620800000000000000
+      internalID: 2777272564028478340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_15
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 380
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7d8e932a216ba60800000000000000
+      internalID: 7689353901747263413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_16
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 379
+        width: 79
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc128718f3be34900800000000000000
+      internalID: 667635827768566223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_17
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 375
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48980d26b89a00c60800000000000000
+      internalID: 7782406572219599236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_18
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 256
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b41e108b13b4c20800000000000000
+      internalID: 3191699427297413998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_19
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 257
+        width: 72
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d13a621624c2ca0800000000000000
+      internalID: -6040380015183192771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_20
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 257
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44cae0cd0d290e4e0800000000000000
+      internalID: -1954400812535993276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_21
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 247
+        width: 98
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc416562c54bcf6c0800000000000000
+      internalID: -4108210452195568436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_22
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 219
+        width: 99
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276d1ddd60d63a280800000000000000
+      internalID: -9033256551316334990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_23
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 243
+        width: 93
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62d30d2e8676ca20800000000000000
+      internalID: 3082281347994341999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_24
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 257
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c725e3bc2f60b2da0800000000000000
+      internalID: -5968669241287748996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_25
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 123
+        width: 99
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e288ca5358e164290800000000000000
+      internalID: -7906598538322343890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_26
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 122
+        width: 98
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d8fa7eb3b000160800000000000000
+      internalID: 6989598973597027637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_27
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 122
+        width: 101
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549982acfa6780770800000000000000
+      internalID: 8577235987710122309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_28
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 122
+        width: 99
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1a4e1e8dcc20fb0800000000000000
+      internalID: -4682955430637035102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_29
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 205
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7b34258515a55a0800000000000000
+      internalID: -6531818869768341582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_30
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 217
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f82394cc6c9492b0800000000000000
+      internalID: -5578662047436822287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_31
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 210
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2c148b12f0af390800000000000000
+      internalID: -7783892368456826134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_32
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 209
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22cf3a486cbc47d30800000000000000
+      internalID: 4428388387101342754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_33
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 39
+        width: 91
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d50fc94291ea9c0800000000000000
+      internalID: -3914163381095867004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_34
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 214
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c561a99a98b863b90800000000000000
+      internalID: -7262463925716117924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_35
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 219
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e02075451d0c0c0800000000000000
+      internalID: -4557412662731731417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_36
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 122
+        width: 100
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea346fc5fd29af360800000000000000
+      internalID: 7204232041967535022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2
+        width: 88
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62a8aac43820f850800000000000000
+      internalID: 6408666476951675501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_38
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876e3d6482bdf3dd0800000000000000
+      internalID: -2504041901761239432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_39
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 5
+        width: 94
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148f462e43dc68fc0800000000000000
+      internalID: -3492878833958979519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_40
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 78
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e04c10c92586760800000000000000
+      internalID: 7451296413482487313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_41
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 103
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d487b772ea871a7f0800000000000000
+      internalID: -603068185708890035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_42
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 108
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb02cb77aee6ef40800000000000000
+      internalID: 5757551576743021538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_43
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 110
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858176c81551839b0800000000000000
+      internalID: -5100303138004985768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_44
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 104
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59e31d1c7f5c4050800000000000000
+      internalID: 5786104607932672349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_45
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 109
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2bb3b88eee8ea400800000000000000
+      internalID: 337364177246206763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_46
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 106
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72be9883a8e6a2730800000000000000
+      internalID: 3975111161040988967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_47
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 110
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ca220c62702b0e0800000000000000
+      internalID: -2255732600345547681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_48
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 97
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce90e8feef31f340800000000000000
+      internalID: 4895764565538676421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_49
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 95
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df575ded0dfb8ebb0800000000000000
+      internalID: -4906460890207521283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_50
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 91
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f049b3b4e9f02c380800000000000000
+      internalID: -8952575936717679601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_51
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 91
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f1c47dfb220fd90800000000000000
+      internalID: -7066109607998120139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_52
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 98
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff99608d8c3b7eae0800000000000000
+      internalID: -1520048674015110657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_53
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 83
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5cc5e6afe8e90870800000000000000
+      internalID: 8649700675336653916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_54
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 75
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1de018aa722bf800800000000000000
+      internalID: 647148881658834207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_55
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 74
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916485b24ae7e0f30800000000000000
+      internalID: 4543708317630350873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_56
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 86
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04bfb91d6eb51d20800000000000000
+      internalID: 3248712082010387470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_57
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 89
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787ae1278074243a0800000000000000
+      internalID: -6682700795464472697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_58
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 82
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27058879c68d9cf20800000000000000
+      internalID: 3443521351011815538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_59
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 84
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a90d02ea554d9a0800000000000000
+      internalID: -6209243779873858954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_60
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 78
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272af2bd5b4c8df50800000000000000
+      internalID: 6906486313918112370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_61
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 60
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f556b7d842b048320800000000000000
+      internalID: 2559182739873686879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_62
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 70
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9fddc7b85da3e230800000000000000
+      internalID: 3666965118162165662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_63
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 74
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667d6cee2b3ce1850800000000000000
+      internalID: 6349727697916581734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_64
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 79
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba7ccc1d5f3c8500800000000000000
+      internalID: 399764136076802749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_65
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 78
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934448971a267f280800000000000000
+      internalID: -9009624083863419847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_66
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 78
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd16ed6ca219273c0800000000000000
+      internalID: -4363265476057472549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_67
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 80
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8851a7e6925ba9d0800000000000000
+      internalID: -2762023138376984435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_68
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 69
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd10814868b05b00800000000000000
+      internalID: 815354290469084614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_69
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 27
+        width: 13
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1b99268ad4681a0800000000000000
+      internalID: -6807668401119841862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_70
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 12
+        width: 82
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9de76dcbb660a90800000000000000
+      internalID: -7348067283211724384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_71
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 56
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb793dbf9f89fe6f0800000000000000
+      internalID: -653135221506205761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_72
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 66
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09456ab17166fa960800000000000000
+      internalID: 7615417744340964496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_73
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 73
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28f39666c70493c0800000000000000
+      internalID: -4353846391054534614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_74
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 11
+        width: 67
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b684172e2fa78d0e0800000000000000
+      internalID: -2244909230644443029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_75
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 47
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab4b642e9172a9b0800000000000000
+      internalID: -5070365306435974228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_76
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 51
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd207975f195f8e0800000000000000
+      internalID: -1660260404125749839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_77
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 56
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd9d1a9645859900800000000000000
+      internalID: 690604656151076348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_78
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 29
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee8c9f7ce6211aa0800000000000000
+      internalID: -6192125215462617361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_79
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 12
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954e0eb8659adfd40800000000000000
+      internalID: 5619834099207300185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_80
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 32
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd37027006016b150800000000000000
+      internalID: 5887911567455974367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_81
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 37
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29f2633250286840800000000000000
+      internalID: 5217455705730251054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_82
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 39
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc74b439a2ceb60d0800000000000000
+      internalID: -3428387023708534837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_83
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 33
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38f464e0520ffa20800000000000000
+      internalID: 3098197615106652222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_84
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 22
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490f2d9117c06d850800000000000000
+      internalID: 6401317600257831060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_85
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 17
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137a8d1167699af50800000000000000
+      internalID: 6893206138516973361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_86
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 16
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b70ef66b2f5e4720800000000000000
+      internalID: 2832305855678777264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_87
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 27
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb3bbb2127ec9b40800000000000000
+      internalID: 5448483778865085389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_88
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 28
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada22500d3ab1ce90800000000000000
+      internalID: -7007114774050624806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_89
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 30
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9670859224255e420800000000000000
+      internalID: 2658621599147100009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_90
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 30
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee195be829c1bab0800000000000000
+      internalID: -4993989334192808213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_91
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 17
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04271a7b70b08df50800000000000000
+      internalID: 6906282156346143296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_92
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 12
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e1e5ca142f08ac0800000000000000
+      internalID: -3854814917150499270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_93
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 21
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922532e2754ee5540800000000000000
+      internalID: 4998683699515183657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_94
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425d2d355a8ca2e10800000000000000
+      internalID: 2173770382561170724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_attack_95
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 10
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea268fc6c35ded50800000000000000
+      internalID: 6768157928358030057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dust_Wailer_attack_0: 5600702581818076598
+      Dust_Wailer_attack_1: 2655760274721560541
+      Dust_Wailer_attack_10: 6428965138217104906
+      Dust_Wailer_attack_11: -143645960426259870
+      Dust_Wailer_attack_12: 7343968236796202402
+      Dust_Wailer_attack_13: -1769669117315615432
+      Dust_Wailer_attack_14: 2777272564028478340
+      Dust_Wailer_attack_15: 7689353901747263413
+      Dust_Wailer_attack_16: 667635827768566223
+      Dust_Wailer_attack_17: 7782406572219599236
+      Dust_Wailer_attack_18: 3191699427297413998
+      Dust_Wailer_attack_19: -6040380015183192771
+      Dust_Wailer_attack_2: -1885768478564585890
+      Dust_Wailer_attack_20: -1954400812535993276
+      Dust_Wailer_attack_21: -4108210452195568436
+      Dust_Wailer_attack_22: -9033256551316334990
+      Dust_Wailer_attack_23: 3082281347994341999
+      Dust_Wailer_attack_24: -5968669241287748996
+      Dust_Wailer_attack_25: -7906598538322343890
+      Dust_Wailer_attack_26: 6989598973597027637
+      Dust_Wailer_attack_27: 8577235987710122309
+      Dust_Wailer_attack_28: -4682955430637035102
+      Dust_Wailer_attack_29: -6531818869768341582
+      Dust_Wailer_attack_3: -9210464971125568178
+      Dust_Wailer_attack_30: -5578662047436822287
+      Dust_Wailer_attack_31: -7783892368456826134
+      Dust_Wailer_attack_32: 4428388387101342754
+      Dust_Wailer_attack_33: -3914163381095867004
+      Dust_Wailer_attack_34: -7262463925716117924
+      Dust_Wailer_attack_35: -4557412662731731417
+      Dust_Wailer_attack_36: 7204232041967535022
+      Dust_Wailer_attack_37: 6408666476951675501
+      Dust_Wailer_attack_38: -2504041901761239432
+      Dust_Wailer_attack_39: -3492878833958979519
+      Dust_Wailer_attack_4: -5378181392377482219
+      Dust_Wailer_attack_40: 7451296413482487313
+      Dust_Wailer_attack_41: -603068185708890035
+      Dust_Wailer_attack_42: 5757551576743021538
+      Dust_Wailer_attack_43: -5100303138004985768
+      Dust_Wailer_attack_44: 5786104607932672349
+      Dust_Wailer_attack_45: 337364177246206763
+      Dust_Wailer_attack_46: 3975111161040988967
+      Dust_Wailer_attack_47: -2255732600345547681
+      Dust_Wailer_attack_48: 4895764565538676421
+      Dust_Wailer_attack_49: -4906460890207521283
+      Dust_Wailer_attack_5: 706224885858608481
+      Dust_Wailer_attack_50: -8952575936717679601
+      Dust_Wailer_attack_51: -7066109607998120139
+      Dust_Wailer_attack_52: -1520048674015110657
+      Dust_Wailer_attack_53: 8649700675336653916
+      Dust_Wailer_attack_54: 647148881658834207
+      Dust_Wailer_attack_55: 4543708317630350873
+      Dust_Wailer_attack_56: 3248712082010387470
+      Dust_Wailer_attack_57: -6682700795464472697
+      Dust_Wailer_attack_58: 3443521351011815538
+      Dust_Wailer_attack_59: -6209243779873858954
+      Dust_Wailer_attack_6: -5473374756429397749
+      Dust_Wailer_attack_60: 6906486313918112370
+      Dust_Wailer_attack_61: 2559182739873686879
+      Dust_Wailer_attack_62: 3666965118162165662
+      Dust_Wailer_attack_63: 6349727697916581734
+      Dust_Wailer_attack_64: 399764136076802749
+      Dust_Wailer_attack_65: -9009624083863419847
+      Dust_Wailer_attack_66: -4363265476057472549
+      Dust_Wailer_attack_67: -2762023138376984435
+      Dust_Wailer_attack_68: 815354290469084614
+      Dust_Wailer_attack_69: -6807668401119841862
+      Dust_Wailer_attack_7: -6242926238211957194
+      Dust_Wailer_attack_70: -7348067283211724384
+      Dust_Wailer_attack_71: -653135221506205761
+      Dust_Wailer_attack_72: 7615417744340964496
+      Dust_Wailer_attack_73: -4353846391054534614
+      Dust_Wailer_attack_74: -2244909230644443029
+      Dust_Wailer_attack_75: -5070365306435974228
+      Dust_Wailer_attack_76: -1660260404125749839
+      Dust_Wailer_attack_77: 690604656151076348
+      Dust_Wailer_attack_78: -6192125215462617361
+      Dust_Wailer_attack_79: 5619834099207300185
+      Dust_Wailer_attack_8: -8530331984797781178
+      Dust_Wailer_attack_80: 5887911567455974367
+      Dust_Wailer_attack_81: 5217455705730251054
+      Dust_Wailer_attack_82: -3428387023708534837
+      Dust_Wailer_attack_83: 3098197615106652222
+      Dust_Wailer_attack_84: 6401317600257831060
+      Dust_Wailer_attack_85: 6893206138516973361
+      Dust_Wailer_attack_86: 2832305855678777264
+      Dust_Wailer_attack_87: 5448483778865085389
+      Dust_Wailer_attack_88: -7007114774050624806
+      Dust_Wailer_attack_89: 2658621599147100009
+      Dust_Wailer_attack_9: 6318010501267916361
+      Dust_Wailer_attack_90: -4993989334192808213
+      Dust_Wailer_attack_91: 6906282156346143296
+      Dust_Wailer_attack_92: -3854814917150499270
+      Dust_Wailer_attack_93: 4998683699515183657
+      Dust_Wailer_attack_94: 2173770382561170724
+      Dust_Wailer_attack_95: 6768157928358030057
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

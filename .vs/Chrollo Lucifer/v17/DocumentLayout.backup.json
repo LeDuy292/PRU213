@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "D:\\PRU213\\Chrollo Lucifer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9FDFC50D-AD39-2DD8-56A4-6FDE259F9A32}|Assembly-CSharp.csproj|d:\\pru213\\chrollo lucifer\\assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9FDFC50D-AD39-2DD8-56A4-6FDE259F9A32}|Assembly-CSharp.csproj|D:\\PRU213\\Chrollo Lucifer\\assets\\script\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FDFC50D-AD39-2DD8-56A4-6FDE259F9A32}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FDFC50D-AD39-2DD8-56A4-6FDE259F9A32}|Assembly-CSharp.csproj|d:\\pru213\\chrollo lucifer\\assets\\script\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FDFC50D-AD39-2DD8-56A4-6FDE259F9A32}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FDFC50D-AD39-2DD8-56A4-6FDE259F9A32}|Assembly-CSharp.csproj|D:\\PRU213\\Chrollo Lucifer\\assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9FDFC50D-AD39-2DD8-56A4-6FDE259F9A32}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9FDFC50D-AD39-2DD8-56A4-6FDE259F9A32}|Assembly-CSharp.csproj|d:\\pru213\\chrollo lucifer\\assets\\script\\skillcooldownui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9FDFC50D-AD39-2DD8-56A4-6FDE259F9A32}|Assembly-CSharp.csproj|D:\\PRU213\\Chrollo Lucifer\\assets\\script\\skillcooldownui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9FDFC50D-AD39-2DD8-56A4-6FDE259F9A32}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\skillcooldownui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9FDFC50D-AD39-2DD8-56A4-6FDE259F9A32}|Assembly-CSharp.csproj|D:\\PRU213\\Chrollo Lucifer\\assets\\script\\skilldamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9FDFC50D-AD39-2DD8-56A4-6FDE259F9A32}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\skilldamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9FDFC50D-AD39-2DD8-56A4-6FDE259F9A32}|Assembly-CSharp.csproj|D:\\PRU213\\Chrollo Lucifer\\assets\\script\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9FDFC50D-AD39-2DD8-56A4-6FDE259F9A32}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9FDFC50D-AD39-2DD8-56A4-6FDE259F9A32}|Assembly-CSharp.csproj|D:\\PRU213\\Chrollo Lucifer\\assets\\script\\momeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,11 +46,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "EnemyManager.cs",
+              "DocumentMoniker": "D:\\PRU213\\Chrollo Lucifer\\Assets\\Script\\EnemyManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\EnemyManager.cs",
+              "ToolTip": "D:\\PRU213\\Chrollo Lucifer\\Assets\\Script\\EnemyManager.cs",
+              "RelativeToolTip": "Assets\\Script\\EnemyManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIAwwBMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:10:27.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "SkillCooldownUI.cs",
               "DocumentMoniker": "D:\\PRU213\\Chrollo Lucifer\\Assets\\Script\\SkillCooldownUI.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\SkillCooldownUI.cs",
@@ -54,28 +75,24 @@
               "RelativeToolTip": "Assets\\Script\\SkillCooldownUI.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAuwCMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T17:39:26.806Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+              "WhenOpened": "2026-01-27T17:39:26.806Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "EnemyHealth.cs",
               "DocumentMoniker": "D:\\PRU213\\Chrollo Lucifer\\Assets\\Script\\EnemyHealth.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\EnemyHealth.cs",
               "ToolTip": "D:\\PRU213\\Chrollo Lucifer\\Assets\\Script\\EnemyHealth.cs",
               "RelativeToolTip": "Assets\\Script\\EnemyHealth.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T04:07:31.827Z"
+              "WhenOpened": "2026-01-27T04:07:31.827Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "SkillDamage.cs",
               "DocumentMoniker": "D:\\PRU213\\Chrollo Lucifer\\Assets\\Script\\SkillDamage.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\SkillDamage.cs",
@@ -87,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "momEffect.cs",
               "DocumentMoniker": "D:\\PRU213\\Chrollo Lucifer\\Assets\\Script\\momEffect.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\momEffect.cs",
@@ -99,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "dragonEffect.cs",
               "DocumentMoniker": "D:\\PRU213\\Chrollo Lucifer\\Assets\\Script\\dragonEffect.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\dragonEffect.cs",
@@ -111,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "SlashEffect.cs",
               "DocumentMoniker": "D:\\PRU213\\Chrollo Lucifer\\Assets\\Script\\SlashEffect.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\SlashEffect.cs",
@@ -123,20 +140,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "D:\\PRU213\\Chrollo Lucifer\\Assets\\Script\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\PlayerController.cs",
               "ToolTip": "D:\\PRU213\\Chrollo Lucifer\\Assets\\Script\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Script\\PlayerController.cs",
-              "ViewState": "AgIAAP0AAAAAAAAAAAAmwBkBAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEkAAAAAAAAAAIBJwFMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-25T09:41:19.003Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-25T09:41:19.003Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Movement.cs",
               "DocumentMoniker": "D:\\PRU213\\Chrollo Lucifer\\Assets\\Script\\Movement.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Movement.cs",

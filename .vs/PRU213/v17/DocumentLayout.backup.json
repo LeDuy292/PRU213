@@ -1,24 +1,24 @@
 {
   "Version": 1,
- feature/UIIntroduction
-  "WorkspaceRootPath": "D:\\K\u1EF3 7\\PRU213\\Project_Game\\PRU213\\PRU213\\",
-  "Documents": [],
-  "WorkspaceRootPath": "D:\\1\\PRU\\pro\\PRU213\\",
+  "WorkspaceRootPath": "D:\\K\u1EF3 7\\PRU213\\Project_Game\\PRU213\\New folder\\PRU213\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\1\\PRU\\pro\\PRU213\\Assets\\Sprites\\Enemy\\Karasu_tengu\\script\\playerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Sprites\\Enemy\\Karasu_tengu\\script\\playerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A0FF6CA7-7D74-FEF2-BA5B-0E2C1D9C7B16}|Assembly-CSharp.csproj|d:\\k\u1EF3 7\\pru213\\project_game\\pru213\\new folder\\pru213\\assets\\scripts\\introductioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0FF6CA7-7D74-FEF2-BA5B-0E2C1D9C7B16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\introductioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\1\\PRU\\pro\\PRU213\\Assets\\Sprites\\Enemy\\Karasu_tengu\\script\\enemy1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Sprites\\Enemy\\Karasu_tengu\\script\\enemy1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A0FF6CA7-7D74-FEF2-BA5B-0E2C1D9C7B16}|Assembly-CSharp.csproj|d:\\k\u1EF3 7\\pru213\\project_game\\pru213\\new folder\\pru213\\assets\\sprites\\enemy\\karasu_tengu\\script\\enemy1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0FF6CA7-7D74-FEF2-BA5B-0E2C1D9C7B16}|Assembly-CSharp.csproj|solutionrelative:assets\\sprites\\enemy\\karasu_tengu\\script\\enemy1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\1\\PRU\\pro\\PRU213\\Assets\\Sprites\\Enemy\\cung\\Skeleton_Archer\\sprits\\PlayerHealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Sprites\\Enemy\\cung\\Skeleton_Archer\\sprits\\PlayerHealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A0FF6CA7-7D74-FEF2-BA5B-0E2C1D9C7B16}|Assembly-CSharp.csproj|d:\\k\u1EF3 7\\pru213\\project_game\\pru213\\new folder\\pru213\\assets\\sprites\\enemy\\cung\\skeleton_archer\\sprits\\cung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0FF6CA7-7D74-FEF2-BA5B-0E2C1D9C7B16}|Assembly-CSharp.csproj|solutionrelative:assets\\sprites\\enemy\\cung\\skeleton_archer\\sprits\\cung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0FF6CA7-7D74-FEF2-BA5B-0E2C1D9C7B16}|Assembly-CSharp.csproj|d:\\k\u1EF3 7\\pru213\\project_game\\pru213\\new folder\\pru213\\assets\\sprites\\enemy\\cung\\skeleton_archer\\sprits\\arrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0FF6CA7-7D74-FEF2-BA5B-0E2C1D9C7B16}|Assembly-CSharp.csproj|solutionrelative:assets\\sprites\\enemy\\cung\\skeleton_archer\\sprits\\arrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
- develop
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -26,29 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
- feature/UIIntroduction
           "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "playerController.cs",
-              "DocumentMoniker": "D:\\1\\PRU\\pro\\PRU213\\Assets\\Sprites\\Enemy\\Karasu_tengu\\script\\playerController.cs",
-              "RelativeDocumentMoniker": "Assets\\Sprites\\Enemy\\Karasu_tengu\\script\\playerController.cs",
-              "ToolTip": "D:\\1\\PRU\\pro\\PRU213\\Assets\\Sprites\\Enemy\\Karasu_tengu\\script\\playerController.cs",
-              "RelativeToolTip": "Assets\\Sprites\\Enemy\\Karasu_tengu\\script\\playerController.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T17:16:55.029Z"
-            },
-            {
-              "$type": "Bookmark",
- develop
             },
             {
               "$type": "Bookmark",
@@ -72,47 +54,69 @@
             },
             {
               "$type": "Bookmark",
- feature/UIIntroduction
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             }
           ]
         },
         {
           "DockedWidth": 1210,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "enemy1.cs",
-              "DocumentMoniker": "D:\\1\\PRU\\pro\\PRU213\\Assets\\Sprites\\Enemy\\Karasu_tengu\\script\\enemy1.cs",
+              "DocumentMoniker": "D:\\K\u1EF3 7\\PRU213\\Project_Game\\PRU213\\New folder\\PRU213\\Assets\\Sprites\\Enemy\\Karasu_tengu\\script\\enemy1.cs",
               "RelativeDocumentMoniker": "Assets\\Sprites\\Enemy\\Karasu_tengu\\script\\enemy1.cs",
-              "ToolTip": "D:\\1\\PRU\\pro\\PRU213\\Assets\\Sprites\\Enemy\\Karasu_tengu\\script\\enemy1.cs",
+              "ToolTip": "D:\\K\u1EF3 7\\PRU213\\Project_Game\\PRU213\\New folder\\PRU213\\Assets\\Sprites\\Enemy\\Karasu_tengu\\script\\enemy1.cs",
               "RelativeToolTip": "Assets\\Sprites\\Enemy\\Karasu_tengu\\script\\enemy1.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T18:38:55.317Z",
+              "WhenOpened": "2026-01-28T07:08:13.351Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PlayerHealth.cs",
-              "DocumentMoniker": "D:\\1\\PRU\\pro\\PRU213\\Assets\\Sprites\\Enemy\\cung\\Skeleton_Archer\\sprits\\PlayerHealth.cs",
-              "RelativeDocumentMoniker": "Assets\\Sprites\\Enemy\\cung\\Skeleton_Archer\\sprits\\PlayerHealth.cs",
-              "ToolTip": "D:\\1\\PRU\\pro\\PRU213\\Assets\\Sprites\\Enemy\\cung\\Skeleton_Archer\\sprits\\PlayerHealth.cs",
-              "RelativeToolTip": "Assets\\Sprites\\Enemy\\cung\\Skeleton_Archer\\sprits\\PlayerHealth.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAIAAAApAAAAAAAAAA==",
+              "Title": "cung.cs",
+              "DocumentMoniker": "D:\\K\u1EF3 7\\PRU213\\Project_Game\\PRU213\\New folder\\PRU213\\Assets\\Sprites\\Enemy\\cung\\Skeleton_Archer\\sprits\\cung.cs",
+              "RelativeDocumentMoniker": "Assets\\Sprites\\Enemy\\cung\\Skeleton_Archer\\sprits\\cung.cs",
+              "ToolTip": "D:\\K\u1EF3 7\\PRU213\\Project_Game\\PRU213\\New folder\\PRU213\\Assets\\Sprites\\Enemy\\cung\\Skeleton_Archer\\sprits\\cung.cs",
+              "RelativeToolTip": "Assets\\Sprites\\Enemy\\cung\\Skeleton_Archer\\sprits\\cung.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAAAowNcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T18:18:31.834Z",
+              "WhenOpened": "2026-01-28T07:06:39.211Z",
               "EditorCaption": ""
-develop
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Arrow.cs",
+              "DocumentMoniker": "D:\\K\u1EF3 7\\PRU213\\Project_Game\\PRU213\\New folder\\PRU213\\Assets\\Sprites\\Enemy\\cung\\Skeleton_Archer\\sprits\\Arrow.cs",
+              "RelativeDocumentMoniker": "Assets\\Sprites\\Enemy\\cung\\Skeleton_Archer\\sprits\\Arrow.cs",
+              "ToolTip": "D:\\K\u1EF3 7\\PRU213\\Project_Game\\PRU213\\New folder\\PRU213\\Assets\\Sprites\\Enemy\\cung\\Skeleton_Archer\\sprits\\Arrow.cs",
+              "RelativeToolTip": "Assets\\Sprites\\Enemy\\cung\\Skeleton_Archer\\sprits\\Arrow.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAowFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T07:05:58.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IntroductionController.cs",
+              "DocumentMoniker": "D:\\K\u1EF3 7\\PRU213\\Project_Game\\PRU213\\New folder\\PRU213\\Assets\\Scripts\\IntroductionController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IntroductionController.cs",
+              "ToolTip": "D:\\K\u1EF3 7\\PRU213\\Project_Game\\PRU213\\New folder\\PRU213\\Assets\\Scripts\\IntroductionController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IntroductionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T07:01:12.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             }
           ]
         }

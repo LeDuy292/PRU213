@@ -25,16 +25,20 @@ public class IntroductionController : MonoBehaviour
     // ---------------------------------------------------------
     public void OnStartButtonClicked()
     {
-        Debug.Log("Nút START đã được bấm! Đang chuyển sang game...");
-        
-        // Kiểm tra xem scene có tồn tại không
-        if (Application.CanStreamedLevelBeLoaded(gameSceneName))
+        Debug.Log("Nút START đã được bấm! Đang chuyển sang video trailer...");
+
+        // Chuyển sang VideoTrailerScene thay vì GameScene
+        string videoSceneName = "VideoTrailerScene";
+
+        if (Application.CanStreamedLevelBeLoaded(videoSceneName))
         {
-            SceneManager.LoadScene(gameSceneName);
+            SceneManager.LoadScene(videoSceneName);
         }
         else
         {
-            Debug.LogWarning($"Không tìm thấy scene: {gameSceneName}. Vui lòng kiểm tra Build Settings!");
+            Debug.LogWarning($"Không tìm thấy scene: {videoSceneName}. Chuyển thẳng sang GameScene...");
+            // Fallback: Nếu không có video scene, chuyển thẳng sang game
+            SceneManager.LoadScene(gameSceneName);
         }
     }
 

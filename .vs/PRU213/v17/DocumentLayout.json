@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\K\u1EF3 7\\PRU213\\Project_Game\\PRU213\\New folder\\PRU213\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A0FF6CA7-7D74-FEF2-BA5B-0E2C1D9C7B16}|Assembly-CSharp.csproj|d:\\k\u1EF3 7\\pru213\\project_game\\pru213\\new folder\\pru213\\assets\\scripts\\videocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0FF6CA7-7D74-FEF2-BA5B-0E2C1D9C7B16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\videocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A0FF6CA7-7D74-FEF2-BA5B-0E2C1D9C7B16}|Assembly-CSharp.csproj|d:\\k\u1EF3 7\\pru213\\project_game\\pru213\\new folder\\pru213\\assets\\scripts\\introductioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0FF6CA7-7D74-FEF2-BA5B-0E2C1D9C7B16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\introductioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0FF6CA7-7D74-FEF2-BA5B-0E2C1D9C7B16}|Assembly-CSharp.csproj|D:\\K\u1EF3 7\\PRU213\\Project_Game\\PRU213\\New folder\\PRU213\\assets\\scripts\\videocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0FF6CA7-7D74-FEF2-BA5B-0E2C1D9C7B16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\videocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A0FF6CA7-7D74-FEF2-BA5B-0E2C1D9C7B16}|Assembly-CSharp.csproj|D:\\K\u1EF3 7\\PRU213\\Project_Game\\PRU213\\New folder\\PRU213\\assets\\sprites\\enemy\\karasu_tengu\\script\\enemy1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -69,6 +69,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "IntroductionController.cs",
+              "DocumentMoniker": "D:\\K\u1EF3 7\\PRU213\\Project_Game\\PRU213\\New folder\\PRU213\\Assets\\Scripts\\IntroductionController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IntroductionController.cs",
+              "ToolTip": "D:\\K\u1EF3 7\\PRU213\\Project_Game\\PRU213\\New folder\\PRU213\\Assets\\Scripts\\IntroductionController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IntroductionController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwCoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T07:01:12.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "VideoController.cs",
               "DocumentMoniker": "D:\\K\u1EF3 7\\PRU213\\Project_Game\\PRU213\\New folder\\PRU213\\Assets\\Scripts\\VideoController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\VideoController.cs",
@@ -76,12 +93,7 @@
               "RelativeToolTip": "Assets\\Scripts\\VideoController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T05:11:12.74Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+              "WhenOpened": "2026-02-02T05:11:12.74Z"
             },
             {
               "$type": "Document",
@@ -118,19 +130,6 @@
               "ViewState": "AgIAADIAAAAAAAAAAAAowFIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-28T07:05:58.553Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IntroductionController.cs",
-              "DocumentMoniker": "D:\\K\u1EF3 7\\PRU213\\Project_Game\\PRU213\\New folder\\PRU213\\Assets\\Scripts\\IntroductionController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\IntroductionController.cs",
-              "ToolTip": "D:\\K\u1EF3 7\\PRU213\\Project_Game\\PRU213\\New folder\\PRU213\\Assets\\Scripts\\IntroductionController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\IntroductionController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T07:01:12.747Z",
-              "EditorCaption": ""
             }
           ]
         }

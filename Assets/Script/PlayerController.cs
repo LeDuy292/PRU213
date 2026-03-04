@@ -1,25 +1,54 @@
 ﻿using System;
 using UnityEngine;
+using System.Collections;
 
 public class PlayerController : MonoBehaviour
 {
-    [SerializeField] private float speed = 5.0f;
-    [SerializeField] private float jump = 10.0f;
+    // ==================== MOVEMENT ====================
+
+    [Header("Movement")]
+    [SerializeField] private float speed = 5f;
+    public float Speed => speed + bonusSpeed;
+
+    private float originalSpeed;
+    private float bonusSpeed = 0f;
+
+    [SerializeField] private float jump = 10f;
     [SerializeField] private LayerMask groundLayer;
     [SerializeField] private Transform groundCheck;
-    [SerializeField] private GameObject slashEffectPrefab;
-    [SerializeField] private GameObject dragonEffectPrefab;
-    [SerializeField] private GameObject momEffectPrefab;
-    [SerializeField] private GameObject dragonJudgmentEffectPrefab;
+
+    private bool isGrounded;
+    private bool isAttacking;
+
+    // ==================== DAMAGE ====================
+
+    [Header("Base Damage")]
     [SerializeField] private int normalAttackDamage = 10;
     [SerializeField] private int skill1Damage = 25;
     [SerializeField] private int skill2Damage = 40;
     [SerializeField] private int skill3Damage = 60;
+
+    private float normalDamageBonusPercent = 0f;
+    private float skillDamageBonusPercent = 0f;
+
+    public int Attack => GetNormalDamage();
+
+    // ==================== EFFECT ====================
+
+    [Header("Effects")]
+    [SerializeField] private GameObject slashEffectPrefab;
+    [SerializeField] private GameObject dragonEffectPrefab;
+    [SerializeField] private GameObject momEffectPrefab;
+    [SerializeField] private GameObject dragonJudgmentEffectPrefab;
     [SerializeField] private Transform attackPoint;
+
+    // ==================== COOLDOWN ====================
+
     [Header("Cooldowns")]
     [SerializeField] private SkillCooldownUI skill1UI;
     [SerializeField] private SkillCooldownUI skill2UI;
     [SerializeField] private SkillCooldownUI skill3UI;
+
     [SerializeField] private float normalCooldown = 0.3f;
     [SerializeField] private float skill1Cooldown = 6f;
     [SerializeField] private float skill2Cooldown = 10f;
@@ -30,24 +59,24 @@ public class PlayerController : MonoBehaviour
     private float skill2Timer;
     private float skill3Timer;
 
-    private bool isAttacking;
-    private float attackTimer;
+    // ==================== COMPONENT ====================
+
     private Animator animator;
     private Rigidbody2D rb;
-    private bool isGrounded;
+
+    // ==================== UNITY ====================
+
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
-    }
-    void Start()
-    {
-        
+        originalSpeed = speed;
     }
 
-    // Update is called once per frame
     void Update()
     {
+        UpdateAttackState();
+
         HandleMovement();
         HandleJump();
         UpdateAnimation();
@@ -57,14 +86,63 @@ public class PlayerController : MonoBehaviour
         skill1Timer -= Time.deltaTime;
         skill2Timer -= Time.deltaTime;
         skill3Timer -= Time.deltaTime;
+    }
+
+    // ==================== FIX ATTACK STATE ====================
+
+    private void UpdateAttackState()
+    {
+        AnimatorStateInfo state = animator.GetCurrentAnimatorStateInfo(0);
+
+        if (state.IsTag("Attack"))
+            isAttacking = true;
+        else
+            isAttacking = false;
+    }
+
+    // ==================== MOVEMENT ====================
+
+    private void HandleMovement()
+    {
+        float moveInput = Input.GetAxis("Horizontal");
 
         if (isAttacking)
         {
-            attackTimer -= Time.deltaTime;
-            if (attackTimer <= 0)
-                isAttacking = false;
+            rb.linearVelocity = new Vector2(0, rb.linearVelocity.y);
+            return;
+        }
+
+        rb.linearVelocity = new Vector2(moveInput * Speed, rb.linearVelocity.y);
+
+        if (moveInput > 0)
+            transform.localScale = Vector3.one;
+        else if (moveInput < 0)
+            transform.localScale = new Vector3(-1, 1, 1);
+    }
+
+    private void HandleJump()
+    {
+        isGrounded = Physics2D.OverlapCircle(
+            groundCheck.position,
+            0.2f,
+            groundLayer
+        );
+
+        if (Input.GetButtonDown("Jump") && isGrounded)
+        {
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jump);
         }
     }
+
+    private void UpdateAnimation()
+    {
+        bool isRunning = Math.Abs(rb.linearVelocity.x) > 0.1f;
+
+        animator.SetBool("IsRunning", isRunning);
+        animator.SetBool("IsJumping", !isGrounded);
+    }
+
+    // ==================== ATTACK ====================
 
     private void HandleAttack()
     {
@@ -73,22 +151,19 @@ public class PlayerController : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.J) && normalTimer <= 0)
         {
             normalTimer = normalCooldown;
-            DoAttack("attack");
+            animator.SetTrigger("attack");
         }
         else if (Input.GetKeyDown(KeyCode.Q) && skill1Timer <= 0)
         {
             skill1Timer = skill1Cooldown;
-            DoAttack("Skill1");
-            skill1UI.StartCooldown(skill1Cooldown);
-            Debug.Log("Skill1 UI = " + skill1UI);
-
+            animator.SetTrigger("Skill1");
+            skill1UI?.StartCooldown(skill1Cooldown);
         }
         else if (Input.GetKeyDown(KeyCode.W) && skill2Timer <= 0)
         {
             skill2Timer = skill2Cooldown;
-            DoAttack("Skill2");
-            skill2UI.StartCooldown(skill2Cooldown);
-
+            animator.SetTrigger("Skill2");
+            skill2UI?.StartCooldown(skill2Cooldown);
         }
         else if (Input.GetKeyDown(KeyCode.E) && skill3Timer <= 0)
         {
@@ -99,57 +174,64 @@ public class PlayerController : MonoBehaviour
             }
 
             skill3Timer = skill3Cooldown;
-            DoAttack("Skill3");
-            skill3UI.StartCooldown(skill3Cooldown);
-
+            animator.SetTrigger("Skill3");
+            skill3UI?.StartCooldown(skill3Cooldown);
         }
     }
 
+    // ==================== DAMAGE CALC ====================
 
-    private void DoAttack(string triggerName)
+    public int GetNormalDamage()
     {
-        isAttacking = true;
-        animator.ResetTrigger(triggerName); // an toàn
-        animator.SetTrigger(triggerName);
+        return Mathf.RoundToInt(
+            normalAttackDamage * (1 + normalDamageBonusPercent / 100f)
+        );
     }
 
-
-
-    private void HandleMovement()
+    public int GetSkillDamage(int baseDamage)
     {
-        if (isAttacking)
-        {
-            rb.linearVelocity = new Vector2(0, rb.linearVelocity.y);
-            return;
-        }
-
-        float moveInput = Input.GetAxis("Horizontal");
-        rb.linearVelocity = new Vector2(moveInput * speed, rb.linearVelocity.y);
-
-        if (moveInput > 0)
-            transform.localScale = new Vector3(1, 1, 1);
-        else if (moveInput < 0)
-            transform.localScale = new Vector3(-1, 1, 1);
-
+        return Mathf.RoundToInt(
+            baseDamage * (1 + skillDamageBonusPercent / 100f)
+        );
     }
-    private void HandleJump()
+
+    // ==================== BONUS ====================
+
+    public void AddSpeed(float value) => bonusSpeed += value;
+    public void RemoveSpeed(float value) => bonusSpeed -= value;
+
+    public void AddNormalDamagePercent(float percent)
+        => normalDamageBonusPercent += percent;
+
+    public void RemoveNormalDamagePercent(float percent)
+        => normalDamageBonusPercent -= percent;
+
+    public void AddSkillDamagePercent(float percent)
+        => skillDamageBonusPercent += percent;
+
+    public void RemoveSkillDamagePercent(float percent)
+        => skillDamageBonusPercent -= percent;
+
+    // ==================== SPEED BOOST ====================
+
+    public void BoostSpeed(float amount, float duration)
     {
-        if (Input.GetButtonDown("Jump")&&isGrounded)
-        {
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jump);
-        }
-        isGrounded = Physics2D.OverlapCircle(groundCheck.position, 0.2f, groundLayer);
+        StopAllCoroutines();
+        StartCoroutine(SpeedBoostCoroutine(amount, duration));
     }
-    private void UpdateAnimation()
+
+    private IEnumerator SpeedBoostCoroutine(float amount, float duration)
     {
-        bool isRunning = Math.Abs(rb.linearVelocity.x) > 0.1f;
-        bool isJumping = !isGrounded;
-        animator.SetBool("IsRunning", isRunning);
-        animator.SetBool("IsJumping", isJumping);
+        speed += amount;
+        yield return new WaitForSeconds(duration);
+        speed = originalSpeed;
     }
+
+    // ==================== SPAWN EFFECT ====================
+
     public void SpawnSlashEffect()
     {
-        if (slashEffectPrefab == null || attackPoint == null) return;
+        if (!slashEffectPrefab || !attackPoint) return;
 
         GameObject effect = Instantiate(
             slashEffectPrefab,
@@ -157,24 +239,14 @@ public class PlayerController : MonoBehaviour
             Quaternion.identity
         );
 
-        Vector3 scale = Vector3.one;
-
-        // chỉ quay hướng theo player, KHÔNG đảo ngược
-        scale.x = Mathf.Sign(transform.localScale.x);
-
-        effect.transform.localScale = scale;
-
         SkillDamage dmg = effect.GetComponent<SkillDamage>();
         if (dmg != null)
-        {
-            dmg.damage = normalAttackDamage;
-        }
+            dmg.damage = GetNormalDamage();
     }
-
 
     public void SpawnDragonEffect()
     {
-        if (dragonEffectPrefab == null || attackPoint == null) return;
+        if (!dragonEffectPrefab || !attackPoint) return;
 
         GameObject effect = Instantiate(
             dragonEffectPrefab,
@@ -182,78 +254,48 @@ public class PlayerController : MonoBehaviour
             Quaternion.identity
         );
 
-        Vector3 scale = transform.localScale;
-        scale.x *= -1;
-        scale.x *= 4f;
-        effect.transform.localScale = scale;
-
-        // 👉 DAMAGE SKILL 1
         SkillDamage dmg = effect.GetComponent<SkillDamage>();
         if (dmg != null)
-        {
-            dmg.damage = skill1Damage;
-        }
+            dmg.damage = GetSkillDamage(skill1Damage);
     }
+
     public void SpawnMomEffect()
     {
-        if (momEffectPrefab == null) return;
-        float dir = Mathf.Sign(transform.localScale.x);
-
-        Vector3 offset = new Vector3(0.8f * dir, 0.3f, 0f);
+        if (!momEffectPrefab) return;
 
         GameObject effect = Instantiate(
             momEffectPrefab,
-            transform.position + offset,
+            transform.position,
             Quaternion.identity
         );
 
-        Vector3 scale = transform.localScale;
-        scale.x *= -1;
-        scale.x *= 3f;
-        scale.y *= 2f;
-
-        effect.transform.localScale = scale;
-
         SkillDamage dmg = effect.GetComponent<SkillDamage>();
         if (dmg != null)
-        {
-            dmg.damage = skill2Damage;
-        }
+            dmg.damage = GetSkillDamage(skill2Damage);
     }
-
 
     public void SpawndragonJudgmentEffect()
     {
-        if (dragonJudgmentEffectPrefab == null) return;
+        if (!dragonJudgmentEffectPrefab) return;
 
         Transform target = FindFocusEnemy();
-
-        if (target == null)
-        {
-            Debug.Log("❌ Không có enemy focus");
-            return;
-        }
+        if (target == null) return;
 
         GameObject effect = Instantiate(
             dragonJudgmentEffectPrefab,
-            target.position, // 👈 SPAWN TRÊN ĐẦU ENEMY
+            target.position,
             Quaternion.identity
         );
 
-        Vector3 scale = Vector3.one * 2f;
-        effect.transform.localScale = scale;
-
-        // DAMAGE
         SkillDamage dmg = effect.GetComponent<SkillDamage>();
         if (dmg != null)
-        {
-            dmg.damage = skill3Damage;
-        }
+            dmg.damage = GetSkillDamage(skill3Damage);
     }
 
     private Transform FindFocusEnemy(float range = 8f)
     {
-        Collider2D[] hits = Physics2D.OverlapCircleAll(transform.position, range);
+        Collider2D[] hits =
+            Physics2D.OverlapCircleAll(transform.position, range);
 
         Transform closestEnemy = null;
         float minDistance = Mathf.Infinity;
@@ -262,13 +304,9 @@ public class PlayerController : MonoBehaviour
         {
             if (!hit.CompareTag("Enemy")) continue;
 
-            float dirToEnemy = hit.transform.position.x - transform.position.x;
+            float distance =
+                Vector2.Distance(transform.position, hit.transform.position);
 
-            // chỉ lấy enemy phía trước mặt
-            if (Mathf.Sign(dirToEnemy) != Mathf.Sign(transform.localScale.x))
-                continue;
-
-            float distance = Vector2.Distance(transform.position, hit.transform.position);
             if (distance < minDistance)
             {
                 minDistance = distance;
@@ -278,5 +316,4 @@ public class PlayerController : MonoBehaviour
 
         return closestEnemy;
     }
-
 }

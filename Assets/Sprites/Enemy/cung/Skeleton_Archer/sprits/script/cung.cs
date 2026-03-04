@@ -184,14 +184,14 @@ public class Cung : MonoBehaviour
                 (dir > 0)
                 ? Quaternion.identity
                 : Quaternion.Euler(0, 0, 180); // Quay mũi tên
-
+            // Tạo mũi tên
             GameObject arrow = Instantiate(
                 arrowPrefab,
                 shootPoint.position,
                 rotation
             );
-
-            Rigidbody2D rbArrow =
+             // Đẩy mũi tên bay đi
+            Rigidbody2D rbArrow = 
                 arrow.GetComponent<Rigidbody2D>();
 
             if (rbArrow != null)

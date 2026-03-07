@@ -381,6 +381,37 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &529222094
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 529222095}
+  m_Layer: 0
+  m_Name: 'BossSpawnRight   '
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &529222095
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 529222094}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 25.46, y: -2.43, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &564215418
 GameObject:
   m_ObjectHideFlags: 0
@@ -803,7 +834,7 @@ Transform:
   m_GameObject: {fileID: 1655121877}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 11.54, y: -2.55, z: 0}
+  m_LocalPosition: {x: 18.95, y: -2.55, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -823,18 +854,31 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 79f8df71a7c9131479ee3f7c799bc779, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: '::'
+  m_EditorClassIdentifier: Assembly-CSharp::Boss_BorealController
   meleeRange: 1.5
-  shootRange: 6
-  moveSpeed: 3
-  attackDelay: 1.5
+  shootTriggerDistance: 3
+  moveSpeedForm1: 3
+  moveSpeedForm2: 4.5
+  attackDelay: 0.4
   meleeCooldown: 1.5
-  shootSkillCooldown: 3
-  meleeDuration: 0.6
   projectilePrefab: {fileID: 2375168731411225688, guid: 0443a03c6588cc84da037b9d18254abb, type: 3}
   firePoint: {fileID: 1973371747}
-  shootRate: 0.25
-  shootDuration: 1.2
+  shootChanceForm1: 0.2
+  shootChanceForm2: 0.45
+  shootCooldownChaseForm1: 2.5
+  shootCooldownChaseForm2: 1.8
+  shootDuration: 0.4
+  totalShootWaves: 3
+  bulletsPerWave: 5
+  delayBetweenBullets: 0.3
+  delayBetweenWaves: 2
+  delayAfterAllWaves: 1
+  circularBullets: 15
+  circularWaves: 3
+  delayBetweenCircularWaves: 1.2
+  circularBulletSpeedMultiplier: 1.2
+  formChangeKey: 102
+  isForm2: 0
 --- !u!95 &1655121883
 Animator:
   serializedVersion: 7
@@ -963,7 +1007,7 @@ Transform:
   m_GameObject: {fileID: 1973371746}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.35, y: -0.999, z: 0}
+  m_LocalPosition: {x: 2.119, y: -1.28, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -982,16 +1026,29 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Boss_BorealController
   meleeRange: 1.5
-  shootRange: 6
-  moveSpeed: 3
-  attackDelay: 1.5
+  shootTriggerDistance: 3
+  moveSpeedForm1: 3
+  moveSpeedForm2: 4.5
+  attackDelay: 0.4
   meleeCooldown: 1.5
-  shootSkillCooldown: 3
-  meleeDuration: 0.6
   projectilePrefab: {fileID: 2375168731411225688, guid: 0443a03c6588cc84da037b9d18254abb, type: 3}
   firePoint: {fileID: 1973371747}
-  shootRate: 0.25
-  shootDuration: 1.2
+  shootChanceForm1: 0.2
+  shootChanceForm2: 0.45
+  shootCooldownChaseForm1: 2.5
+  shootCooldownChaseForm2: 1.8
+  shootDuration: 0.4
+  totalShootWaves: 3
+  bulletsPerWave: 5
+  delayBetweenBullets: 0.3
+  delayBetweenWaves: 2
+  delayAfterAllWaves: 15
+  circularBullets: 15
+  circularWaves: 3
+  delayBetweenCircularWaves: 1.2
+  circularBulletSpeedMultiplier: 1.2
+  formChangeKey: 102
+  isForm2: 0
 --- !u!95 &1973371749
 Animator:
   serializedVersion: 7
@@ -1002,7 +1059,7 @@ Animator:
   m_GameObject: {fileID: 1973371746}
   m_Enabled: 0
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 3fe0c039195b3c747a1753cc0ca995b1, type: 2}
+  m_Controller: {fileID: 9100000, guid: 06decab255cd44646840545e6e1b47d3, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -1252,3 +1309,4 @@ SceneRoots:
   - {fileID: 278321853}
   - {fileID: 484963934}
   - {fileID: 730834400}
+  - {fileID: 529222095}

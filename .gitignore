@@ -6,6 +6,8 @@
 [Bb]uilds/
 [Ll]ogs/
 UserSettings/
+Assets/_Recovery/
+**/_Recovery/
 
 # Visual Studio / Rider / IDE
 *.csproj

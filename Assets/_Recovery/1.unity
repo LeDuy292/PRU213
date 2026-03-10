@@ -3702,7 +3702,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyHealth
   maxHP: 70
-  enemyManager: {fileID: 0}
+  expReward: 20
 --- !u!1 &619102797
 GameObject:
   m_ObjectHideFlags: 0
@@ -10187,6 +10187,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::EnemyManager
   enemyCount: 0
   teleport: {fileID: 2024156125}
+  expBar: {fileID: 0}
+  playerExp: 0
+  playerLevel: 1
+  expToNextLevel: 100
+  playerAttack: 10
+  playerHP: 100
 --- !u!4 &1961593578
 Transform:
   m_ObjectHideFlags: 0
@@ -10506,7 +10512,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyHealth
   maxHP: 50
-  enemyManager: {fileID: 0}
+  expReward: 20
 --- !u!1 &2010794458
 GameObject:
   m_ObjectHideFlags: 0

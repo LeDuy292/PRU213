@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 
 [CreateAssetMenu(fileName = "NewConsumable", menuName = "Inventory/Consumable")]
 public class ConsumableItem : Item
@@ -14,7 +14,7 @@ public class ConsumableItem : Item
             return;
         }
 
-        PlayerHealth player = FindObjectOfType<PlayerHealth>();
+        PlayerHealth player = Object.FindFirstObjectByType<PlayerHealth>();
 
         if (player != null)
         {

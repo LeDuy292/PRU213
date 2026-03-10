@@ -5,7 +5,6 @@ public class PlayerHealth : MonoBehaviour
     [SerializeField] private int maxHealth = 100;
     private int currentHealth;
     private bool isDead = false;
-    private int bonusMaxHealth = 0;
 
     // Property để các script khác kiểm tra
     public bool IsDead => isDead;

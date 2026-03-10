@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using UnityEngine;
 using System.Collections;
 
@@ -196,6 +196,14 @@ public class PlayerController : MonoBehaviour
     }
 
     // ==================== BONUS ====================
+
+    public void AddBaseDamage(int amount)
+    {
+        normalAttackDamage += amount;
+        skill1Damage += amount;
+        skill2Damage += amount;
+        skill3Damage += amount;
+    }
 
     public void AddSpeed(float value) => bonusSpeed += value;
     public void RemoveSpeed(float value) => bonusSpeed -= value;

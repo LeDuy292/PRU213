@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 using UnityEngine.UI;
 
 public class EquipmentManager : MonoBehaviour
@@ -28,8 +28,8 @@ public class EquipmentManager : MonoBehaviour
 
     void Start()
     {
-        playerHealth = FindObjectOfType<PlayerHealth>();
-        playerController = FindObjectOfType<PlayerController>(); // ✅ thêm dòng này
+        playerHealth = Object.FindFirstObjectByType<PlayerHealth>();
+        playerController = Object.FindFirstObjectByType<PlayerController>(); // ✅ thêm dòng này
     }
 
     // ================= EQUIP =================

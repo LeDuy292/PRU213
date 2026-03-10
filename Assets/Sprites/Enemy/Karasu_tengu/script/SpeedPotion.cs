@@ -8,7 +8,7 @@ public class SpeedPotion : Item
 
     public override void Use()
     {
-        PlayerController player = FindObjectOfType<PlayerController>();
+        PlayerController player = Object.FindFirstObjectByType<PlayerController>();
 
         if (player != null)
         {

@@ -11,7 +11,7 @@ public class HealthPotion : Item
     public override void Use()
     { 
         // Tìm player trong scene
-        PlayerHealth player = FindObjectOfType<PlayerHealth>();
+        PlayerHealth player = Object.FindFirstObjectByType<PlayerHealth>();
         if (player != null)
         {
             // Gọi method Heal() của player

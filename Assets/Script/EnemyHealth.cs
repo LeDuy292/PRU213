@@ -1,16 +1,23 @@
-﻿using UnityEngine;
+using UnityEngine;
 
 public class EnemyHealth : MonoBehaviour
 {
     [SerializeField] private int maxHP = 100;
     private int currentHP;
-    [SerializeField] private EnemyManager enemyManager;
+
+    [SerializeField] private int expReward = 20;
+
+    private EnemyManager enemyManager;
 
     void Start()
     {
         currentHP = maxHP;
-        enemyManager = FindObjectOfType<EnemyManager>();
-        enemyManager.RegisterEnemy();
+
+        enemyManager = Object.FindFirstObjectByType<EnemyManager>();
+        if (enemyManager != null)
+        {
+            enemyManager.RegisterEnemy();
+        }
     }
 
     public void TakeDamage(int damage)
@@ -27,8 +34,11 @@ public class EnemyHealth : MonoBehaviour
 
     private void Die()
     {
+        if (enemyManager != null)
+        {
+            enemyManager.EnemyDied(expReward); // truyền EXP
+        }
+        
         Destroy(gameObject);
-        enemyManager.EnemyDied();   // 🔥 DÒNG QUAN TRỌNG
-
     }
 }

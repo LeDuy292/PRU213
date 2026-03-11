@@ -170,5 +170,4 @@ public class Boss_ZuraeController : MonoBehaviour
             center + Vector2.left * patrolRadius,
             center + Vector2.right * patrolRadius
         );
-    }
-}
+    }}

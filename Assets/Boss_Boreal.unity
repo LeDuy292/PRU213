@@ -299,7 +299,7 @@ Transform:
   m_GameObject: {fileID: 278321848}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -6.16, y: -4.21, z: 0}
+  m_LocalPosition: {x: -11.73, y: -4.21, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -376,6 +376,37 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 2.557, y: -1.3, z: -20}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &529222094
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 529222095}
+  m_Layer: 0
+  m_Name: 'BossSpawnRight   '
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &529222095
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 529222094}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 25.46, y: -2.43, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -467,7 +498,7 @@ Transform:
   m_GameObject: {fileID: 564215418}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.4432, y: -5.69, z: 0}
+  m_LocalPosition: {x: 2.4432, y: -5.18, z: 0}
   m_LocalScale: {x: 40.697445, y: 0.46784723, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -585,7 +616,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 8672974648505096049, guid: e922b449287d28747a5e7f403ea8b1cb, type: 3}
+  m_Sprite: {fileID: -1234859731917162608, guid: 6ccc047da8c329d4c98deb28b2f35321, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -641,6 +672,37 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1655121881}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1349803349
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1349803350}
+  m_Layer: 0
+  m_Name: pointSkill
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1349803350
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1349803349}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.58, y: 0.45, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1655121881}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1655121877
 GameObject:
   m_ObjectHideFlags: 0
@@ -655,6 +717,12 @@ GameObject:
   - component: {fileID: 1655121878}
   - component: {fileID: 1655121882}
   - component: {fileID: 1655121883}
+  - component: {fileID: 1655121889}
+  - component: {fileID: 1655121888}
+  - component: {fileID: 1655121887}
+  - component: {fileID: 1655121886}
+  - component: {fileID: 1655121885}
+  - component: {fileID: 1655121884}
   m_Layer: 0
   m_Name: Boss_Boreal
   m_TagString: Player
@@ -803,13 +871,14 @@ Transform:
   m_GameObject: {fileID: 1655121877}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 11.54, y: -2.55, z: 0}
+  m_LocalPosition: {x: 18.95, y: -2.11, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 776134025}
   - {fileID: 1810575508}
   - {fileID: 1973371747}
+  - {fileID: 1349803350}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1655121882
@@ -823,18 +892,17 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 79f8df71a7c9131479ee3f7c799bc779, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: '::'
-  meleeRange: 1.5
-  shootRange: 6
-  moveSpeed: 3
-  attackDelay: 1.5
-  meleeCooldown: 1.5
-  shootSkillCooldown: 3
-  meleeDuration: 0.6
-  projectilePrefab: {fileID: 2375168731411225688, guid: 0443a03c6588cc84da037b9d18254abb, type: 3}
-  firePoint: {fileID: 1973371747}
-  shootRate: 0.25
-  shootDuration: 1.2
+  m_EditorClassIdentifier: Assembly-CSharp::Boss_BorealController
+  player: {fileID: 0}
+  rb: {fileID: 0}
+  animator: {fileID: 0}
+  Movement: {fileID: 0}
+  Melee: {fileID: 0}
+  ShootChase: {fileID: 0}
+  InitialPhase: {fileID: 0}
+  Form2Attacks: {fileID: 0}
+  FormManager: {fileID: 0}
+  currentState: 0
 --- !u!95 &1655121883
 Animator:
   serializedVersion: 7
@@ -857,6 +925,125 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &1655121884
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1655121877}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7588b35dca8d92a4ba822feaef7a7b5f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::BossShootChase
+  projectilePrefab: {fileID: 2375168731411225688, guid: 0443a03c6588cc84da037b9d18254abb, type: 3}
+  firePoint: {fileID: 1973371747}
+  shootChanceForm1: 0.2
+  shootChanceForm2: 0.45
+  shootCooldownChaseForm1: 2.5
+  shootCooldownChaseForm2: 1.8
+  shootDuration: 0.4
+  shootTriggerDistance: 3
+--- !u!114 &1655121885
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1655121877}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0617f4ba67542742ae77bd9dc74682f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::BossMovement
+  moveSpeedForm1: 3
+  moveSpeedForm2: 4.5
+  moveX: 0
+--- !u!114 &1655121886
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1655121877}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be5fdef2a21005841b493d7b115f87bb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::BossMeleeAttack
+  meleeRange: 1.5
+  attackDelay: 0.4
+  meleeCooldown: 5
+  isTouchingPlayer: 0
+--- !u!114 &1655121887
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1655121877}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8edb8dfb78977db45a0d86836acf0911, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::BossInitialShootPhase
+  projectilePrefab: {fileID: 2375168731411225688, guid: 0443a03c6588cc84da037b9d18254abb, type: 3}
+  firePoint: {fileID: 1973371747}
+  totalShootWaves: 3
+  bulletsPerWave: 5
+  delayBetweenBullets: 0.3
+  delayBetweenWaves: 2
+  delayAfterAllWaves: 1
+  hasFinishedInitialShootPhase: 0
+--- !u!114 &1655121888
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1655121877}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d11f08ef211f8641a930dc4225a3568, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::BossFormManager
+  formChangeKey: 102
+  isForm2: 0
+--- !u!114 &1655121889
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1655121877}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b832ab51b91994445ab22f233a68ff55, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::BossForm2Attacks
+  projectilePrefab: {fileID: 2375168731411225688, guid: 0443a03c6588cc84da037b9d18254abb, type: 3}
+  firePoint: {fileID: 1973371747}
+  circularBullets: 15
+  circularWaves: 3
+  delayBetweenCircularWaves: 1.2
+  circularBulletSpeedMultiplier: 1.2
+  rainProjectilePrefab: {fileID: 8800209415644271365, guid: 9a2ac48ef651930419ae55508971f3ef, type: 3}
+  rainBulletsPerWave: 20
+  rainSpawnPerTick: 5
+  delayBetweenRainTicks: 0.1
+  rainWaves: 4
+  delayBetweenRainWaves: 1
+  rainSpawnHeightOffset: 3
+  rainSpeed: 2
+  rainCooldown: 20
+  blizzardVortexPrefab: {fileID: 7897270314011666655, guid: cd7fec6514c1a8d4e946d30ac4b14912, type: 3}
+  vortexFirePoint: {fileID: 1349803350}
+  blizzardFirstDelayMin: 15
+  blizzardFirstDelayMax: 25
+  blizzardCooldownMin: 15
+  blizzardCooldownMax: 25
+  vortexSpeed: 6
 --- !u!1 &1810575507
 GameObject:
   m_ObjectHideFlags: 0
@@ -962,13 +1149,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1973371746}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.35, y: -0.999, z: 0}
+  m_LocalRotation: {x: 0.048318807, y: -0, z: -0, w: 0.998832}
+  m_LocalPosition: {x: 1.7199993, y: -1.15, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1655121881}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 5.539, y: 0, z: 0}
 --- !u!114 &1973371748
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -981,17 +1168,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 79f8df71a7c9131479ee3f7c799bc779, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Boss_BorealController
-  meleeRange: 1.5
-  shootRange: 6
-  moveSpeed: 3
-  attackDelay: 1.5
-  meleeCooldown: 1.5
-  shootSkillCooldown: 3
-  meleeDuration: 0.6
-  projectilePrefab: {fileID: 2375168731411225688, guid: 0443a03c6588cc84da037b9d18254abb, type: 3}
-  firePoint: {fileID: 1973371747}
-  shootRate: 0.25
-  shootDuration: 1.2
+  player: {fileID: 0}
+  rb: {fileID: 0}
+  animator: {fileID: 0}
+  Movement: {fileID: 0}
+  Melee: {fileID: 0}
+  ShootChase: {fileID: 0}
+  InitialPhase: {fileID: 0}
+  Form2Attacks: {fileID: 0}
+  FormManager: {fileID: 0}
+  currentState: 0
 --- !u!95 &1973371749
 Animator:
   serializedVersion: 7
@@ -1002,7 +1188,7 @@ Animator:
   m_GameObject: {fileID: 1973371746}
   m_Enabled: 0
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 3fe0c039195b3c747a1753cc0ca995b1, type: 2}
+  m_Controller: {fileID: 9100000, guid: 06decab255cd44646840545e6e1b47d3, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -1252,3 +1438,4 @@ SceneRoots:
   - {fileID: 278321853}
   - {fileID: 484963934}
   - {fileID: 730834400}
+  - {fileID: 529222095}

@@ -5,7 +5,7 @@ public class BossMeleeAttack : MonoBehaviour
     [Header("Range & Timing")]
     [SerializeField] public float meleeRange = 1.5f;
     [SerializeField] private float attackDelay = 0.4f;
-    [SerializeField] private float meleeCooldown = 1.5f;
+    [SerializeField] private float meleeCooldown = 5f;
 
     [HideInInspector] public bool isTouchingPlayer;
     private float attackTimer;
@@ -32,7 +32,7 @@ public class BossMeleeAttack : MonoBehaviour
     private void StartMelee()
     {
         lastMeleeTime = Time.time;
-        attackTimer = 0f;
+        attackTimer = 2f;
         boss.TriggerAnimator("Melee"); // hoặc "Skill"
         Invoke(nameof(EndMelee), 0.6f);
     }

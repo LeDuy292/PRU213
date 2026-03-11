@@ -17,7 +17,7 @@ public class BossForm2Attacks : MonoBehaviour
     [Header("Form 2 - Rain of Bullets")]
     [SerializeField] private GameObject rainProjectilePrefab;
     [SerializeField] private int rainBulletsPerWave = 20;
-    [SerializeField] private int rainSpawnPerTick = 5;
+    [SerializeField] private int rainSpawnPerTick = 5;          // Sinh 5 viên mỗi lần để tránh lag
     [SerializeField] private float delayBetweenRainTicks = 0.1f;
     [SerializeField] private int rainWaves = 4;
     [SerializeField] private float delayBetweenRainWaves = 1f;
@@ -68,7 +68,13 @@ public class BossForm2Attacks : MonoBehaviour
         {
             for (int i = 0; i < circularBullets; i++)
             {
+                // Ví dụ: 15 đạn → mỗi viên cách 24° (360/15 = 24)
+                // i=0: 0°, i=1: 24°, i=2: 48°, ..., i=14: 336°
                 float angle = i * (360f / circularBullets);
+
+                // Cos(angle) → thành phần X (ngang)
+                // Sin(angle) → thành phần Y (dọc)
+                // Mathf.Deg2Rad: chuyển độ (° ) sang radian (π/180) vì Cos/Sin dùng radian
                 Vector2 dir = new Vector2(Mathf.Cos(angle * Mathf.Deg2Rad), Mathf.Sin(angle * Mathf.Deg2Rad));
                 GameObject bullet = Instantiate(projectilePrefab, firePoint.position, Quaternion.identity);
                 Projectile proj = bullet.GetComponent<Projectile>();
@@ -103,6 +109,10 @@ public class BossForm2Attacks : MonoBehaviour
         boss.TriggerAnimator("RainAttack");
 
         Camera cam = Camera.main;
+
+        // 5. Tính chiều rộng màn hình (dành cho Orthographic Camera 2D)
+        // orthographicSize = chiều cao màn hình / 2
+        // * cam.aspect = tỷ lệ khung hình (width/height) → chiều rộng = height * aspect * 2
         float screenWidth = cam.orthographicSize * cam.aspect * 2f;
         float spawnY = cam.transform.position.y + cam.orthographicSize + rainSpawnHeightOffset;
 
@@ -114,8 +124,11 @@ public class BossForm2Attacks : MonoBehaviour
                 int thisTick = Mathf.Min(rainSpawnPerTick, rainBulletsPerWave - bulletsSpawned);
                 for (int i = 0; i < thisTick; i++)
                 {
+                    //Vị trí X random: từ trái màn hình đến phải màn hình
                     float x = Random.Range(cam.transform.position.x - screenWidth / 2f,
                                            cam.transform.position.x + screenWidth / 2f);
+
+                    //Vị trí spawn: (x random, spawnY cao, z=0)
                     Vector3 pos = new Vector3(x, spawnY, 0f);
                     GameObject bullet = Instantiate(rainProjectilePrefab, pos, Quaternion.identity);
                     ProjectileRainBullets proj = bullet.GetComponent<ProjectileRainBullets>();
@@ -157,7 +170,6 @@ public class BossForm2Attacks : MonoBehaviour
 
         FireBlizzardVortex();
         yield return new WaitForSeconds(2f);
-        FireBlizzardVortex();
 
         float nextCooldown = Random.Range(blizzardCooldownMin, blizzardCooldownMax);
         lastBlizzardTime = Time.time;

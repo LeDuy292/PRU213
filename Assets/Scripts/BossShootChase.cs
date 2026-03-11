@@ -5,10 +5,10 @@ public class BossShootChase : MonoBehaviour
     [Header("Shoot During Chase")]
     [SerializeField] private GameObject projectilePrefab;
     [SerializeField] private Transform firePoint;
-    [SerializeField] public float shootChanceForm1 = 0.2f;
-    [SerializeField] public float shootChanceForm2 = 0.45f;
-    [SerializeField] public float shootCooldownChaseForm1 = 2.5f;
-    [SerializeField] public float shootCooldownChaseForm2 = 1.8f;
+    [SerializeField] public float shootChanceForm1 = 0.1f;
+    [SerializeField] public float shootChanceForm2 = 0.35f;
+    [SerializeField] public float shootCooldownChaseForm1 = 4.5f;
+    [SerializeField] public float shootCooldownChaseForm2 = 2.8f;
     [SerializeField] private float shootDuration = 0.4f;
 
     [SerializeField] private float shootTriggerDistance = 3f;

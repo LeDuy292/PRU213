@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 289c488dd4ef13342a17cc57395a8acd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6024183106106512403
+    second: Dust_Wailer_idle_0
+  - first:
+      213: 4407162360545796191
+    second: Dust_Wailer_idle_1
+  - first:
+      213: -6542922206225924767
+    second: Dust_Wailer_idle_2
+  - first:
+      213: 7137502077212524605
+    second: Dust_Wailer_idle_3
+  - first:
+      213: -8516570543677330009
+    second: Dust_Wailer_idle_4
+  - first:
+      213: -4799415844456579252
+    second: Dust_Wailer_idle_5
+  - first:
+      213: 5356178683933798603
+    second: Dust_Wailer_idle_6
+  - first:
+      213: 4482818451244457833
+    second: Dust_Wailer_idle_7
+  - first:
+      213: -2234964845802907071
+    second: Dust_Wailer_idle_8
+  - first:
+      213: 9128236413792126299
+    second: Dust_Wailer_idle_9
+  - first:
+      213: 1935607740289852397
+    second: Dust_Wailer_idle_10
+  - first:
+      213: 2740211424843378382
+    second: Dust_Wailer_idle_11
+  - first:
+      213: -7256855679292048404
+    second: Dust_Wailer_idle_12
+  - first:
+      213: -2915405983632213587
+    second: Dust_Wailer_idle_13
+  - first:
+      213: 6957535687477299308
+    second: Dust_Wailer_idle_14
+  - first:
+      213: -3612982463524022342
+    second: Dust_Wailer_idle_15
+  - first:
+      213: -2446626288181833854
+    second: Dust_Wailer_idle_16
+  - first:
+      213: 8558559845652792382
+    second: Dust_Wailer_idle_17
+  - first:
+      213: -2320192544818846637
+    second: Dust_Wailer_idle_18
+  - first:
+      213: -24397146465963989
+    second: Dust_Wailer_idle_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dust_Wailer_idle_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 493
+        width: 63
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31453651e923a9350800000000000000
+      internalID: 6024183106106512403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_idle_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 493
+        width: 63
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50edc711d2692d30800000000000000
+      internalID: 4407162360545796191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_idle_2
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 493
+        width: 63
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d73e85beed235a0800000000000000
+      internalID: -6542922206225924767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_idle_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 493
+        width: 62
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d308dd7b2508d0360800000000000000
+      internalID: 7137502077212524605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_idle_4
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 373
+        width: 62
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7adae8796301fc980800000000000000
+      internalID: -8516570543677330009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_idle_5
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 373
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4fb8c5c7bc056db0800000000000000
+      internalID: -4799415844456579252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_idle_6
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 373
+        width: 63
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0b4618228f45a40800000000000000
+      internalID: 5356178683933798603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_idle_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 373
+        width: 73
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f1ef261ab263e30800000000000000
+      internalID: 4482818451244457833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_idle_8
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 253
+        width: 73
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a9e68605fcbf0e0800000000000000
+      internalID: -2234964845802907071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_idle_9
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 253
+        width: 72
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b558dd5a7a20eae70800000000000000
+      internalID: 9128236413792126299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_idle_10
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 253
+        width: 69
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de329780cf8acda10800000000000000
+      internalID: 1935607740289852397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_idle_11
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 253
+        width: 69
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecea14bc5cf270620800000000000000
+      internalID: 2740211424843378382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_idle_12
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 133
+        width: 69
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb758945387a4b90800000000000000
+      internalID: -7256855679292048404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_idle_13
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 133
+        width: 63
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9bd8154b56a87d0800000000000000
+      internalID: -2915405983632213587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_idle_14
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 134
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68003c58d12e8060800000000000000
+      internalID: 6957535687477299308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_idle_15
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 133
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab75fe1879b1cddc0800000000000000
+      internalID: -3612982463524022342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_idle_16
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 135
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f0aca8a56db0ed0800000000000000
+      internalID: -2446626288181833854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_idle_17
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 133
+        width: 74
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e348e0d95dc16c670800000000000000
+      internalID: 8558559845652792382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_idle_18
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 13
+        width: 75
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35420936c250dcfd0800000000000000
+      internalID: -2320192544818846637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust_Wailer_idle_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 13
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20fc5face259aff0800000000000000
+      internalID: -24397146465963989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dust_Wailer_idle_0: 6024183106106512403
+      Dust_Wailer_idle_1: 4407162360545796191
+      Dust_Wailer_idle_10: 1935607740289852397
+      Dust_Wailer_idle_11: 2740211424843378382
+      Dust_Wailer_idle_12: -7256855679292048404
+      Dust_Wailer_idle_13: -2915405983632213587
+      Dust_Wailer_idle_14: 6957535687477299308
+      Dust_Wailer_idle_15: -3612982463524022342
+      Dust_Wailer_idle_16: -2446626288181833854
+      Dust_Wailer_idle_17: 8558559845652792382
+      Dust_Wailer_idle_18: -2320192544818846637
+      Dust_Wailer_idle_19: -24397146465963989
+      Dust_Wailer_idle_2: -6542922206225924767
+      Dust_Wailer_idle_3: 7137502077212524605
+      Dust_Wailer_idle_4: -8516570543677330009
+      Dust_Wailer_idle_5: -4799415844456579252
+      Dust_Wailer_idle_6: 5356178683933798603
+      Dust_Wailer_idle_7: 4482818451244457833
+      Dust_Wailer_idle_8: -2234964845802907071
+      Dust_Wailer_idle_9: 9128236413792126299
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,975 @@
+fileFormatVersion: 2
+guid: 21673b72392866e46bb6fce89d39a96a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5275981883427906103
+    second: Flamewreath_breathing_0
+  - first:
+      213: -6706599584451923430
+    second: Flamewreath_breathing_1
+  - first:
+      213: 8853142781677627138
+    second: Flamewreath_breathing_2
+  - first:
+      213: 2728101288434278752
+    second: Flamewreath_breathing_3
+  - first:
+      213: -8710592298398458621
+    second: Flamewreath_breathing_4
+  - first:
+      213: -4395024267849136062
+    second: Flamewreath_breathing_5
+  - first:
+      213: 4494441039113346622
+    second: Flamewreath_breathing_6
+  - first:
+      213: 4351519571875588031
+    second: Flamewreath_breathing_7
+  - first:
+      213: -904680909505276492
+    second: Flamewreath_breathing_8
+  - first:
+      213: 1332664216957614962
+    second: Flamewreath_breathing_9
+  - first:
+      213: -8230820329689720667
+    second: Flamewreath_breathing_10
+  - first:
+      213: 5069742656473924399
+    second: Flamewreath_breathing_11
+  - first:
+      213: -4392343591717714727
+    second: Flamewreath_breathing_12
+  - first:
+      213: 2561437344315470654
+    second: Flamewreath_breathing_13
+  - first:
+      213: -915160509728167118
+    second: Flamewreath_breathing_14
+  - first:
+      213: -4902935562724367720
+    second: Flamewreath_breathing_15
+  - first:
+      213: 879798714751461896
+    second: Flamewreath_breathing_16
+  - first:
+      213: 5781262369217789170
+    second: Flamewreath_breathing_17
+  - first:
+      213: 784678050051116115
+    second: Flamewreath_breathing_18
+  - first:
+      213: 9013817462079734835
+    second: Flamewreath_breathing_19
+  - first:
+      213: -7171139294718033676
+    second: Flamewreath_breathing_20
+  - first:
+      213: -5404766332309517332
+    second: Flamewreath_breathing_21
+  - first:
+      213: -48233036301450540
+    second: Flamewreath_breathing_22
+  - first:
+      213: -1331242234804836022
+    second: Flamewreath_breathing_23
+  - first:
+      213: -622986317055509608
+    second: Flamewreath_breathing_24
+  - first:
+      213: -4848563842592065235
+    second: Flamewreath_breathing_25
+  - first:
+      213: -2904719671460266012
+    second: Flamewreath_breathing_26
+  - first:
+      213: 3415010951240750606
+    second: Flamewreath_breathing_27
+  - first:
+      213: -2715795786298215320
+    second: Flamewreath_breathing_28
+  - first:
+      213: -1289434993418518879
+    second: Flamewreath_breathing_29
+  - first:
+      213: 6023965874169788563
+    second: Flamewreath_breathing_30
+  - first:
+      213: 2028132714642821083
+    second: Flamewreath_breathing_31
+  - first:
+      213: -384666702066079731
+    second: Flamewreath_breathing_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flamewreath_breathing_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 396
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732ed13d19d083940800000000000000
+      internalID: 5275981883427906103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_breathing_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 380
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12f5f5063f5de2a0800000000000000
+      internalID: -6706599584451923430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_breathing_2
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 411
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20765b7347eacda70800000000000000
+      internalID: 8853142781677627138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_breathing_3
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 411
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0612960faa92cd520800000000000000
+      internalID: 2728101288434278752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_breathing_4
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 396
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30dd4be8472cd1780800000000000000
+      internalID: -8710592298398458621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_breathing_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 380
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24881a7d6bcb103c0800000000000000
+      internalID: -4395024267849136062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_breathing_6
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 411
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ed94000567f5e30800000000000000
+      internalID: 4494441039113346622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_breathing_7
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 411
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7edcacef3b36c30800000000000000
+      internalID: 4351519571875588031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_breathing_8
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 396
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b55cd9818de173f0800000000000000
+      internalID: -904680909505276492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_breathing_9
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 380
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27bf1a86b039e7210800000000000000
+      internalID: 1332664216957614962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_breathing_10
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 411
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8d7c6d48046cd80800000000000000
+      internalID: -8230820329689720667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_breathing_11
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 411
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2306cdd5185b5640800000000000000
+      internalID: 5069742656473924399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_breathing_12
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 396
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4c33466c24b03c0800000000000000
+      internalID: -4392343591717714727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_breathing_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 380
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33f75e81bd0c8320800000000000000
+      internalID: 2561437344315470654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_breathing_14
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 411
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23bef297d52bc43f0800000000000000
+      internalID: -915160509728167118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_breathing_15
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 411
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8922f23251645fbb0800000000000000
+      internalID: -4902935562724367720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_breathing_16
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 276
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a2b9a054ca53c00800000000000000
+      internalID: 879798714751461896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_breathing_17
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 260
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc3f8e8e7b2b3050800000000000000
+      internalID: 5781262369217789170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_breathing_18
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 291
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35cc754778cb3ea00800000000000000
+      internalID: 784678050051116115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_breathing_19
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 291
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334c9797933871d70800000000000000
+      internalID: 9013817462079734835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_breathing_20
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 260
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f08c774ecefa7c90800000000000000
+      internalID: -7171139294718033676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_breathing_21
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 291
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb43bc08a96ef4b0800000000000000
+      internalID: -5404766332309517332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_breathing_22
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 291
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d240dc1f44a45ff0800000000000000
+      internalID: -48233036301450540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_breathing_23
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 260
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49e57c9d3a768de0800000000000000
+      internalID: -1331242234804836022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_breathing_24
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 291
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b3affce35ba57f0800000000000000
+      internalID: -622986317055509608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_breathing_25
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 291
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d293f7bbfd076bcb0800000000000000
+      internalID: -4848563842592065235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_breathing_26
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 260
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef758249dc50b7d0800000000000000
+      internalID: -2904719671460266012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_breathing_27
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 140
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0616ccdd5e846f20800000000000000
+      internalID: 3415010951240750606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_breathing_28
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 140
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864313b0f1e8f4ad0800000000000000
+      internalID: -2715795786298215320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_breathing_29
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 140
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aeb45884b10b1ee0800000000000000
+      internalID: -1289434993418518879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_breathing_30
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 140
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39837f4db0d699350800000000000000
+      internalID: 6023965874169788563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_breathing_31
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 20
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf42ad55ff552c10800000000000000
+      internalID: 2028132714642821083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamewreath_breathing_32
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 20
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d082e6a2ca369aaf0800000000000000
+      internalID: -384666702066079731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Flamewreath_breathing_0: 5275981883427906103
+      Flamewreath_breathing_1: -6706599584451923430
+      Flamewreath_breathing_10: -8230820329689720667
+      Flamewreath_breathing_11: 5069742656473924399
+      Flamewreath_breathing_12: -4392343591717714727
+      Flamewreath_breathing_13: 2561437344315470654
+      Flamewreath_breathing_14: -915160509728167118
+      Flamewreath_breathing_15: -4902935562724367720
+      Flamewreath_breathing_16: 879798714751461896
+      Flamewreath_breathing_17: 5781262369217789170
+      Flamewreath_breathing_18: 784678050051116115
+      Flamewreath_breathing_19: 9013817462079734835
+      Flamewreath_breathing_2: 8853142781677627138
+      Flamewreath_breathing_20: -7171139294718033676
+      Flamewreath_breathing_21: -5404766332309517332
+      Flamewreath_breathing_22: -48233036301450540
+      Flamewreath_breathing_23: -1331242234804836022
+      Flamewreath_breathing_24: -622986317055509608
+      Flamewreath_breathing_25: -4848563842592065235
+      Flamewreath_breathing_26: -2904719671460266012
+      Flamewreath_breathing_27: 3415010951240750606
+      Flamewreath_breathing_28: -2715795786298215320
+      Flamewreath_breathing_29: -1289434993418518879
+      Flamewreath_breathing_3: 2728101288434278752
+      Flamewreath_breathing_30: 6023965874169788563
+      Flamewreath_breathing_31: 2028132714642821083
+      Flamewreath_breathing_32: -384666702066079731
+      Flamewreath_breathing_4: -8710592298398458621
+      Flamewreath_breathing_5: -4395024267849136062
+      Flamewreath_breathing_6: 4494441039113346622
+      Flamewreath_breathing_7: 4351519571875588031
+      Flamewreath_breathing_8: -904680909505276492
+      Flamewreath_breathing_9: 1332664216957614962
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

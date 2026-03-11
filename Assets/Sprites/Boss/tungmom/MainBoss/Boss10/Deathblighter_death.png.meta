@@ -1,0 +1,3289 @@
+fileFormatVersion: 2
+guid: 50ba4bc49c102174292c2a12502f667a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 145925708562792489
+    second: Deathblighter_death_0
+  - first:
+      213: 6715913197005618369
+    second: Deathblighter_death_1
+  - first:
+      213: -1460398354505852707
+    second: Deathblighter_death_2
+  - first:
+      213: -5132679065578367052
+    second: Deathblighter_death_3
+  - first:
+      213: 5467938408573448386
+    second: Deathblighter_death_4
+  - first:
+      213: 418657962135323265
+    second: Deathblighter_death_5
+  - first:
+      213: -3497112456184699408
+    second: Deathblighter_death_6
+  - first:
+      213: 320507233349768295
+    second: Deathblighter_death_7
+  - first:
+      213: 1876808930486195112
+    second: Deathblighter_death_8
+  - first:
+      213: -6400039670956997166
+    second: Deathblighter_death_9
+  - first:
+      213: 618914495115166169
+    second: Deathblighter_death_10
+  - first:
+      213: -3139535493857774990
+    second: Deathblighter_death_11
+  - first:
+      213: -8464914231446399870
+    second: Deathblighter_death_12
+  - first:
+      213: 8032356571624153843
+    second: Deathblighter_death_13
+  - first:
+      213: -5794766492608607358
+    second: Deathblighter_death_14
+  - first:
+      213: 405647390354131913
+    second: Deathblighter_death_15
+  - first:
+      213: -886394161960232209
+    second: Deathblighter_death_16
+  - first:
+      213: -3182683982374868034
+    second: Deathblighter_death_17
+  - first:
+      213: 5798142271884547312
+    second: Deathblighter_death_18
+  - first:
+      213: -6628527774085817731
+    second: Deathblighter_death_19
+  - first:
+      213: 2039348259975755201
+    second: Deathblighter_death_20
+  - first:
+      213: -8056081134217308398
+    second: Deathblighter_death_21
+  - first:
+      213: 6619412260135856271
+    second: Deathblighter_death_22
+  - first:
+      213: -1605942022864228782
+    second: Deathblighter_death_23
+  - first:
+      213: -2544854785474273225
+    second: Deathblighter_death_24
+  - first:
+      213: -6991397000519191173
+    second: Deathblighter_death_25
+  - first:
+      213: -7141054445644389979
+    second: Deathblighter_death_26
+  - first:
+      213: 7970718684002229940
+    second: Deathblighter_death_27
+  - first:
+      213: 3590799161293059037
+    second: Deathblighter_death_28
+  - first:
+      213: 1354739017114041734
+    second: Deathblighter_death_29
+  - first:
+      213: -829928340012489737
+    second: Deathblighter_death_30
+  - first:
+      213: -5633877941041946104
+    second: Deathblighter_death_31
+  - first:
+      213: 1593128162878494325
+    second: Deathblighter_death_32
+  - first:
+      213: -7928846368546982669
+    second: Deathblighter_death_33
+  - first:
+      213: -1624850725430504332
+    second: Deathblighter_death_34
+  - first:
+      213: -3369096532065378715
+    second: Deathblighter_death_35
+  - first:
+      213: 7841927586757050708
+    second: Deathblighter_death_36
+  - first:
+      213: 6122835591186420771
+    second: Deathblighter_death_37
+  - first:
+      213: 6726470810479786769
+    second: Deathblighter_death_38
+  - first:
+      213: 3998905355310463822
+    second: Deathblighter_death_39
+  - first:
+      213: -8903077042545823904
+    second: Deathblighter_death_40
+  - first:
+      213: -4415319627848524230
+    second: Deathblighter_death_41
+  - first:
+      213: 8303064497482796106
+    second: Deathblighter_death_42
+  - first:
+      213: -3758890718447850844
+    second: Deathblighter_death_43
+  - first:
+      213: -8664119820673407192
+    second: Deathblighter_death_44
+  - first:
+      213: 3285080457087908188
+    second: Deathblighter_death_45
+  - first:
+      213: -4259830351975064247
+    second: Deathblighter_death_46
+  - first:
+      213: 4860655338405555584
+    second: Deathblighter_death_47
+  - first:
+      213: 1649659310497620979
+    second: Deathblighter_death_48
+  - first:
+      213: -5707753623184622220
+    second: Deathblighter_death_49
+  - first:
+      213: 2773180148581750105
+    second: Deathblighter_death_50
+  - first:
+      213: -3024473943032602817
+    second: Deathblighter_death_51
+  - first:
+      213: 337937048393436858
+    second: Deathblighter_death_52
+  - first:
+      213: 351791232963926917
+    second: Deathblighter_death_53
+  - first:
+      213: 5217548401897278351
+    second: Deathblighter_death_54
+  - first:
+      213: 6416259262843162247
+    second: Deathblighter_death_55
+  - first:
+      213: -6263078416625558303
+    second: Deathblighter_death_56
+  - first:
+      213: 3993408025003487878
+    second: Deathblighter_death_57
+  - first:
+      213: 3901416584589575403
+    second: Deathblighter_death_58
+  - first:
+      213: -7346925539667252518
+    second: Deathblighter_death_59
+  - first:
+      213: -6777430518492849973
+    second: Deathblighter_death_60
+  - first:
+      213: -6612411507933003508
+    second: Deathblighter_death_61
+  - first:
+      213: 3174389897999840030
+    second: Deathblighter_death_62
+  - first:
+      213: 8137611552954489691
+    second: Deathblighter_death_63
+  - first:
+      213: 6251494778355700694
+    second: Deathblighter_death_64
+  - first:
+      213: 2045330750256818593
+    second: Deathblighter_death_65
+  - first:
+      213: -3491400935346942809
+    second: Deathblighter_death_66
+  - first:
+      213: -2606634417344216055
+    second: Deathblighter_death_67
+  - first:
+      213: -5233250641329759135
+    second: Deathblighter_death_68
+  - first:
+      213: -4298269549241365098
+    second: Deathblighter_death_69
+  - first:
+      213: -995360671245694542
+    second: Deathblighter_death_70
+  - first:
+      213: -7115048787446664147
+    second: Deathblighter_death_71
+  - first:
+      213: 6884569153666620401
+    second: Deathblighter_death_72
+  - first:
+      213: 420827092847517178
+    second: Deathblighter_death_73
+  - first:
+      213: -4775557866124266972
+    second: Deathblighter_death_74
+  - first:
+      213: 1397992755371225879
+    second: Deathblighter_death_75
+  - first:
+      213: 1711337170998597657
+    second: Deathblighter_death_76
+  - first:
+      213: 7684602966428657314
+    second: Deathblighter_death_77
+  - first:
+      213: 6004438853163225756
+    second: Deathblighter_death_78
+  - first:
+      213: 2316839827689570326
+    second: Deathblighter_death_79
+  - first:
+      213: -7889081659041961992
+    second: Deathblighter_death_80
+  - first:
+      213: 5801006780943530173
+    second: Deathblighter_death_81
+  - first:
+      213: -995609436879994952
+    second: Deathblighter_death_82
+  - first:
+      213: 1425598930930144994
+    second: Deathblighter_death_83
+  - first:
+      213: -4267014258511939868
+    second: Deathblighter_death_84
+  - first:
+      213: -3573331273195235980
+    second: Deathblighter_death_85
+  - first:
+      213: -993880131966040894
+    second: Deathblighter_death_86
+  - first:
+      213: -8369938078031311276
+    second: Deathblighter_death_87
+  - first:
+      213: -8242583239873282416
+    second: Deathblighter_death_88
+  - first:
+      213: 1545714252914992163
+    second: Deathblighter_death_89
+  - first:
+      213: 2496908680003013261
+    second: Deathblighter_death_90
+  - first:
+      213: 5505060376688097508
+    second: Deathblighter_death_91
+  - first:
+      213: 7505092854523701410
+    second: Deathblighter_death_92
+  - first:
+      213: -7871331333972278266
+    second: Deathblighter_death_93
+  - first:
+      213: 7655334955157971872
+    second: Deathblighter_death_94
+  - first:
+      213: -8338219960689232925
+    second: Deathblighter_death_95
+  - first:
+      213: -5442084618613390784
+    second: Deathblighter_death_96
+  - first:
+      213: 5030122791102525875
+    second: Deathblighter_death_97
+  - first:
+      213: 4891205953028560750
+    second: Deathblighter_death_98
+  - first:
+      213: 5600561333998771335
+    second: Deathblighter_death_99
+  - first:
+      213: -3068992402154480234
+    second: Deathblighter_death_100
+  - first:
+      213: -4493013244450747517
+    second: Deathblighter_death_101
+  - first:
+      213: -1702367179382024811
+    second: Deathblighter_death_102
+  - first:
+      213: 7510195904256160173
+    second: Deathblighter_death_103
+  - first:
+      213: -4403409196028567841
+    second: Deathblighter_death_104
+  - first:
+      213: -8378145628686895565
+    second: Deathblighter_death_105
+  - first:
+      213: 7224356140537169676
+    second: Deathblighter_death_106
+  - first:
+      213: 4217464498924524420
+    second: Deathblighter_death_107
+  - first:
+      213: 3117400230818493408
+    second: Deathblighter_death_108
+  - first:
+      213: -4958973245801864311
+    second: Deathblighter_death_109
+  - first:
+      213: 744290235785659234
+    second: Deathblighter_death_110
+  - first:
+      213: 8995837219615384541
+    second: Deathblighter_death_111
+  - first:
+      213: -8364967861206870124
+    second: Deathblighter_death_112
+  - first:
+      213: -2461413214893145621
+    second: Deathblighter_death_113
+  - first:
+      213: 4004555332164101068
+    second: Deathblighter_death_114
+  - first:
+      213: 9051721198967102041
+    second: Deathblighter_death_115
+  - first:
+      213: -7248315326093825292
+    second: Deathblighter_death_116
+  - first:
+      213: -6848422922383730939
+    second: Deathblighter_death_117
+  - first:
+      213: 1793506542206572334
+    second: Deathblighter_death_118
+  - first:
+      213: 8813516589668103358
+    second: Deathblighter_death_119
+  - first:
+      213: 5385926110776417234
+    second: Deathblighter_death_120
+  - first:
+      213: -7989455711989759393
+    second: Deathblighter_death_121
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Deathblighter_death_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 714
+        width: 68
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9208b76a8ae660200800000000000000
+      internalID: 145925708562792489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 612
+        width: 68
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ccb0e16877b33d50800000000000000
+      internalID: 6715913197005618369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 557
+        width: 111
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd81d112f6f9bbbe0800000000000000
+      internalID: -1460398354505852707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 714
+        width: 68
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b71e1e759f05c8b0800000000000000
+      internalID: -5132679065578367052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 650
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c03cb0230502eb40800000000000000
+      internalID: 5467938408573448386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_5
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 651
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182077bc23f5fc500800000000000000
+      internalID: 418657962135323265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_6
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 651
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f56485efb2c77fc0800000000000000
+      internalID: -3497112456184699408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_7
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 647
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76491cf61aba27400800000000000000
+      internalID: 320507233349768295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_8
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 589
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a319ec47c3cb0a10800000000000000
+      internalID: 1876808930486195112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_9
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 714
+        width: 59
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5433004dd7e27a0800000000000000
+      internalID: -6400039670956997166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_10
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 660
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d10ea34473d69800800000000000000
+      internalID: 618914495115166169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_11
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 645
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27270e03a112e64d0800000000000000
+      internalID: -3139535493857774990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_12
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 654
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2841d740b55968a80800000000000000
+      internalID: -8464914231446399870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_13
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 653
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2aee0aeb9a87f60800000000000000
+      internalID: 8032356571624153843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_14
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 648
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b4ab3b39ad49fa0800000000000000
+      internalID: -5794766492608607358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_15
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 601
+        width: 88
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb4f1ef62621a500800000000000000
+      internalID: 405647390354131913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_16
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 714
+        width: 59
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea516db435e2b3f0800000000000000
+      internalID: -886394161960232209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_17
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 642
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb6836d7c5d4d3d0800000000000000
+      internalID: -3182683982374868034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_18
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 601
+        width: 86
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4dad82da3277050800000000000000
+      internalID: 5798142271884547312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_19
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 669
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7addc1eb1db204a0800000000000000
+      internalID: -6628527774085817731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_20
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 714
+        width: 56
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c57a2100783d4c10800000000000000
+      internalID: 2039348259975755201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_21
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 673
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217504134ec033090800000000000000
+      internalID: -8056081134217308398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_22
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 664
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8863432160ecdb50800000000000000
+      internalID: 6619412260135856271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_23
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 651
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e2e452d3c86b9e0800000000000000
+      internalID: -1605942022864228782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_24
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 655
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7306ada4e0cdeacd0800000000000000
+      internalID: -2544854785474273225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_25
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 651
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b757254587199fe90800000000000000
+      internalID: -6991397000519191173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_26
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 675
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a164ad01d0e5ec90800000000000000
+      internalID: -7141054445644389979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_27
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 641
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be9584996ead9e60800000000000000
+      internalID: 7970718684002229940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_28
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 606
+        width: 101
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3b4a4ffc415d130800000000000000
+      internalID: 3590799161293059037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_29
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 669
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68db17655fffcc210800000000000000
+      internalID: 1354739017114041734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_30
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 714
+        width: 57
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3a68862908b74f0800000000000000
+      internalID: -829928340012489737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_31
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 658
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8022948bcd170d1b0800000000000000
+      internalID: -5633877941041946104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_32
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 651
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5761b069f9deb1610800000000000000
+      internalID: 1593128162878494325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_33
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 674
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f47c149c3417f190800000000000000
+      internalID: -7928846368546982669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_34
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 657
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474dda1cfde5379e0800000000000000
+      internalID: -1624850725430504332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_35
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 672
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e1e38ed809e31d0800000000000000
+      internalID: -3369096532065378715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_36
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 658
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4518df2879f14dc60800000000000000
+      internalID: 7841927586757050708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_37
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 662
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32419cea78ea8f450800000000000000
+      internalID: 6122835591186420771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_38
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 651
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b7ea25099395d50800000000000000
+      internalID: 6726470810479786769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_39
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 675
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4bffa9cb37fe7730800000000000000
+      internalID: 3998905355310463822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_40
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 641
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06fee1fa99ae17480800000000000000
+      internalID: -8903077042545823904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_41
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 678
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e574c1132a9b2c0800000000000000
+      internalID: -4415319627848524230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_42
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 601
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c8e9f3b296a3370800000000000000
+      internalID: 8303064497482796106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_43
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 714
+        width: 57
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa27699eccb5dbc0800000000000000
+      internalID: -3758890718447850844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_44
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 672
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82727557decd2c780800000000000000
+      internalID: -8664119820673407192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_45
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 673
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c597d474543f69d20800000000000000
+      internalID: 3285080457087908188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_46
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 663
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d591b4dda02e4c0800000000000000
+      internalID: -4259830351975064247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_47
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 648
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08de4450744847340800000000000000
+      internalID: 4860655338405555584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_48
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 678
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f360a21764c4e610800000000000000
+      internalID: 1649659310497620979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_49
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 604
+        width: 69
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47db1a8125cf9c0b0800000000000000
+      internalID: -5707753623184622220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_50
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 653
+        width: 88
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9555166f6a05c7620800000000000000
+      internalID: 2773180148581750105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_51
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 633
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3fdd1129f8e606d0800000000000000
+      internalID: -3024473943032602817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_52
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 641
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe4fed74f790b400800000000000000
+      internalID: 337937048393436858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_53
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 629
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b59e33340d1e400800000000000000
+      internalID: 351791232963926917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_54
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 611
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b8e75b0a4786840800000000000000
+      internalID: 5217548401897278351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_55
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 614
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e83940ec12b0950800000000000000
+      internalID: 6416259262843162247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_56
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 612
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec1e900d531519a0800000000000000
+      internalID: -6263078416625558303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_57
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 621
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682f685d07f6b6730800000000000000
+      internalID: 3993408025003487878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_58
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 610
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4874d86bd942630800000000000000
+      internalID: 3901416584589575403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_59
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 599
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada63e8b52a7a0a90800000000000000
+      internalID: -7346925539667252518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_60
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 599
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8975f0adab1f1a0800000000000000
+      internalID: -6777430518492849973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_61
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 601
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01c2f084cefb34a0800000000000000
+      internalID: -6612411507933003508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_62
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 607
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e137ed82bc2bd0c20800000000000000
+      internalID: 3174389897999840030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_63
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 601
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b97fda79a9ee070800000000000000
+      internalID: 8137611552954489691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_64
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 605
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3d91b0165c1c650800000000000000
+      internalID: 6251494778355700694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_65
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 601
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9ad311b79726c10800000000000000
+      internalID: 2045330750256818593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_66
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 607
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7accd28f85d0c8fc0800000000000000
+      internalID: -3491400935346942809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_67
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 587
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90404e6decf53dbd0800000000000000
+      internalID: -2606634417344216055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_68
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 578
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c54f6c442cf57b0800000000000000
+      internalID: -5233250641329759135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_69
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 574
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d07904e9a7954c0800000000000000
+      internalID: -4298269549241365098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_70
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 582
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9810f3eb4cf22f0800000000000000
+      internalID: -995360671245694542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_71
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 504
+        width: 76
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24faa033d4424d90800000000000000
+      internalID: -7115048787446664147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_72
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 541
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb19e35b27ea8f50800000000000000
+      internalID: 6884569153666620401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_73
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 529
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd5905e20417d500800000000000000
+      internalID: 420827092847517178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_74
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 514
+        width: 68
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42237593c6fc9bdb0800000000000000
+      internalID: -4775557866124266972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_75
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 512
+        width: 92
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713b87e010ba66310800000000000000
+      internalID: 1397992755371225879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_76
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 514
+        width: 90
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9181b480714efb710800000000000000
+      internalID: 1711337170998597657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_77
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 514
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6a4e5eea135aa60800000000000000
+      internalID: 7684602966428657314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_78
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 514
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c921956f25d045350800000000000000
+      internalID: 6004438853163225756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_79
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 514
+        width: 70
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6100ae25c81172020800000000000000
+      internalID: 2316839827689570326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_80
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 514
+        width: 70
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f721cc770a548290800000000000000
+      internalID: -7889081659041961992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_81
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 529
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db875c5aee0518050800000000000000
+      internalID: 5801006780943530173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_82
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 510
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfbdbbfd72ee22f0800000000000000
+      internalID: -995609436879994952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_83
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 414
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6944eacaeb8c310800000000000000
+      internalID: 1425598930930144994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_84
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 414
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e67ed5b32588c4c0800000000000000
+      internalID: -4267014258511939868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_85
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 414
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475576ca32af86ec0800000000000000
+      internalID: -3573331273195235980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_86
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 414
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c488d829470532f0800000000000000
+      internalID: -993880131966040894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_87
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 414
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e8de2f9a108db80800000000000000
+      internalID: -8369938078031311276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_88
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 414
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09eb3c3e6367c9d80800000000000000
+      internalID: -8242583239873282416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_89
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 414
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324a1496cea737510800000000000000
+      internalID: 1545714252914992163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_90
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 414
+        width: 68
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a4b2c173dc6a220800000000000000
+      internalID: 2496908680003013261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_91
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 313
+        width: 87
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8729bde37e56c40800000000000000
+      internalID: 5505060376688097508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_92
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 314
+        width: 68
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a825300032772860800000000000000
+      internalID: 7505092854523701410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_93
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 314
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6044e291bd963c290800000000000000
+      internalID: -7871331333972278266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_94
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 314
+        width: 60
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a362def4963d3a60800000000000000
+      internalID: 7655334955157971872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_95
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 343
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3fb00af11b84c80800000000000000
+      internalID: -8338219960689232925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_96
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 314
+        width: 68
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0428eed6fd4d974b0800000000000000
+      internalID: -5442084618613390784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_97
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 314
+        width: 68
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1334c17069ec540800000000000000
+      internalID: 5030122791102525875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_98
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 314
+        width: 59
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e671b8946ed01e340800000000000000
+      internalID: 4891205953028560750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_99
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 314
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78cd8c73cd039bd40800000000000000
+      internalID: 5600561333998771335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_100
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 214
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d9533abafb865d0800000000000000
+      internalID: -3068992402154480234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_101
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 214
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b4369524c95a1c0800000000000000
+      internalID: -4493013244450747517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_102
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 214
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59596a3e11aff58e0800000000000000
+      internalID: -1702367179382024811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_103
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 214
+        width: 67
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da138ca5263993860800000000000000
+      internalID: 7510195904256160173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_104
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 214
+        width: 69
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde570e9aa2f3e2c0800000000000000
+      internalID: -4403409196028567841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_105
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 248
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33630a5a0f8dabb80800000000000000
+      internalID: -8378145628686895565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_106
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 214
+        width: 70
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0741af22a1124460800000000000000
+      internalID: 7224356140537169676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_107
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 248
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483973fdd91778a30800000000000000
+      internalID: 4217464498924524420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_108
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 214
+        width: 70
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e338a44efa334b20800000000000000
+      internalID: 3117400230818493408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_109
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 248
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98360515b103e2bb0800000000000000
+      internalID: -4958973245801864311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_110
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 214
+        width: 70
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263cbc9a600445a00800000000000000
+      internalID: 744290235785659234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_111
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 248
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3a96c0a42a7dc70800000000000000
+      internalID: 8995837219615384541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_112
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 114
+        width: 70
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497943bbc0aa9eb80800000000000000
+      internalID: -8364967861206870124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_113
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 114
+        width: 70
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be187d0e8bd47ddd0800000000000000
+      internalID: -2461413214893145621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_114
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 114
+        width: 76
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3a9098bd9039730800000000000000
+      internalID: 4004555332164101068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_115
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 114
+        width: 76
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a9e4ee87c2e9d70800000000000000
+      internalID: 9051721198967102041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_116
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 114
+        width: 76
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa68283d9fc86b90800000000000000
+      internalID: -7248315326093825292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_117
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 114
+        width: 76
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507dca7f2a385f0a0800000000000000
+      internalID: -6848422922383730939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_118
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 114
+        width: 77
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27df8e92b0d3e810800000000000000
+      internalID: 1793506542206572334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_119
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 114
+        width: 76
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4fd2d64a6ef4a70800000000000000
+      internalID: 8813516589668103358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_120
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 14
+        width: 76
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db545b0347aeba40800000000000000
+      internalID: 5385926110776417234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_death_121
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 14
+        width: 76
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5282222c50cf1190800000000000000
+      internalID: -7989455711989759393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Deathblighter_death_0: 145925708562792489
+      Deathblighter_death_1: 6715913197005618369
+      Deathblighter_death_10: 618914495115166169
+      Deathblighter_death_100: -3068992402154480234
+      Deathblighter_death_101: -4493013244450747517
+      Deathblighter_death_102: -1702367179382024811
+      Deathblighter_death_103: 7510195904256160173
+      Deathblighter_death_104: -4403409196028567841
+      Deathblighter_death_105: -8378145628686895565
+      Deathblighter_death_106: 7224356140537169676
+      Deathblighter_death_107: 4217464498924524420
+      Deathblighter_death_108: 3117400230818493408
+      Deathblighter_death_109: -4958973245801864311
+      Deathblighter_death_11: -3139535493857774990
+      Deathblighter_death_110: 744290235785659234
+      Deathblighter_death_111: 8995837219615384541
+      Deathblighter_death_112: -8364967861206870124
+      Deathblighter_death_113: -2461413214893145621
+      Deathblighter_death_114: 4004555332164101068
+      Deathblighter_death_115: 9051721198967102041
+      Deathblighter_death_116: -7248315326093825292
+      Deathblighter_death_117: -6848422922383730939
+      Deathblighter_death_118: 1793506542206572334
+      Deathblighter_death_119: 8813516589668103358
+      Deathblighter_death_12: -8464914231446399870
+      Deathblighter_death_120: 5385926110776417234
+      Deathblighter_death_121: -7989455711989759393
+      Deathblighter_death_13: 8032356571624153843
+      Deathblighter_death_14: -5794766492608607358
+      Deathblighter_death_15: 405647390354131913
+      Deathblighter_death_16: -886394161960232209
+      Deathblighter_death_17: -3182683982374868034
+      Deathblighter_death_18: 5798142271884547312
+      Deathblighter_death_19: -6628527774085817731
+      Deathblighter_death_2: -1460398354505852707
+      Deathblighter_death_20: 2039348259975755201
+      Deathblighter_death_21: -8056081134217308398
+      Deathblighter_death_22: 6619412260135856271
+      Deathblighter_death_23: -1605942022864228782
+      Deathblighter_death_24: -2544854785474273225
+      Deathblighter_death_25: -6991397000519191173
+      Deathblighter_death_26: -7141054445644389979
+      Deathblighter_death_27: 7970718684002229940
+      Deathblighter_death_28: 3590799161293059037
+      Deathblighter_death_29: 1354739017114041734
+      Deathblighter_death_3: -5132679065578367052
+      Deathblighter_death_30: -829928340012489737
+      Deathblighter_death_31: -5633877941041946104
+      Deathblighter_death_32: 1593128162878494325
+      Deathblighter_death_33: -7928846368546982669
+      Deathblighter_death_34: -1624850725430504332
+      Deathblighter_death_35: -3369096532065378715
+      Deathblighter_death_36: 7841927586757050708
+      Deathblighter_death_37: 6122835591186420771
+      Deathblighter_death_38: 6726470810479786769
+      Deathblighter_death_39: 3998905355310463822
+      Deathblighter_death_4: 5467938408573448386
+      Deathblighter_death_40: -8903077042545823904
+      Deathblighter_death_41: -4415319627848524230
+      Deathblighter_death_42: 8303064497482796106
+      Deathblighter_death_43: -3758890718447850844
+      Deathblighter_death_44: -8664119820673407192
+      Deathblighter_death_45: 3285080457087908188
+      Deathblighter_death_46: -4259830351975064247
+      Deathblighter_death_47: 4860655338405555584
+      Deathblighter_death_48: 1649659310497620979
+      Deathblighter_death_49: -5707753623184622220
+      Deathblighter_death_5: 418657962135323265
+      Deathblighter_death_50: 2773180148581750105
+      Deathblighter_death_51: -3024473943032602817
+      Deathblighter_death_52: 337937048393436858
+      Deathblighter_death_53: 351791232963926917
+      Deathblighter_death_54: 5217548401897278351
+      Deathblighter_death_55: 6416259262843162247
+      Deathblighter_death_56: -6263078416625558303
+      Deathblighter_death_57: 3993408025003487878
+      Deathblighter_death_58: 3901416584589575403
+      Deathblighter_death_59: -7346925539667252518
+      Deathblighter_death_6: -3497112456184699408
+      Deathblighter_death_60: -6777430518492849973
+      Deathblighter_death_61: -6612411507933003508
+      Deathblighter_death_62: 3174389897999840030
+      Deathblighter_death_63: 8137611552954489691
+      Deathblighter_death_64: 6251494778355700694
+      Deathblighter_death_65: 2045330750256818593
+      Deathblighter_death_66: -3491400935346942809
+      Deathblighter_death_67: -2606634417344216055
+      Deathblighter_death_68: -5233250641329759135
+      Deathblighter_death_69: -4298269549241365098
+      Deathblighter_death_7: 320507233349768295
+      Deathblighter_death_70: -995360671245694542
+      Deathblighter_death_71: -7115048787446664147
+      Deathblighter_death_72: 6884569153666620401
+      Deathblighter_death_73: 420827092847517178
+      Deathblighter_death_74: -4775557866124266972
+      Deathblighter_death_75: 1397992755371225879
+      Deathblighter_death_76: 1711337170998597657
+      Deathblighter_death_77: 7684602966428657314
+      Deathblighter_death_78: 6004438853163225756
+      Deathblighter_death_79: 2316839827689570326
+      Deathblighter_death_8: 1876808930486195112
+      Deathblighter_death_80: -7889081659041961992
+      Deathblighter_death_81: 5801006780943530173
+      Deathblighter_death_82: -995609436879994952
+      Deathblighter_death_83: 1425598930930144994
+      Deathblighter_death_84: -4267014258511939868
+      Deathblighter_death_85: -3573331273195235980
+      Deathblighter_death_86: -993880131966040894
+      Deathblighter_death_87: -8369938078031311276
+      Deathblighter_death_88: -8242583239873282416
+      Deathblighter_death_89: 1545714252914992163
+      Deathblighter_death_9: -6400039670956997166
+      Deathblighter_death_90: 2496908680003013261
+      Deathblighter_death_91: 5505060376688097508
+      Deathblighter_death_92: 7505092854523701410
+      Deathblighter_death_93: -7871331333972278266
+      Deathblighter_death_94: 7655334955157971872
+      Deathblighter_death_95: -8338219960689232925
+      Deathblighter_death_96: -5442084618613390784
+      Deathblighter_death_97: 5030122791102525875
+      Deathblighter_death_98: 4891205953028560750
+      Deathblighter_death_99: 5600561333998771335
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

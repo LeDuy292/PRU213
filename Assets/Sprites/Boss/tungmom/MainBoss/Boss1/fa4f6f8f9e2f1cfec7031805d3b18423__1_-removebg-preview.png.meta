@@ -1,5 +1,6 @@
 fileFormatVersion: 2
 guid: b7063096c4f16304fbc837c9893bd698
+
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -133,6 +134,7 @@ TextureImporter:
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 36
+
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -190,6 +192,7 @@ TextureImporter:
         height: 65
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -212,6 +215,7 @@ TextureImporter:
         height: 68
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -234,6 +238,7 @@ TextureImporter:
         height: 67
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -256,6 +261,7 @@ TextureImporter:
         height: 65
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+   pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -279,6 +285,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 30}
+
       customData: 
       outline: []
       physicsShape: []
@@ -291,6 +298,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
+
       name: fa4f6f8f9e2f1cfec7031805d3b18423__1_-removebg-preview_8
       rect:
         serializedVersion: 2
@@ -300,6 +308,7 @@ TextureImporter:
         height: 66
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -322,6 +331,7 @@ TextureImporter:
         height: 65
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -344,6 +354,7 @@ TextureImporter:
         height: 66
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -357,6 +368,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
+
       name: fa4f6f8f9e2f1cfec7031805d3b18423__1_-removebg-preview_16
       rect:
         serializedVersion: 2
@@ -366,6 +378,7 @@ TextureImporter:
         height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -388,6 +401,7 @@ TextureImporter:
         height: 63
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -410,6 +424,7 @@ TextureImporter:
         height: 63
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -432,6 +447,7 @@ TextureImporter:
         height: 63
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -455,6 +471,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 30, z: 12, w: 0}
+
       customData: 
       outline: []
       physicsShape: []
@@ -476,6 +493,7 @@ TextureImporter:
         height: 63
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -499,6 +517,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 2, y: 1, z: 0, w: 0}
+
       customData: 
       outline: []
       physicsShape: []
@@ -520,6 +539,7 @@ TextureImporter:
         height: 65
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -537,6 +557,7 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 911136d22349de049998127c5bc04b56
+
     internalID: 0
     vertices: []
     indices: 

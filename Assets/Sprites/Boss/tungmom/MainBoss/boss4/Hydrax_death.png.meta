@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: aaaf7ba83bf9a044dabdb65dab771deb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3000951235201994712
+    second: Hydrax_death_0
+  - first:
+      213: -9030855798409513956
+    second: Hydrax_death_1
+  - first:
+      213: 4190173754251437468
+    second: Hydrax_death_2
+  - first:
+      213: -698468482494984249
+    second: Hydrax_death_3
+  - first:
+      213: -6371668785502794974
+    second: Hydrax_death_4
+  - first:
+      213: -9142230016115000865
+    second: Hydrax_death_5
+  - first:
+      213: -5239321146420250064
+    second: Hydrax_death_6
+  - first:
+      213: -2817194808197686886
+    second: Hydrax_death_7
+  - first:
+      213: 5250101447501355903
+    second: Hydrax_death_8
+  - first:
+      213: -2364476460517568022
+    second: Hydrax_death_9
+  - first:
+      213: 448822858764217631
+    second: Hydrax_death_10
+  - first:
+      213: -304753962666853845
+    second: Hydrax_death_11
+  - first:
+      213: 2253219854949686444
+    second: Hydrax_death_12
+  - first:
+      213: -7880057447141072551
+    second: Hydrax_death_13
+  - first:
+      213: -5084286864262120938
+    second: Hydrax_death_14
+  - first:
+      213: 462127187389310594
+    second: Hydrax_death_15
+  - first:
+      213: 6941420667823817226
+    second: Hydrax_death_16
+  - first:
+      213: -3684254369364134567
+    second: Hydrax_death_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hydrax_death_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 415
+        width: 59
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df0c7aaf3585a920800000000000000
+      internalID: 3000951235201994712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_death_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 415
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c143606bf74fba280800000000000000
+      internalID: -9030855798409513956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_death_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 415
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95625934dc762a30800000000000000
+      internalID: 4190173754251437468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_death_3
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 415
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf8416ad9a8e46f0800000000000000
+      internalID: -698468482494984249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_death_4
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 315
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b49a58ff84397a0800000000000000
+      internalID: -6371668785502794974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_death_5
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 315
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd93d8aec36402180800000000000000
+      internalID: -9142230016115000865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_death_6
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 315
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03abd6b2d213a47b0800000000000000
+      internalID: -5239321146420250064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_death_7
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 315
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a995d428f3057e8d0800000000000000
+      internalID: -2817194808197686886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_death_8
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 215
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b1515437b1cd840800000000000000
+      internalID: 5250101447501355903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_death_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 215
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1d31bcf21bf2fd0800000000000000
+      internalID: -2364476460517568022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_death_10
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 217
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d67b7130a8a3600800000000000000
+      internalID: 448822858764217631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_death_11
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 218
+        width: 54
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a7957b2eb45cbf0800000000000000
+      internalID: -304753962666853845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_death_12
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 118
+        width: 55
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac122f158b054f10800000000000000
+      internalID: 2253219854949686444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_death_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 115
+        width: 56
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9512c7d808964a290800000000000000
+      internalID: -7880057447141072551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_death_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 115
+        width: 65
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ab87fd80cf079b0800000000000000
+      internalID: -5084286864262120938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_death_15
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 115
+        width: 68
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286e36d7a3ec96600800000000000000
+      internalID: 462127187389310594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_death_16
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 15
+        width: 69
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a028136f151e45060800000000000000
+      internalID: 6941420667823817226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydrax_death_17
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 15
+        width: 68
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955bedbcb26eedcc0800000000000000
+      internalID: -3684254369364134567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hydrax_death_0: 3000951235201994712
+      Hydrax_death_1: -9030855798409513956
+      Hydrax_death_10: 448822858764217631
+      Hydrax_death_11: -304753962666853845
+      Hydrax_death_12: 2253219854949686444
+      Hydrax_death_13: -7880057447141072551
+      Hydrax_death_14: -5084286864262120938
+      Hydrax_death_15: 462127187389310594
+      Hydrax_death_16: 6941420667823817226
+      Hydrax_death_17: -3684254369364134567
+      Hydrax_death_2: 4190173754251437468
+      Hydrax_death_3: -698468482494984249
+      Hydrax_death_4: -6371668785502794974
+      Hydrax_death_5: -9142230016115000865
+      Hydrax_death_6: -5239321146420250064
+      Hydrax_death_7: -2817194808197686886
+      Hydrax_death_8: 5250101447501355903
+      Hydrax_death_9: -2364476460517568022
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

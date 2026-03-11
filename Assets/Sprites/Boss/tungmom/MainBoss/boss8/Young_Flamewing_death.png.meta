@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 1d22d479bc6a38144b4d75e20b71cf5e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1249076727417116793
+    second: Young_Flamewing_death_0
+  - first:
+      213: 8169952069076789023
+    second: Young_Flamewing_death_1
+  - first:
+      213: -541561717753804855
+    second: Young_Flamewing_death_2
+  - first:
+      213: -2913097912088680358
+    second: Young_Flamewing_death_3
+  - first:
+      213: 4648628221383141216
+    second: Young_Flamewing_death_4
+  - first:
+      213: 8612596917165508739
+    second: Young_Flamewing_death_5
+  - first:
+      213: -5129590903759874714
+    second: Young_Flamewing_death_6
+  - first:
+      213: -6321931894496364846
+    second: Young_Flamewing_death_7
+  - first:
+      213: -8272673713136781595
+    second: Young_Flamewing_death_8
+  - first:
+      213: 7531962069005211928
+    second: Young_Flamewing_death_9
+  - first:
+      213: -1355640071897794252
+    second: Young_Flamewing_death_10
+  - first:
+      213: -2800445611649152121
+    second: Young_Flamewing_death_11
+  - first:
+      213: -2990652291441777127
+    second: Young_Flamewing_death_12
+  - first:
+      213: 5362884324845278949
+    second: Young_Flamewing_death_13
+  - first:
+      213: -550856341061711380
+    second: Young_Flamewing_death_14
+  - first:
+      213: -5492638585807617196
+    second: Young_Flamewing_death_15
+  - first:
+      213: -2430532871920159957
+    second: Young_Flamewing_death_16
+  - first:
+      213: 1655678591190184930
+    second: Young_Flamewing_death_17
+  - first:
+      213: -2245786241094031954
+    second: Young_Flamewing_death_18
+  - first:
+      213: 5287231900238656845
+    second: Young_Flamewing_death_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Young_Flamewing_death_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 255
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97897ea6aac955110800000000000000
+      internalID: 1249076727417116793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young_Flamewing_death_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 255
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f172a4dde10816170800000000000000
+      internalID: 8169952069076789023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young_Flamewing_death_2
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 255
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7855dac7cfb78f0800000000000000
+      internalID: -541561717753804855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young_Flamewing_death_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 302
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58a50a12e89297d0800000000000000
+      internalID: -2913097912088680358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young_Flamewing_death_4
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 199
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067e564ecbe338040800000000000000
+      internalID: 4648628221383141216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young_Flamewing_death_5
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 203
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3884641c347168770800000000000000
+      internalID: 8612596917165508739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young_Flamewing_death_6
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 200
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6655152304800d8b0800000000000000
+      internalID: -5129590903759874714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young_Flamewing_death_7
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 204
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6f45edf6cf348a0800000000000000
+      internalID: -6321931894496364846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young_Flamewing_death_8
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 206
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e635c1a61f813d80800000000000000
+      internalID: -8272673713136781595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young_Flamewing_death_9
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 203
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81995c08897e68860800000000000000
+      internalID: 7531962069005211928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young_Flamewing_death_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 172
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4393f3f798ccf2de0800000000000000
+      internalID: -1355640071897794252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young_Flamewing_death_11
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 171
+        width: 55
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78bc9d8bd81d229d0800000000000000
+      internalID: -2800445611649152121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young_Flamewing_death_12
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 128
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916a7e906911f76d0800000000000000
+      internalID: -2990652291441777127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young_Flamewing_death_13
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 129
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6d9e131eacc6a40800000000000000
+      internalID: 5362884324845278949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young_Flamewing_death_14
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 125
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9cebc8317fa58f0800000000000000
+      internalID: -550856341061711380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young_Flamewing_death_15
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 127
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4534555be4a36c3b0800000000000000
+      internalID: -5492638585807617196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young_Flamewing_death_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 88
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23f9420b33054ed0800000000000000
+      internalID: -2430532871920159957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young_Flamewing_death_17
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 88
+        width: 59
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e33c1218e62af610800000000000000
+      internalID: 1655678591190184930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young_Flamewing_death_18
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 88
+        width: 59
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5612aff4d55d0e0800000000000000
+      internalID: -2245786241094031954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young_Flamewing_death_19
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 8
+        width: 59
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45b6da7665006940800000000000000
+      internalID: 5287231900238656845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Young_Flamewing_death_0: 1249076727417116793
+      Young_Flamewing_death_1: 8169952069076789023
+      Young_Flamewing_death_10: -1355640071897794252
+      Young_Flamewing_death_11: -2800445611649152121
+      Young_Flamewing_death_12: -2990652291441777127
+      Young_Flamewing_death_13: 5362884324845278949
+      Young_Flamewing_death_14: -550856341061711380
+      Young_Flamewing_death_15: -5492638585807617196
+      Young_Flamewing_death_16: -2430532871920159957
+      Young_Flamewing_death_17: 1655678591190184930
+      Young_Flamewing_death_18: -2245786241094031954
+      Young_Flamewing_death_19: 5287231900238656845
+      Young_Flamewing_death_2: -541561717753804855
+      Young_Flamewing_death_3: -2913097912088680358
+      Young_Flamewing_death_4: 4648628221383141216
+      Young_Flamewing_death_5: 8612596917165508739
+      Young_Flamewing_death_6: -5129590903759874714
+      Young_Flamewing_death_7: -6321931894496364846
+      Young_Flamewing_death_8: -8272673713136781595
+      Young_Flamewing_death_9: 7531962069005211928
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

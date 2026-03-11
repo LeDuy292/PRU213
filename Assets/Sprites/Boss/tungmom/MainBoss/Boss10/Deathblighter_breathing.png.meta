@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 01872bc9f78843b4696af2a5f15b1400
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2608263108285435646
+    second: Deathblighter_breathing_0
+  - first:
+      213: -4272535209073530787
+    second: Deathblighter_breathing_1
+  - first:
+      213: 3715662102395177819
+    second: Deathblighter_breathing_2
+  - first:
+      213: 855122387577637645
+    second: Deathblighter_breathing_3
+  - first:
+      213: -1280508483751701131
+    second: Deathblighter_breathing_4
+  - first:
+      213: -2730832655016092529
+    second: Deathblighter_breathing_5
+  - first:
+      213: 5850180301036110303
+    second: Deathblighter_breathing_6
+  - first:
+      213: 3025494206012221963
+    second: Deathblighter_breathing_7
+  - first:
+      213: -7358911524057012913
+    second: Deathblighter_breathing_8
+  - first:
+      213: -7372648762377149814
+    second: Deathblighter_breathing_9
+  - first:
+      213: -3836503954331616934
+    second: Deathblighter_breathing_10
+  - first:
+      213: 8722182247635096457
+    second: Deathblighter_breathing_11
+  - first:
+      213: 8381036866666240835
+    second: Deathblighter_breathing_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Deathblighter_breathing_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 314
+        width: 70
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe0c125a79623420800000000000000
+      internalID: 2608263108285435646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_breathing_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 314
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58a2dc3dd7e4b4c0800000000000000
+      internalID: -4272535209073530787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_breathing_2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 314
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b45a6eefea09330800000000000000
+      internalID: 3715662102395177819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_breathing_3
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 314
+        width: 70
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b8c07e7410edb00800000000000000
+      internalID: 855122387577637645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_breathing_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 214
+        width: 70
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5751b168158ba3ee0800000000000000
+      internalID: -1280508483751701131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_breathing_5
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 214
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c9ab83b222a1ad0800000000000000
+      internalID: -2730832655016092529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_breathing_6
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 214
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1ce3bfcf3003150800000000000000
+      internalID: 5850180301036110303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_breathing_7
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 214
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a6c5b53f6bcf920800000000000000
+      internalID: 3025494206012221963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_breathing_8
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 114
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45ad0345f4efd990800000000000000
+      internalID: -7358911524057012913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_breathing_9
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 114
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8269c833071fa990800000000000000
+      internalID: -7372648762377149814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_breathing_10
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 114
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59beaeeafff1cac0800000000000000
+      internalID: -3836503954331616934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_breathing_11
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 114
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9831288ca8a6b0970800000000000000
+      internalID: 8722182247635096457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathblighter_breathing_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 14
+        width: 68
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b181720ac6f4470800000000000000
+      internalID: 8381036866666240835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Deathblighter_breathing_0: 2608263108285435646
+      Deathblighter_breathing_1: -4272535209073530787
+      Deathblighter_breathing_10: -3836503954331616934
+      Deathblighter_breathing_11: 8722182247635096457
+      Deathblighter_breathing_12: 8381036866666240835
+      Deathblighter_breathing_2: 3715662102395177819
+      Deathblighter_breathing_3: 855122387577637645
+      Deathblighter_breathing_4: -1280508483751701131
+      Deathblighter_breathing_5: -2730832655016092529
+      Deathblighter_breathing_6: 5850180301036110303
+      Deathblighter_breathing_7: 3025494206012221963
+      Deathblighter_breathing_8: -7358911524057012913
+      Deathblighter_breathing_9: -7372648762377149814
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

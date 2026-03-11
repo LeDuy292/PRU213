@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 35db0d1e35132f341bad76c64c5ba112
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4933199303104115121
+    second: Young_Flamewing_breathing_0
+  - first:
+      213: 7161347237199124164
+    second: Young_Flamewing_breathing_1
+  - first:
+      213: -6178766418563052665
+    second: Young_Flamewing_breathing_2
+  - first:
+      213: -4094698428401929754
+    second: Young_Flamewing_breathing_3
+  - first:
+      213: 7447095576536656247
+    second: Young_Flamewing_breathing_4
+  - first:
+      213: -7826345478608898713
+    second: Young_Flamewing_breathing_5
+  - first:
+      213: 2622867320561715858
+    second: Young_Flamewing_breathing_6
+  - first:
+      213: 1069589925647923373
+    second: Young_Flamewing_breathing_7
+  - first:
+      213: 4182277578145179172
+    second: Young_Flamewing_breathing_8
+  - first:
+      213: -2704547724358651268
+    second: Young_Flamewing_breathing_9
+  - first:
+      213: 6304165245920945854
+    second: Young_Flamewing_breathing_10
+  - first:
+      213: 3700975718234591077
+    second: Young_Flamewing_breathing_11
+  - first:
+      213: 1714296656250053667
+    second: Young_Flamewing_breathing_12
+  - first:
+      213: 4435877358448569495
+    second: Young_Flamewing_breathing_13
+  - first:
+      213: 8738135045196912532
+    second: Young_Flamewing_breathing_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Young_Flamewing_breathing_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 255
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e464cfe51c98bb0800000000000000
+      internalID: -4933199303104115121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young_Flamewing_breathing_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 255
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c69a7aae57326360800000000000000
+      internalID: 7161347237199124164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young_Flamewing_breathing_2
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 255
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78bcf67cdac904aa0800000000000000
+      internalID: -6178766418563052665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young_Flamewing_breathing_3
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 255
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1b0c85975bc27c0800000000000000
+      internalID: -4094698428401929754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young_Flamewing_breathing_4
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 175
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779a9df68f5695760800000000000000
+      internalID: 7447095576536656247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young_Flamewing_breathing_5
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 175
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7653802c04c336390800000000000000
+      internalID: -7826345478608898713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young_Flamewing_breathing_6
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 175
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29acf077eeb466420800000000000000
+      internalID: 2622867320561715858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young_Flamewing_breathing_7
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 175
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8b495de52f7de00800000000000000
+      internalID: 1069589925647923373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young_Flamewing_breathing_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 95
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426ac657c4f6a0a30800000000000000
+      internalID: 4182277578145179172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young_Flamewing_breathing_9
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 95
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72f28b8c24877ad0800000000000000
+      internalID: -2704547724358651268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young_Flamewing_breathing_10
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 95
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb62b78e3e4ec7750800000000000000
+      internalID: 6304165245920945854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young_Flamewing_breathing_11
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 95
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f08bf9ec18c5330800000000000000
+      internalID: 3700975718234591077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young_Flamewing_breathing_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 15
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324ac63e9b76ac710800000000000000
+      internalID: 1714296656250053667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young_Flamewing_breathing_13
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 15
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c668984f66f8d30800000000000000
+      internalID: 4435877358448569495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young_Flamewing_breathing_14
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 15
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4979a58e687144970800000000000000
+      internalID: 8738135045196912532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Young_Flamewing_breathing_0: -4933199303104115121
+      Young_Flamewing_breathing_1: 7161347237199124164
+      Young_Flamewing_breathing_10: 6304165245920945854
+      Young_Flamewing_breathing_11: 3700975718234591077
+      Young_Flamewing_breathing_12: 1714296656250053667
+      Young_Flamewing_breathing_13: 4435877358448569495
+      Young_Flamewing_breathing_14: 8738135045196912532
+      Young_Flamewing_breathing_2: -6178766418563052665
+      Young_Flamewing_breathing_3: -4094698428401929754
+      Young_Flamewing_breathing_4: 7447095576536656247
+      Young_Flamewing_breathing_5: -7826345478608898713
+      Young_Flamewing_breathing_6: 2622867320561715858
+      Young_Flamewing_breathing_7: 1069589925647923373
+      Young_Flamewing_breathing_8: 4182277578145179172
+      Young_Flamewing_breathing_9: -2704547724358651268
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

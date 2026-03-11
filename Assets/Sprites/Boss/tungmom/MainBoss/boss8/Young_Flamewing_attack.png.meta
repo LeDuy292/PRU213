@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 7c16b2fc1f5a42f4ab3b35121bc9b1b2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5053962982694293303
+    second: Young_Flamewing_attack_0
+  - first:
+      213: -914522517156437824
+    second: Young_Flamewing_attack_1
+  - first:
+      213: 2503559604645699912
+    second: Young_Flamewing_attack_2
+  - first:
+      213: 3539445864948226676
+    second: Young_Flamewing_attack_3
+  - first:
+      213: 1572137176679017596
+    second: Young_Flamewing_attack_4
+  - first:
+      213: 2608353914307529582
+    second: Young_Flamewing_attack_5
+  - first:
+      213: -5683216928833654201
+    second: Young_Flamewing_attack_6
+  - first:
+      213: -5690810810144233780
+    second: Young_Flamewing_attack_7
+  - first:
+      213: -7711682529335247510
+    second: Young_Flamewing_attack_8
+  - first:
+      213: -5291658875297398448
+    second: Young_Flamewing_attack_9
+  - first:
+      213: 9059980778641912137
+    second: Young_Flamewing_attack_10
+  - first:
+      213: 627090163336341150
+    second: Young_Flamewing_attack_11
+  - first:
+      213: -8434858175454347292
+    second: Young_Flamewing_attack_12
+  - first:
+      213: 9213823019775376609
+    second: Young_Flamewing_attack_13
+  - first:
+      213: -4233401082889921461
+    second: Young_Flamewing_attack_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Young_Flamewing_attack_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 255
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f87734e88432640800000000000000
+      internalID: 5053962982694293303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young_Flamewing_attack_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 255
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c06bc1bd96fe43f0800000000000000
+      internalID: -914522517156437824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young_Flamewing_attack_2
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 256
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841acec223e6eb220800000000000000
+      internalID: 2503559604645699912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young_Flamewing_attack_3
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 256
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ad6f9e243ae1130800000000000000
+      internalID: 3539445864948226676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young_Flamewing_attack_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 176
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c6322ce6a51d510800000000000000
+      internalID: 1572137176679017596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young_Flamewing_attack_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 176
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6bccceb01cb23420800000000000000
+      internalID: 2608353914307529582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young_Flamewing_attack_6
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 176
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742326f60582121b0800000000000000
+      internalID: -5683216928833654201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young_Flamewing_attack_7
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 176
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6666928bd2601b0800000000000000
+      internalID: -5690810810144233780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young_Flamewing_attack_8
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 96
+        width: 68
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6df26a09999af490800000000000000
+      internalID: -7711682529335247510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young_Flamewing_attack_9
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 96
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0510b511a404096b0800000000000000
+      internalID: -5291658875297398448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young_Flamewing_attack_10
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 117
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94171de24848bbd70800000000000000
+      internalID: 9059980778641912137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young_Flamewing_attack_11
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 96
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96edcb5e2fd3b800800000000000000
+      internalID: 627090163336341150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young_Flamewing_attack_12
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 96
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef7e31ed2d51fa80800000000000000
+      internalID: -8434858175454347292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young_Flamewing_attack_13
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 16
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec370538331edf70800000000000000
+      internalID: 9213823019775376609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Young_Flamewing_attack_14
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 15
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c97960520ff35c0800000000000000
+      internalID: -4233401082889921461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Young_Flamewing_attack_0: 5053962982694293303
+      Young_Flamewing_attack_1: -914522517156437824
+      Young_Flamewing_attack_10: 9059980778641912137
+      Young_Flamewing_attack_11: 627090163336341150
+      Young_Flamewing_attack_12: -8434858175454347292
+      Young_Flamewing_attack_13: 9213823019775376609
+      Young_Flamewing_attack_14: -4233401082889921461
+      Young_Flamewing_attack_2: 2503559604645699912
+      Young_Flamewing_attack_3: 3539445864948226676
+      Young_Flamewing_attack_4: 1572137176679017596
+      Young_Flamewing_attack_5: 2608353914307529582
+      Young_Flamewing_attack_6: -5683216928833654201
+      Young_Flamewing_attack_7: -5690810810144233780
+      Young_Flamewing_attack_8: -7711682529335247510
+      Young_Flamewing_attack_9: -5291658875297398448
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

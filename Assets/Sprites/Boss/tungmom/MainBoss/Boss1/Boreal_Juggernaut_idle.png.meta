@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 1da69f7554d5332468398cfb2977c2f8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4631800550129618221
+    second: Boreal_Juggernaut_idle_0
+  - first:
+      213: -3822020170040751950
+    second: Boreal_Juggernaut_idle_1
+  - first:
+      213: 8976772206408804668
+    second: Boreal_Juggernaut_idle_2
+  - first:
+      213: 7824760222505737845
+    second: Boreal_Juggernaut_idle_3
+  - first:
+      213: 7503974215842524391
+    second: Boreal_Juggernaut_idle_4
+  - first:
+      213: 9158611516295312632
+    second: Boreal_Juggernaut_idle_5
+  - first:
+      213: 653617053328330879
+    second: Boreal_Juggernaut_idle_6
+  - first:
+      213: -1048942049843305753
+    second: Boreal_Juggernaut_idle_7
+  - first:
+      213: -7941975754020599837
+    second: Boreal_Juggernaut_idle_8
+  - first:
+      213: 1501161268423972567
+    second: Boreal_Juggernaut_idle_9
+  - first:
+      213: -4183493581030650200
+    second: Boreal_Juggernaut_idle_10
+  - first:
+      213: 3113263834472562678
+    second: Boreal_Juggernaut_idle_11
+  - first:
+      213: 2526931874658245660
+    second: Boreal_Juggernaut_idle_12
+  - first:
+      213: -7496497159651403661
+    second: Boreal_Juggernaut_idle_13
+  - first:
+      213: -5633166308964339337
+    second: Boreal_Juggernaut_idle_14
+  - first:
+      213: -1948504458477250530
+    second: Boreal_Juggernaut_idle_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boreal_Juggernaut_idle_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 374
+        width: 76
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2b013a0f988bfb0800000000000000
+      internalID: -4631800550129618221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boreal_Juggernaut_idle_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 374
+        width: 76
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8c750c7e475fac0800000000000000
+      internalID: -3822020170040751950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boreal_Juggernaut_idle_2
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 374
+        width: 76
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39a890c2c6e39c70800000000000000
+      internalID: 8976772206408804668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boreal_Juggernaut_idle_3
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 374
+        width: 76
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e9f0b07f1279c60800000000000000
+      internalID: 7824760222505737845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boreal_Juggernaut_idle_4
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 254
+        width: 76
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ecebf2aac8732860800000000000000
+      internalID: 7503974215842524391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boreal_Juggernaut_idle_5
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 254
+        width: 76
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4759056ace91f70800000000000000
+      internalID: 9158611516295312632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boreal_Juggernaut_idle_6
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 254
+        width: 76
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70d5ca3f3d121900800000000000000
+      internalID: 653617053328330879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boreal_Juggernaut_idle_7
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 254
+        width: 77
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2ae1163c86171f0800000000000000
+      internalID: -1048942049843305753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boreal_Juggernaut_idle_8
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 134
+        width: 78
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e746de412f68c190800000000000000
+      internalID: -7941975754020599837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boreal_Juggernaut_idle_9
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 134
+        width: 78
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d65cfa583235d410800000000000000
+      internalID: 1501161268423972567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boreal_Juggernaut_idle_10
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 134
+        width: 80
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae8a8ec0ce31f5c0800000000000000
+      internalID: -4183493581030650200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boreal_Juggernaut_idle_11
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 134
+        width: 80
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ffbec176f8843b20800000000000000
+      internalID: 3113263834472562678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boreal_Juggernaut_idle_12
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 14
+        width: 80
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1cdd98d627711320800000000000000
+      internalID: 2526931874658245660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boreal_Juggernaut_idle_13
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 14
+        width: 80
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378d04b2d8717f790800000000000000
+      internalID: -7496497159651403661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boreal_Juggernaut_idle_14
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 14
+        width: 80
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7717b797619f2d1b0800000000000000
+      internalID: -5633166308964339337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boreal_Juggernaut_idle_15
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 14
+        width: 80
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18d235c48585f4e0800000000000000
+      internalID: -1948504458477250530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Boreal_Juggernaut_idle_0: -4631800550129618221
+      Boreal_Juggernaut_idle_1: -3822020170040751950
+      Boreal_Juggernaut_idle_10: -4183493581030650200
+      Boreal_Juggernaut_idle_11: 3113263834472562678
+      Boreal_Juggernaut_idle_12: 2526931874658245660
+      Boreal_Juggernaut_idle_13: -7496497159651403661
+      Boreal_Juggernaut_idle_14: -5633166308964339337
+      Boreal_Juggernaut_idle_15: -1948504458477250530
+      Boreal_Juggernaut_idle_2: 8976772206408804668
+      Boreal_Juggernaut_idle_3: 7824760222505737845
+      Boreal_Juggernaut_idle_4: 7503974215842524391
+      Boreal_Juggernaut_idle_5: 9158611516295312632
+      Boreal_Juggernaut_idle_6: 653617053328330879
+      Boreal_Juggernaut_idle_7: -1048942049843305753
+      Boreal_Juggernaut_idle_8: -7941975754020599837
+      Boreal_Juggernaut_idle_9: 1501161268423972567
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

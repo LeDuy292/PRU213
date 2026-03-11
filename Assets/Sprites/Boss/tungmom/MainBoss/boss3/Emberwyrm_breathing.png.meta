@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 25e9fc9c7cac1664aaaab02a3f1e753d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4815178040917341931
+    second: Emberwyrm_breathing_0
+  - first:
+      213: 3990884076226432789
+    second: Emberwyrm_breathing_1
+  - first:
+      213: -4291492722858141827
+    second: Emberwyrm_breathing_2
+  - first:
+      213: 301150563207285798
+    second: Emberwyrm_breathing_3
+  - first:
+      213: 1323643434084251286
+    second: Emberwyrm_breathing_4
+  - first:
+      213: 6233923138584647992
+    second: Emberwyrm_breathing_5
+  - first:
+      213: -9005825624494880822
+    second: Emberwyrm_breathing_6
+  - first:
+      213: -2113440757062237289
+    second: Emberwyrm_breathing_7
+  - first:
+      213: -8590263202597863557
+    second: Emberwyrm_breathing_8
+  - first:
+      213: -1908892235710151665
+    second: Emberwyrm_breathing_9
+  - first:
+      213: -6582206668393764204
+    second: Emberwyrm_breathing_10
+  - first:
+      213: 2358147931696659598
+    second: Emberwyrm_breathing_11
+  - first:
+      213: -2678020756676383327
+    second: Emberwyrm_breathing_12
+  - first:
+      213: 6590914976369371513
+    second: Emberwyrm_breathing_13
+  - first:
+      213: -5668348554668131629
+    second: Emberwyrm_breathing_14
+  - first:
+      213: -7754911721029860086
+    second: Emberwyrm_breathing_15
+  - first:
+      213: 2765284994802172863
+    second: Emberwyrm_breathing_16
+  - first:
+      213: 1351895282566888122
+    second: Emberwyrm_breathing_17
+  - first:
+      213: -1191883801240385131
+    second: Emberwyrm_breathing_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Emberwyrm_breathing_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 374
+        width: 69
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5194cdc651d0d2db0800000000000000
+      internalID: -4815178040917341931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_breathing_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 439
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f4d373ce7726730800000000000000
+      internalID: 3990884076226432789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_breathing_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 374
+        width: 69
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77ddd91b1e8174c0800000000000000
+      internalID: -4291492722858141827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_breathing_3
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 374
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c01e777d6ed2400800000000000000
+      internalID: 301150563207285798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_breathing_4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 437
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696bed9b0b68e5210800000000000000
+      internalID: 1323643434084251286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_breathing_5
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 254
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8391d68d018538650800000000000000
+      internalID: 6233923138584647992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_breathing_6
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 317
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac74fd63f41e40380800000000000000
+      internalID: -9005825624494880822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_breathing_7
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 254
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793097534dc8ba2e0800000000000000
+      internalID: -2113440757062237289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_breathing_8
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 320
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f7b02612149c880800000000000000
+      internalID: -8590263202597863557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_breathing_9
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 254
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04cef710a04285e0800000000000000
+      internalID: -1908892235710151665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_breathing_10
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 320
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49aae2cb8ed47a4a0800000000000000
+      internalID: -6582206668393764204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_breathing_11
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 134
+        width: 70
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8cf994cc03d9b020800000000000000
+      internalID: 2358147931696659598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_breathing_12
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 194
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad6e218f42c5dad0800000000000000
+      internalID: -2678020756676383327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_breathing_13
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 134
+        width: 65
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9796c473042a77b50800000000000000
+      internalID: 6590914976369371513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_breathing_14
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 190
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da38ef850bf551b0800000000000000
+      internalID: -5668348554668131629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_breathing_15
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 134
+        width: 65
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05808380e4016490800000000000000
+      internalID: -7754911721029860086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_breathing_16
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 193
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3c6e93d04406620800000000000000
+      internalID: 2765284994802172863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_breathing_17
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 14
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abafceac895e2c210800000000000000
+      internalID: 1351895282566888122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emberwyrm_breathing_18
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 73
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59946856ff3957fe0800000000000000
+      internalID: -1191883801240385131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Emberwyrm_breathing_0: -4815178040917341931
+      Emberwyrm_breathing_1: 3990884076226432789
+      Emberwyrm_breathing_10: -6582206668393764204
+      Emberwyrm_breathing_11: 2358147931696659598
+      Emberwyrm_breathing_12: -2678020756676383327
+      Emberwyrm_breathing_13: 6590914976369371513
+      Emberwyrm_breathing_14: -5668348554668131629
+      Emberwyrm_breathing_15: -7754911721029860086
+      Emberwyrm_breathing_16: 2765284994802172863
+      Emberwyrm_breathing_17: 1351895282566888122
+      Emberwyrm_breathing_18: -1191883801240385131
+      Emberwyrm_breathing_2: -4291492722858141827
+      Emberwyrm_breathing_3: 301150563207285798
+      Emberwyrm_breathing_4: 1323643434084251286
+      Emberwyrm_breathing_5: 6233923138584647992
+      Emberwyrm_breathing_6: -9005825624494880822
+      Emberwyrm_breathing_7: -2113440757062237289
+      Emberwyrm_breathing_8: -8590263202597863557
+      Emberwyrm_breathing_9: -1908892235710151665
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

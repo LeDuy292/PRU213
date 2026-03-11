@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 34c0187540c1ca745992bdd9211592d2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4218141659065191996
+    second: Zurael%2C_the_Lifegiver_death_0
+  - first:
+      213: 337444856810251246
+    second: Zurael%2C_the_Lifegiver_death_1
+  - first:
+      213: -1321880941015080513
+    second: Zurael%2C_the_Lifegiver_death_2
+  - first:
+      213: 2192454917506082855
+    second: Zurael%2C_the_Lifegiver_death_3
+  - first:
+      213: 2607505916709662335
+    second: Zurael%2C_the_Lifegiver_death_4
+  - first:
+      213: -4056122184649673895
+    second: Zurael%2C_the_Lifegiver_death_5
+  - first:
+      213: 5590395972167900781
+    second: Zurael%2C_the_Lifegiver_death_6
+  - first:
+      213: 2355206377567928116
+    second: Zurael%2C_the_Lifegiver_death_7
+  - first:
+      213: -8487417458418682681
+    second: Zurael%2C_the_Lifegiver_death_8
+  - first:
+      213: 6028496411662476237
+    second: Zurael%2C_the_Lifegiver_death_9
+  - first:
+      213: -8023860470938029778
+    second: Zurael%2C_the_Lifegiver_death_10
+  - first:
+      213: 6537777756086123528
+    second: Zurael%2C_the_Lifegiver_death_11
+  - first:
+      213: 5424038865033293694
+    second: Zurael%2C_the_Lifegiver_death_12
+  - first:
+      213: 4684082697619793873
+    second: Zurael%2C_the_Lifegiver_death_13
+  - first:
+      213: 6852510623624885499
+    second: Zurael%2C_the_Lifegiver_death_14
+  - first:
+      213: -7326970133156893404
+    second: Zurael%2C_the_Lifegiver_death_15
+  - first:
+      213: 3495740442431616480
+    second: Zurael%2C_the_Lifegiver_death_16
+  - first:
+      213: 510023389168728319
+    second: Zurael%2C_the_Lifegiver_death_17
+  - first:
+      213: -2385216235191513750
+    second: Zurael%2C_the_Lifegiver_death_18
+  - first:
+      213: -9143290746449740466
+    second: Zurael%2C_the_Lifegiver_death_19
+  - first:
+      213: -2992672897249646166
+    second: Zurael%2C_the_Lifegiver_death_20
+  - first:
+      213: -4020341908135665079
+    second: Zurael%2C_the_Lifegiver_death_21
+  - first:
+      213: 2394842110977670473
+    second: Zurael%2C_the_Lifegiver_death_22
+  - first:
+      213: -6090483810975564254
+    second: Zurael%2C_the_Lifegiver_death_23
+  - first:
+      213: 6384697462613562002
+    second: Zurael%2C_the_Lifegiver_death_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zurael%2C_the_Lifegiver_death_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 494
+        width: 74
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e8bd08d79d98a30800000000000000
+      internalID: 4218141659065191996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zurael%2C_the_Lifegiver_death_1
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 494
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee325753f48dea400800000000000000
+      internalID: 337444856810251246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zurael%2C_the_Lifegiver_death_2
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 494
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1ef6ba94cb7ade0800000000000000
+      internalID: -1321880941015080513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zurael%2C_the_Lifegiver_death_3
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 494
+        width: 59
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7282200a12a2d6e10800000000000000
+      internalID: 2192454917506082855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zurael%2C_the_Lifegiver_death_4
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 494
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e653be0d8bf2420800000000000000
+      internalID: 2607505916709662335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zurael%2C_the_Lifegiver_death_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 372
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953ff520d52c5b7c0800000000000000
+      internalID: -4056122184649673895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zurael%2C_the_Lifegiver_death_6
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 374
+        width: 87
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e97da7483159d40800000000000000
+      internalID: 5590395972167900781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zurael%2C_the_Lifegiver_death_7
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 374
+        width: 88
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43fbba3d8bf5fa020800000000000000
+      internalID: 2355206377567928116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zurael%2C_the_Lifegiver_death_8
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 374
+        width: 86
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c471823ac2a63a80800000000000000
+      internalID: -8487417458418682681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zurael%2C_the_Lifegiver_death_9
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 374
+        width: 87
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3ebdacb8589a350800000000000000
+      internalID: 6028496411662476237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zurael%2C_the_Lifegiver_death_10
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 254
+        width: 87
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21b076f96585a090800000000000000
+      internalID: -8023860470938029778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zurael%2C_the_Lifegiver_death_11
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 254
+        width: 87
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80cb6f30b3adaba50800000000000000
+      internalID: 6537777756086123528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zurael%2C_the_Lifegiver_death_12
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 254
+        width: 87
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7fe8362c9e064b40800000000000000
+      internalID: 5424038865033293694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zurael%2C_the_Lifegiver_death_13
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 254
+        width: 84
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d76e2a6564310140800000000000000
+      internalID: 4684082697619793873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zurael%2C_the_Lifegiver_death_14
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 254
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf470c42b12091f50800000000000000
+      internalID: 6852510623624885499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zurael%2C_the_Lifegiver_death_15
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 294
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d694ddb7f515a90800000000000000
+      internalID: -7326970133156893404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zurael%2C_the_Lifegiver_death_16
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 285
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e57a12496d538030800000000000000
+      internalID: 3495740442431616480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zurael%2C_the_Lifegiver_death_17
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 134
+        width: 80
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8fa8af197f31700800000000000000
+      internalID: 510023389168728319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zurael%2C_the_Lifegiver_death_18
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 134
+        width: 80
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d4ae4b87206eed0800000000000000
+      internalID: -2385216235191513750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zurael%2C_the_Lifegiver_death_19
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 132
+        width: 69
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d3fb362818c1180800000000000000
+      internalID: -9143290746449740466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zurael%2C_the_Lifegiver_death_20
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 131
+        width: 81
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9ee761bd3e776d0800000000000000
+      internalID: -2992672897249646166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zurael%2C_the_Lifegiver_death_21
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 131
+        width: 67
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94225f1d550e438c0800000000000000
+      internalID: -4020341908135665079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zurael%2C_the_Lifegiver_death_22
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 11
+        width: 63
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d78f526303c3120800000000000000
+      internalID: 2394842110977670473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zurael%2C_the_Lifegiver_death_23
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 12
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22eb8802e314a7ba0800000000000000
+      internalID: -6090483810975564254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zurael%2C_the_Lifegiver_death_24
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 11
+        width: 56
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2925b61c3800b9850800000000000000
+      internalID: 6384697462613562002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Zurael%2C_the_Lifegiver_death_0: 4218141659065191996
+      Zurael%2C_the_Lifegiver_death_1: 337444856810251246
+      Zurael%2C_the_Lifegiver_death_10: -8023860470938029778
+      Zurael%2C_the_Lifegiver_death_11: 6537777756086123528
+      Zurael%2C_the_Lifegiver_death_12: 5424038865033293694
+      Zurael%2C_the_Lifegiver_death_13: 4684082697619793873
+      Zurael%2C_the_Lifegiver_death_14: 6852510623624885499
+      Zurael%2C_the_Lifegiver_death_15: -7326970133156893404
+      Zurael%2C_the_Lifegiver_death_16: 3495740442431616480
+      Zurael%2C_the_Lifegiver_death_17: 510023389168728319
+      Zurael%2C_the_Lifegiver_death_18: -2385216235191513750
+      Zurael%2C_the_Lifegiver_death_19: -9143290746449740466
+      Zurael%2C_the_Lifegiver_death_2: -1321880941015080513
+      Zurael%2C_the_Lifegiver_death_20: -2992672897249646166
+      Zurael%2C_the_Lifegiver_death_21: -4020341908135665079
+      Zurael%2C_the_Lifegiver_death_22: 2394842110977670473
+      Zurael%2C_the_Lifegiver_death_23: -6090483810975564254
+      Zurael%2C_the_Lifegiver_death_24: 6384697462613562002
+      Zurael%2C_the_Lifegiver_death_3: 2192454917506082855
+      Zurael%2C_the_Lifegiver_death_4: 2607505916709662335
+      Zurael%2C_the_Lifegiver_death_5: -4056122184649673895
+      Zurael%2C_the_Lifegiver_death_6: 5590395972167900781
+      Zurael%2C_the_Lifegiver_death_7: 2355206377567928116
+      Zurael%2C_the_Lifegiver_death_8: -8487417458418682681
+      Zurael%2C_the_Lifegiver_death_9: 6028496411662476237
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

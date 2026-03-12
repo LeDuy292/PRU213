@@ -227,7 +227,7 @@ RectTransform:
   m_Father: {fileID: 436967852}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 10, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -1011,7 +1011,7 @@ RectTransform:
   m_Father: {fileID: 1573167228}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 10, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -1626,6 +1626,7 @@ MonoBehaviour:
   backgroundMusic: {fileID: 1352213909}
   soundButtonOn: {fileID: 1204167058}
   soundButtonOff: {fileID: 2011222537}
+  settingsPanel: {fileID: 0}
 --- !u!1 &477531504
 GameObject:
   m_ObjectHideFlags: 0
@@ -3396,7 +3397,7 @@ RectTransform:
   m_Father: {fileID: 1782492933}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 1}
   m_AnchoredPosition: {x: 9.722015, y: -1.7155075}
   m_SizeDelta: {x: 39.444, y: -3.431}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -7752,7 +7753,7 @@ RectTransform:
   m_Father: {fileID: 1360487107}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 1}
   m_AnchoredPosition: {x: 9.722015, y: -1.7155075}
   m_SizeDelta: {x: 39.444, y: -3.431}
   m_Pivot: {x: 0.5, y: 0.5}

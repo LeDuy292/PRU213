@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Background
   - Enemy
+  - Ground
   layers:
   - Default
   - TransparentFX
@@ -16,7 +17,7 @@ TagManager:
   - Background
   - Entity
   - Ground
-  - 
+  - boss
   - 
   - 
   - 
@@ -51,6 +52,9 @@ TagManager:
     locked: 0
   - name: Foreground
     uniqueID: 3022006601
+    locked: 0
+  - name: boss
+    uniqueID: 3028401257
     locked: 0
   m_RenderingLayers:
   - Default

@@ -12,7 +12,7 @@ public class Projectile : MonoBehaviour
         // 🔥 Xoay sprite theo hướng bay 
         // Giả sử sprite đạn trong prefab hướng về bên PHẢI (0 độ)
         float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
-        transform.rotation = Quaternion.Euler(0f, 0f, angle + 180f);
+        transform.rotation = Quaternion.Euler(0f, 0f, angle + 0f);
 
         // Tự hủy sau 5 giây
         Destroy(gameObject, 5f);

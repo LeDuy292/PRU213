@@ -12,12 +12,21 @@ public class SkillDamage : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.CompareTag("Enemy"))
+        if (other.CompareTag("Enemy"))   // Boss cũng phải có tag "Enemy"
         {
-            EnemyHealth enemy = other.GetComponent<EnemyHealth>();
-            if (enemy != null)
+            // Hỗ trợ cả enemy nhỏ lẫn Boss
+            EnemyHealth normalEnemy = other.GetComponent<EnemyHealth>();
+            if (normalEnemy != null)
             {
-                enemy.TakeDamage(damage);
+                normalEnemy.TakeDamage(damage);
+                return;
+            }
+
+            BossHealth boss = other.GetComponent<BossHealth>();
+            if (boss != null)
+            {
+                boss.TakeDamage(damage);
+                return;
             }
         }
     }

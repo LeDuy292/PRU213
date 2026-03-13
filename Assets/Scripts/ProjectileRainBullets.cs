@@ -30,4 +30,16 @@ public class ProjectileRainBullets : MonoBehaviour
         // Di chuyển theo hướng (thường là Vector2.down)
         transform.position += (Vector3)(direction * speed * Time.deltaTime);
     }
+
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        Debug.Log($"[RainBullet] Trigger với: Tag={other.tag}, Name={other.gameObject.name}");
+        if (other.CompareTag("Player"))
+        {
+            Debug.Log("[RainBullet] → Trúng PLAYER! Gây 10 damage.");
+            PlayerHealth ph = other.GetComponent<PlayerHealth>();
+            if (ph != null) ph.TakeDamage(35);
+            Destroy(gameObject);
+        }
+    }
 }

@@ -22,4 +22,13 @@ public class Projectile : MonoBehaviour
     {
         transform.position += (Vector3)(direction * speed * Time.deltaTime);
     }
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.CompareTag("Player"))
+        {
+            PlayerHealth ph = other.GetComponent<PlayerHealth>();
+            if (ph != null) ph.TakeDamage(15);   // chỉnh số damage tùy ý
+            Destroy(gameObject);
+        }
+    }
 }

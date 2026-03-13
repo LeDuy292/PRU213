@@ -25,18 +25,28 @@ public class IntroductionController : MonoBehaviour
     // ---------------------------------------------------------
     public void OnStartButtonClicked()
     {
-        Debug.Log("Nút START đã được bấm! Đang chuyển sang game...");
-        
-        // Kiểm tra xem scene có tồn tại không
-        if (Application.CanStreamedLevelBeLoaded(gameSceneName))
+        Debug.Log("Nút START đã được bấm! Đang chuyển sang video trailer...");
+
+        // Chuyển sang VideoTrailerScene thay vì GameScene
+        string videoSceneName = "VideoTrailerScene";
+
+        if (Application.CanStreamedLevelBeLoaded(videoSceneName))
         {
-            SceneManager.LoadScene(gameSceneName);
+            SceneManager.LoadScene(videoSceneName);
         }
         else
         {
-            Debug.LogWarning($"Không tìm thấy scene: {gameSceneName}. Vui lòng kiểm tra Build Settings!");
+            Debug.LogWarning($"Không tìm thấy scene: {videoSceneName}. Chuyển thẳng sang GameScene...");
+            // Fallback: Nếu không có video scene, chuyển thẳng sang game
+            SceneManager.LoadScene(gameSceneName);
         }
     }
+
+    // ---------------------------------------------------------
+    // SETTINGS PANEL
+    // ---------------------------------------------------------
+    [Header("Settings Panel")]
+    public GameObject settingsPanel;              // Kéo Settings Panel vào đây
 
     // ---------------------------------------------------------
     // Hàm được gọi khi người chơi bấm nút "SETTINGS"
@@ -45,11 +55,25 @@ public class IntroductionController : MonoBehaviour
     {
         Debug.Log("Nút SETTINGS đã được bấm!");
         
-        // TODO: Mở panel Settings khi đã có UI Settings
-        // Ví dụ: settingsPanel.SetActive(true);
-        
-        // Tạm thời chỉ hiển thị thông báo
-        Debug.Log("Chức năng Settings sẽ được bổ sung sau!");
+        if (settingsPanel != null)
+        {
+            // Bật/tắt panel Settings (nếu đang bật thì tắt, đang tắt thì bật)
+            settingsPanel.SetActive(!settingsPanel.activeSelf);
+        }
+        else
+        {
+            Debug.LogWarning("Chưa gán Settings Panel trong Unity Inspector!");
+        }
+    }
+
+    // Đối tượng dữ liệu mẫu để lưu (bạn có thể tuỳ chỉnh theo dữ liệu thực tế của game)
+    [System.Serializable]
+    public class GameData
+    {
+        public int level = 1;
+        public float health = 100f;
+        public string playerName = "Hero";
+        // Thêm các biến khác bạn muốn lưu ở đây
     }
 
     // ---------------------------------------------------------
@@ -57,17 +81,48 @@ public class IntroductionController : MonoBehaviour
     // ---------------------------------------------------------
     public void OnSaveGameButtonClicked()
     {
-        Debug.Log("Nút SAVE GAME đã được bấm!");
+        Debug.Log("Nút SAVE GAME đang thực thi...");
         
-        // TODO: Implement save game logic
-        // Ví dụ:
-        // - Lưu progress của player
-        // - Lưu settings
-        // - Lưu vào PlayerPrefs hoặc file JSON
-        
-        // Tạm thời chỉ hiển thị thông báo
-        Debug.Log("Chức năng Save Game sẽ được bổ sung sau!");
-        Debug.Log("Game đã được lưu thành công! (Demo)");
+        // 1. Tạo và gán dữ liệu cần lưu
+        GameData dataToSave = new GameData();
+        // Ví dụ thực tế: dataToSave.level = GameManager.Instance.currentLevel;
+
+        // 2. Chuyển đổi đối tượng GameData thành chuỗi JSON (để dễ đọc, true = pretty print)
+        string json = JsonUtility.ToJson(dataToSave, true);
+
+        // 3. Tạo đường dẫn an toàn bằng persistentDataPath (hoạt động tốt trên Windows, Android, iOS...)
+        string savePath = System.IO.Path.Combine(Application.persistentDataPath, "savegame.json");
+
+        // 4. Ghi chuỗi JSON đó vào file
+        System.IO.File.WriteAllText(savePath, json);
+
+        Debug.Log("<color=green>Game đã được lưu thành công tại:</color> " + savePath);
+    }
+
+    // ---------------------------------------------------------
+    // Bổ sung: Hàm LOAD GAME để bạn có thể gọi khi cần load lại dữ liệu
+    // ---------------------------------------------------------
+    public void LoadGameData()
+    {
+        string savePath = System.IO.Path.Combine(Application.persistentDataPath, "savegame.json");
+
+        if (System.IO.File.Exists(savePath))
+        {
+            // Nếu có file save, đọc nội dung file
+            string json = System.IO.File.ReadAllText(savePath);
+
+            // Chuyển đổi JSON text ngược lại thành object GameData
+            GameData loadedData = JsonUtility.FromJson<GameData>(json);
+            
+            Debug.Log("<color=cyan>Đã load game thành công!</color> Người chơi: " + loadedData.playerName + ", Level: " + loadedData.level);
+            
+            // TODO: Áp dụng loadedData vào game của bạn
+            // Ví dụ: PlayerController.Instance.health = loadedData.health;
+        }
+        else
+        {
+            Debug.LogWarning("Chưa có file save game nào được tạo trước đó!");
+        }
     }
 
     // ---------------------------------------------------------

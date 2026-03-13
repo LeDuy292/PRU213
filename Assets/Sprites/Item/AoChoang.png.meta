@@ -1,0 +1,1963 @@
+fileFormatVersion: 2
+guid: ab3c3fbcbdcdc544eac3751623c380b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8373103085239520652
+    second: AoChoang_0
+  - first:
+      213: 7273477692075231787
+    second: AoChoang_1
+  - first:
+      213: 3657876380817510617
+    second: AoChoang_2
+  - first:
+      213: -1792551827316963156
+    second: AoChoang_3
+  - first:
+      213: 1204594110122421471
+    second: AoChoang_4
+  - first:
+      213: -3307912857293037608
+    second: AoChoang_5
+  - first:
+      213: -201914829538361586
+    second: AoChoang_6
+  - first:
+      213: -6265737616103844567
+    second: AoChoang_7
+  - first:
+      213: 1595687991637717156
+    second: AoChoang_8
+  - first:
+      213: 9190926852705058619
+    second: AoChoang_9
+  - first:
+      213: -8618590903630261937
+    second: AoChoang_10
+  - first:
+      213: 1585772933013296368
+    second: AoChoang_11
+  - first:
+      213: 6624900189269747803
+    second: AoChoang_12
+  - first:
+      213: -5067419920285098175
+    second: AoChoang_13
+  - first:
+      213: 522331616256328655
+    second: AoChoang_14
+  - first:
+      213: -4221214312228461083
+    second: AoChoang_15
+  - first:
+      213: 4458242852872001895
+    second: AoChoang_16
+  - first:
+      213: 2765113586947312846
+    second: AoChoang_17
+  - first:
+      213: -7134397411537271835
+    second: AoChoang_18
+  - first:
+      213: 1699535133935632446
+    second: AoChoang_19
+  - first:
+      213: 5787392094531777014
+    second: AoChoang_20
+  - first:
+      213: -718886538259161731
+    second: AoChoang_21
+  - first:
+      213: -6152985001098583829
+    second: AoChoang_22
+  - first:
+      213: 7684937398324525975
+    second: AoChoang_23
+  - first:
+      213: 1168854492315516455
+    second: AoChoang_24
+  - first:
+      213: 1617716889712639011
+    second: AoChoang_25
+  - first:
+      213: 7707194874864436785
+    second: AoChoang_26
+  - first:
+      213: 2953210125614227533
+    second: AoChoang_27
+  - first:
+      213: 690745746964801279
+    second: AoChoang_28
+  - first:
+      213: 1291573537525659887
+    second: AoChoang_29
+  - first:
+      213: -872253002290779331
+    second: AoChoang_30
+  - first:
+      213: -498934410109820917
+    second: AoChoang_31
+  - first:
+      213: 436704329239541140
+    second: AoChoang_32
+  - first:
+      213: 3048660503401178194
+    second: AoChoang_33
+  - first:
+      213: -8426263233942559237
+    second: AoChoang_34
+  - first:
+      213: -7588969985526582411
+    second: AoChoang_35
+  - first:
+      213: 3691382303130586182
+    second: AoChoang_36
+  - first:
+      213: -9130523491283267963
+    second: AoChoang_37
+  - first:
+      213: 4326744305570768426
+    second: AoChoang_38
+  - first:
+      213: 8557373745581025743
+    second: AoChoang_39
+  - first:
+      213: -1280669450623325337
+    second: AoChoang_40
+  - first:
+      213: 4299836831423163363
+    second: AoChoang_41
+  - first:
+      213: 1841978984226863362
+    second: AoChoang_42
+  - first:
+      213: 2000924056738735668
+    second: AoChoang_43
+  - first:
+      213: 1663687987336768594
+    second: AoChoang_44
+  - first:
+      213: 8530264348864033630
+    second: AoChoang_45
+  - first:
+      213: 4294124460811725462
+    second: AoChoang_46
+  - first:
+      213: -1899774802845965307
+    second: AoChoang_47
+  - first:
+      213: -5670906156310986990
+    second: AoChoang_48
+  - first:
+      213: 6936968971024507198
+    second: AoChoang_49
+  - first:
+      213: 6419412305472346590
+    second: AoChoang_50
+  - first:
+      213: -1131768007088665851
+    second: AoChoang_51
+  - first:
+      213: -2712600596692285626
+    second: AoChoang_52
+  - first:
+      213: 5275589170408131011
+    second: AoChoang_53
+  - first:
+      213: 7274584399862227047
+    second: AoChoang_54
+  - first:
+      213: -1561561136473004653
+    second: AoChoang_55
+  - first:
+      213: -1652954770650209634
+    second: AoChoang_56
+  - first:
+      213: -9078770101802669042
+    second: AoChoang_57
+  - first:
+      213: 2353373144761020541
+    second: AoChoang_58
+  - first:
+      213: -4957276526943899388
+    second: AoChoang_59
+  - first:
+      213: 8599331737310299807
+    second: AoChoang_60
+  - first:
+      213: -6330091236267614343
+    second: AoChoang_61
+  - first:
+      213: -3116781500667897515
+    second: AoChoang_62
+  - first:
+      213: 1130936567939725954
+    second: AoChoang_63
+  - first:
+      213: 220109720944645084
+    second: AoChoang_64
+  - first:
+      213: -2644315552770134072
+    second: AoChoang_65
+  - first:
+      213: -479166487548609129
+    second: AoChoang_66
+  - first:
+      213: -6300677587709008695
+    second: AoChoang_67
+  - first:
+      213: -5218864052019798644
+    second: AoChoang_68
+  - first:
+      213: 7492522260816759054
+    second: AoChoang_69
+  - first:
+      213: -8511886445306265521
+    second: AoChoang_70
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AoChoang_0
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1065
+        width: 122
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47232984b13cccb80800000000000000
+      internalID: -8373103085239520652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_1
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1069
+        width: 90
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a4fd5ac6590f460800000000000000
+      internalID: 7273477692075231787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_2
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1069
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d05be6203363c230800000000000000
+      internalID: 3657876380817510617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_3
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1089
+        width: 26
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca88b434c939f17e0800000000000000
+      internalID: -1792551827316963156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_4
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1069
+        width: 94
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdcef5006f397b010800000000000000
+      internalID: 1204594110122421471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_5
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1073
+        width: 106
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dfd91948cee712d0800000000000000
+      internalID: -3307912857293037608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_6
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1069
+        width: 130
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f7b764887a23df0800000000000000
+      internalID: -201914829538361586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_7
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 1069
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925d350e5d0ab09a0800000000000000
+      internalID: -6265737616103844567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_8
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 1069
+        width: 118
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a03ce926c5052610800000000000000
+      internalID: 1595687991637717156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_9
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 1105
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f7514e64bbc8f70800000000000000
+      internalID: 9190926852705058619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_10
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 1069
+        width: 110
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4194b48c3d946880800000000000000
+      internalID: -8618590903630261937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_11
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 1069
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4dfaea41cc10610800000000000000
+      internalID: 1585772933013296368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_12
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 893
+        width: 122
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5867d53f9f50fb50800000000000000
+      internalID: 6624900189269747803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_13
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 897
+        width: 90
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f1bab4e68eca9b0800000000000000
+      internalID: -5067419920285098175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_14
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 897
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc30ae966d1bf3700800000000000000
+      internalID: 522331616256328655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_15
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 917
+        width: 26
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5e3dea2fb3b65c0800000000000000
+      internalID: -4221214312228461083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_16
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 897
+        width: 94
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7691cdff04cdedd30800000000000000
+      internalID: 4458242852872001895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_17
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 901
+        width: 106
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eccc9993828af5620800000000000000
+      internalID: 2765113586947312846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_18
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 897
+        width: 130
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3cad69a578dfc90800000000000000
+      internalID: -7134397411537271835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_19
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 897
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3087852336f59710800000000000000
+      internalID: 1699535133935632446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_20
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 897
+        width: 118
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f178727272f05050800000000000000
+      internalID: 5787392094531777014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_21
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 933
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d904590800606f0800000000000000
+      internalID: -718886538259161731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_22
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 897
+        width: 110
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0663dcdb43c9aa0800000000000000
+      internalID: -6152985001098583829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_23
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 897
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b7f34e8d166aa60800000000000000
+      internalID: 7684937398324525975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_24
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 721
+        width: 122
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ef598c7fa983010800000000000000
+      internalID: 1168854492315516455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_25
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 725
+        width: 90
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32cb87ea0f8437610800000000000000
+      internalID: 1617716889712639011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_26
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 725
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136810b77e475fa60800000000000000
+      internalID: 7707194874864436785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_27
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 745
+        width: 26
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40a25466f8ebf820800000000000000
+      internalID: 2953210125614227533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_28
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 725
+        width: 94
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6e2fdd895069900800000000000000
+      internalID: 690745746964801279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_29
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 729
+        width: 106
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8f2811a479ce110800000000000000
+      internalID: 1291573537525659887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_30
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 725
+        width: 130
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ba03c048225e3f0800000000000000
+      internalID: -872253002290779331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_31
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 725
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b006f272ccd6319f0800000000000000
+      internalID: -498934410109820917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_32
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 725
+        width: 118
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495b230164c7f0600800000000000000
+      internalID: 436704329239541140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_33
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 761
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254adf943940f4a20800000000000000
+      internalID: 3048660503401178194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_34
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 725
+        width: 110
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf56be4ab36ef0b80800000000000000
+      internalID: -8426263233942559237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_35
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 725
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573369991009ea690800000000000000
+      internalID: -7588969985526582411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_36
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 549
+        width: 122
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c034c95ac6a3330800000000000000
+      internalID: 3691382303130586182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_37
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 553
+        width: 90
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e83b0a24dd94180800000000000000
+      internalID: -9130523491283267963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_38
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 553
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a266d77950fab0c30800000000000000
+      internalID: 4326744305570768426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_39
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 573
+        width: 26
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc96c9b2516e1c670800000000000000
+      internalID: 8557373745581025743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_40
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 553
+        width: 94
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76be6e08be52a3ee0800000000000000
+      internalID: -1280669450623325337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_41
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 557
+        width: 106
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb6e1111d61cab30800000000000000
+      internalID: 4299836831423163363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_42
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 553
+        width: 130
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209b39e7026009910800000000000000
+      internalID: 1841978984226863362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_43
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 553
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436227804d5b4cb10800000000000000
+      internalID: 2000924056738735668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_44
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 553
+        width: 118
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25cea4ee86b961710800000000000000
+      internalID: 1663687987336768594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_45
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 589
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e533832ea36916670800000000000000
+      internalID: 8530264348864033630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_46
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 557
+        width: 102
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69aaff3227bc79b30800000000000000
+      internalID: 4294124460811725462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_47
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 553
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504e02bd1e4a2a5e0800000000000000
+      internalID: -1899774802845965307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_48
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 377
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ff18685e4ec41b0800000000000000
+      internalID: -5670906156310986990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_49
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 381
+        width: 90
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31a2d78680154060800000000000000
+      internalID: 6936968971024507198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_50
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 381
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed95376fa75561950800000000000000
+      internalID: 6419412305472346590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_51
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 401
+        width: 26
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b04517ef62b40f0800000000000000
+      internalID: -1131768007088665851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_52
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 381
+        width: 94
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647c4a81128ea5ad0800000000000000
+      internalID: -2712600596692285626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_53
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 385
+        width: 106
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c903133668a63940800000000000000
+      internalID: 5275589170408131011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_54
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 381
+        width: 130
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760e26228f384f460800000000000000
+      internalID: 7274584399862227047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_55
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 381
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395a87d7b68345ae0800000000000000
+      internalID: -1561561136473004653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_56
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 381
+        width: 118
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e926b91d4668f09e0800000000000000
+      internalID: -1652954770650209634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_57
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 417
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c6d9c91bab10280800000000000000
+      internalID: -9078770101802669042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_58
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 385
+        width: 102
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70bc6d086cd8a020800000000000000
+      internalID: 2353373144761020541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_59
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 381
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40170267347343bb0800000000000000
+      internalID: -4957276526943899388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_60
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 229
+        width: 26
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f968f1467a6f65770800000000000000
+      internalID: 8599331737310299807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_61
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 209
+        width: 94
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f94721f8ff628a0800000000000000
+      internalID: -6330091236267614343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_62
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 229
+        width: 26
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5595e221db7feb4d0800000000000000
+      internalID: -3116781500667897515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_63
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 209
+        width: 94
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28afb8b01d4e1bf00800000000000000
+      internalID: 1130936567939725954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_64
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 229
+        width: 26
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3148000acfd0300800000000000000
+      internalID: 220109720944645084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_65
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 209
+        width: 94
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf6813d3018d4bd0800000000000000
+      internalID: -2644315552770134072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_66
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 209
+        width: 130
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79db4694e98a959f0800000000000000
+      internalID: -479166487548609129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_67
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 209
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4e65ccd1f7f88a0800000000000000
+      internalID: -6300677587709008695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_68
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 209
+        width: 102
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ddd40abced297b0800000000000000
+      internalID: -5218864052019798644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_69
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 209
+        width: 102
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0980b39c49caf760800000000000000
+      internalID: 7492522260816759054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AoChoang_70
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 209
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40ce0b3064bfd980800000000000000
+      internalID: -8511886445306265521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AoChoang_0: -8373103085239520652
+      AoChoang_1: 7273477692075231787
+      AoChoang_10: -8618590903630261937
+      AoChoang_11: 1585772933013296368
+      AoChoang_12: 6624900189269747803
+      AoChoang_13: -5067419920285098175
+      AoChoang_14: 522331616256328655
+      AoChoang_15: -4221214312228461083
+      AoChoang_16: 4458242852872001895
+      AoChoang_17: 2765113586947312846
+      AoChoang_18: -7134397411537271835
+      AoChoang_19: 1699535133935632446
+      AoChoang_2: 3657876380817510617
+      AoChoang_20: 5787392094531777014
+      AoChoang_21: -718886538259161731
+      AoChoang_22: -6152985001098583829
+      AoChoang_23: 7684937398324525975
+      AoChoang_24: 1168854492315516455
+      AoChoang_25: 1617716889712639011
+      AoChoang_26: 7707194874864436785
+      AoChoang_27: 2953210125614227533
+      AoChoang_28: 690745746964801279
+      AoChoang_29: 1291573537525659887
+      AoChoang_3: -1792551827316963156
+      AoChoang_30: -872253002290779331
+      AoChoang_31: -498934410109820917
+      AoChoang_32: 436704329239541140
+      AoChoang_33: 3048660503401178194
+      AoChoang_34: -8426263233942559237
+      AoChoang_35: -7588969985526582411
+      AoChoang_36: 3691382303130586182
+      AoChoang_37: -9130523491283267963
+      AoChoang_38: 4326744305570768426
+      AoChoang_39: 8557373745581025743
+      AoChoang_4: 1204594110122421471
+      AoChoang_40: -1280669450623325337
+      AoChoang_41: 4299836831423163363
+      AoChoang_42: 1841978984226863362
+      AoChoang_43: 2000924056738735668
+      AoChoang_44: 1663687987336768594
+      AoChoang_45: 8530264348864033630
+      AoChoang_46: 4294124460811725462
+      AoChoang_47: -1899774802845965307
+      AoChoang_48: -5670906156310986990
+      AoChoang_49: 6936968971024507198
+      AoChoang_5: -3307912857293037608
+      AoChoang_50: 6419412305472346590
+      AoChoang_51: -1131768007088665851
+      AoChoang_52: -2712600596692285626
+      AoChoang_53: 5275589170408131011
+      AoChoang_54: 7274584399862227047
+      AoChoang_55: -1561561136473004653
+      AoChoang_56: -1652954770650209634
+      AoChoang_57: -9078770101802669042
+      AoChoang_58: 2353373144761020541
+      AoChoang_59: -4957276526943899388
+      AoChoang_6: -201914829538361586
+      AoChoang_60: 8599331737310299807
+      AoChoang_61: -6330091236267614343
+      AoChoang_62: -3116781500667897515
+      AoChoang_63: 1130936567939725954
+      AoChoang_64: 220109720944645084
+      AoChoang_65: -2644315552770134072
+      AoChoang_66: -479166487548609129
+      AoChoang_67: -6300677587709008695
+      AoChoang_68: -5218864052019798644
+      AoChoang_69: 7492522260816759054
+      AoChoang_7: -6265737616103844567
+      AoChoang_70: -8511886445306265521
+      AoChoang_8: 1595687991637717156
+      AoChoang_9: 9190926852705058619
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

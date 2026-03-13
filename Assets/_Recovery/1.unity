@@ -4436,6 +4436,29 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::EnemyHealth
   maxHP: 70
   expReward: 20
+--- !u!114 &601288533
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 601288530}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1c0d1e6d186a0d4f84cc2449080fc27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyLoot
+  lootTable:
+  - itemPrefab: {fileID: 6340803624271405428, guid: f76ba580a7bc4a24a849258d97461cf4, type: 3}
+    dropChance: 50
+  - itemPrefab: {fileID: 1892320064616866533, guid: 6a189e346163d394a957eb9b19516c6e, type: 3}
+    dropChance: 50
+  - itemPrefab: {fileID: 2304608694092159621, guid: fe4b887ec2437164d8433b40ab438957, type: 3}
+    dropChance: 50
+  - itemPrefab: {fileID: 3758203189308852125, guid: b0f5b0eafc59db847a2b058c225a374d, type: 3}
+    dropChance: 50
+  - itemPrefab: {fileID: 5089434417625258890, guid: 0255f0a3614e1ce48bea9ea2531a163a, type: 3}
+    dropChance: 50
 --- !u!1 &619102797
 GameObject:
   m_ObjectHideFlags: 0
@@ -9068,6 +9091,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 152483940078505575, guid: d03e8952aa8f55f4da65bdf68c12565b, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1991861973}
+    - targetCorrespondingSourceObject: {fileID: 152483940078505575, guid: d03e8952aa8f55f4da65bdf68c12565b, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1991861974}
   m_SourcePrefab: {fileID: 100100000, guid: d03e8952aa8f55f4da65bdf68c12565b, type: 3}
 --- !u!1 &1542092867
 GameObject:
@@ -9482,6 +9508,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 6174802640555586616, guid: dd5d17a9a3c281448b89c728628e115c, type: 3}
       insertIndex: -1
       addedObject: {fileID: 601288532}
+    - targetCorrespondingSourceObject: {fileID: 6174802640555586616, guid: dd5d17a9a3c281448b89c728628e115c, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 601288533}
   m_SourcePrefab: {fileID: 100100000, guid: dd5d17a9a3c281448b89c728628e115c, type: 3}
 --- !u!1 &1639911601
 GameObject:
@@ -11535,6 +11564,29 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::EnemyHealth
   maxHP: 50
   expReward: 20
+--- !u!114 &1991861974
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1991861971}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1c0d1e6d186a0d4f84cc2449080fc27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyLoot
+  lootTable:
+  - itemPrefab: {fileID: 6340803624271405428, guid: f76ba580a7bc4a24a849258d97461cf4, type: 3}
+    dropChance: 50
+  - itemPrefab: {fileID: 1892320064616866533, guid: 6a189e346163d394a957eb9b19516c6e, type: 3}
+    dropChance: 50
+  - itemPrefab: {fileID: 2304608694092159621, guid: fe4b887ec2437164d8433b40ab438957, type: 3}
+    dropChance: 50
+  - itemPrefab: {fileID: 3758203189308852125, guid: b0f5b0eafc59db847a2b058c225a374d, type: 3}
+    dropChance: 50
+  - itemPrefab: {fileID: 3758203189308852125, guid: b0f5b0eafc59db847a2b058c225a374d, type: 3}
+    dropChance: 50
 --- !u!1 &2010794458
 GameObject:
   m_ObjectHideFlags: 0

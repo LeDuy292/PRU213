@@ -10,11 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3c5922acc769b4e45af5d15f7423a214, type: 3}
-  m_Name: New Item
+  m_Name: KHIEN_LUA
   m_EditorClassIdentifier: Assembly-CSharp::Item
-  itemName: saka
-  icon: {fileID: -5874260263818689583, guid: f310ad2ef6422a644b5405d8079267f4, type: 3}
+  itemName: 
+  icon: {fileID: 2693285947383986105, guid: 2f306fc88f1dc7843b941e20a904e534, type: 3}
   itemType: 1
-  currentItem: {fileID: 0}
-  isEquipment: 0
   bonusHealth: 0
+  bonusMoveSpeed: 0
+  bonusNormalDamagePercent: 0
+  bonusSkillDamagePercent: 0

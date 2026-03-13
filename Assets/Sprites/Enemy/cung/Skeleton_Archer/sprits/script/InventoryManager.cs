@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 
 public class InventoryManager : MonoBehaviour
 {
@@ -24,5 +24,18 @@ public class InventoryManager : MonoBehaviour
 
         Debug.Log("Inventory full!");
         return false;
+    }
+
+    public void DropItem(Item item, Vector3 position)
+    {
+        GameObject obj = Instantiate(item.worldPrefab, position, Quaternion.identity);
+
+        ItemPickup pickup = obj.GetComponent<ItemPickup>();
+
+        if (pickup != null)
+        {
+            pickup.item = item;
+            pickup.pickupDelay = 4f; // player vứt → 4 giây
+        }
     }
 }

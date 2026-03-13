@@ -2,26 +2,32 @@ using UnityEngine;
 
 public class ItemPickup : MonoBehaviour
 {
-    public Item item; // ScriptableObject chứa dữ liệu item
+    public Item item;
 
-    private void OnTriggerEnter2D(Collider2D collision)
+    public float pickupDelay = 2f; // mặc định: quái rơi
+    private bool canPickup = false;
+
+    void Start()
     {
-        // Kiểm tra nếu chạm vào Player
+        Invoke(nameof(EnablePickup), pickupDelay);
+    }
+
+    void EnablePickup()
+    {
+        canPickup = true;
+    }
+
+    void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (!canPickup) return;
+
         if (collision.CompareTag("Player"))
         {
-            if (InventoryManager.Instance != null)
+            bool picked = InventoryManager.Instance.AddItem(item);
+
+            if (picked)
             {
-                bool wasPickedUp = InventoryManager.Instance.AddItem(item);
-                
-                if (wasPickedUp)
-                {
-                    Debug.Log($"Nhặt được: {item.itemName}");
-                    Destroy(gameObject); // Biến mất sau khi nhặt
-                }
-            }
-            else
-            {
-                Debug.LogWarning("Không tìm thấy InventoryManager trong Scene!");
+                Destroy(gameObject);
             }
         }
     }

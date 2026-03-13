@@ -1,0 +1,1885 @@
+fileFormatVersion: 2
+guid: ecc64bb2856681142bb432c0bbbaa441
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6783793866949330543
+    second: GangTay_0
+  - first:
+      213: -4851852649226736703
+    second: GangTay_1
+  - first:
+      213: 8170048603291638486
+    second: GangTay_2
+  - first:
+      213: 7009389637265503094
+    second: GangTay_3
+  - first:
+      213: -5969385773971784890
+    second: GangTay_4
+  - first:
+      213: -837113713804882285
+    second: GangTay_5
+  - first:
+      213: 7127345772604516953
+    second: GangTay_6
+  - first:
+      213: 5386480908839841434
+    second: GangTay_7
+  - first:
+      213: 5332332462718150983
+    second: GangTay_8
+  - first:
+      213: -5348585254771153237
+    second: GangTay_9
+  - first:
+      213: 8313516707362388102
+    second: GangTay_10
+  - first:
+      213: -5486311581390846712
+    second: GangTay_11
+  - first:
+      213: 2757727083614450342
+    second: GangTay_12
+  - first:
+      213: -8125696178061467038
+    second: GangTay_13
+  - first:
+      213: 8569946868566624818
+    second: GangTay_14
+  - first:
+      213: -5989452697457503526
+    second: GangTay_15
+  - first:
+      213: -1789997806445790850
+    second: GangTay_16
+  - first:
+      213: 9127425574570352212
+    second: GangTay_17
+  - first:
+      213: 2558474638882084931
+    second: GangTay_18
+  - first:
+      213: 6251173219363890316
+    second: GangTay_19
+  - first:
+      213: 4924415227770552655
+    second: GangTay_20
+  - first:
+      213: 5783675039668743491
+    second: GangTay_21
+  - first:
+      213: 5790344423096712535
+    second: GangTay_22
+  - first:
+      213: -1992288212271005845
+    second: GangTay_23
+  - first:
+      213: 5465480596776844580
+    second: GangTay_24
+  - first:
+      213: 5734209599001037828
+    second: GangTay_25
+  - first:
+      213: 4260567072414400452
+    second: GangTay_26
+  - first:
+      213: -818859500399859068
+    second: GangTay_27
+  - first:
+      213: -8669392011692540266
+    second: GangTay_28
+  - first:
+      213: 7108262432293804720
+    second: GangTay_29
+  - first:
+      213: -3322576193127051404
+    second: GangTay_30
+  - first:
+      213: -3495200819835935478
+    second: GangTay_31
+  - first:
+      213: 3311414608970744648
+    second: GangTay_32
+  - first:
+      213: 3450898885243297672
+    second: GangTay_33
+  - first:
+      213: -1407880046652982355
+    second: GangTay_34
+  - first:
+      213: -6839849283500793406
+    second: GangTay_35
+  - first:
+      213: 4926921353881903690
+    second: GangTay_36
+  - first:
+      213: 9150698134923493118
+    second: GangTay_37
+  - first:
+      213: -1945774281628653148
+    second: GangTay_38
+  - first:
+      213: -6440080586085891401
+    second: GangTay_39
+  - first:
+      213: -6203068987117708911
+    second: GangTay_40
+  - first:
+      213: 1411295736339482625
+    second: GangTay_41
+  - first:
+      213: 7122401497552825098
+    second: GangTay_42
+  - first:
+      213: -7969883472152915592
+    second: GangTay_43
+  - first:
+      213: 1061877142164798713
+    second: GangTay_44
+  - first:
+      213: 833340200110717027
+    second: GangTay_45
+  - first:
+      213: -5543742412115223121
+    second: GangTay_46
+  - first:
+      213: -7183389535638109475
+    second: GangTay_47
+  - first:
+      213: 2608993797405638593
+    second: GangTay_48
+  - first:
+      213: -945407041302403612
+    second: GangTay_49
+  - first:
+      213: 4350224814096350947
+    second: GangTay_50
+  - first:
+      213: 8563509646187401392
+    second: GangTay_51
+  - first:
+      213: 6753848936529878615
+    second: GangTay_52
+  - first:
+      213: 8464092948323245004
+    second: GangTay_53
+  - first:
+      213: -6900408314514877935
+    second: GangTay_54
+  - first:
+      213: -4512112469992195229
+    second: GangTay_55
+  - first:
+      213: -3133846202239730143
+    second: GangTay_56
+  - first:
+      213: 5937313333758117942
+    second: GangTay_57
+  - first:
+      213: 386407507460719256
+    second: GangTay_58
+  - first:
+      213: 4971321491929070804
+    second: GangTay_59
+  - first:
+      213: -6054522255990613836
+    second: GangTay_60
+  - first:
+      213: -8564289692067827170
+    second: GangTay_61
+  - first:
+      213: -3874281503471570043
+    second: GangTay_62
+  - first:
+      213: 588961936454523852
+    second: GangTay_63
+  - first:
+      213: 2046391402897208129
+    second: GangTay_64
+  - first:
+      213: 1632563064490595016
+    second: GangTay_65
+  - first:
+      213: -5602980386664998896
+    second: GangTay_66
+  - first:
+      213: 8842126645160364005
+    second: GangTay_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GangTay_0
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1121
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199f20b8b6f1bd1a0800000000000000
+      internalID: -6783793866949330543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_1
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1121
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb6d44c8b1caacb0800000000000000
+      internalID: -4851852649226736703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_2
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1121
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dadfdcfae7d16170800000000000000
+      internalID: 8170048603291638486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_3
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1121
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673b38ddcba564160800000000000000
+      internalID: 7009389637265503094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_4
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1121
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b3427044b782da0800000000000000
+      internalID: -5969385773971784890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_5
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1121
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e4d043389f164f0800000000000000
+      internalID: -837113713804882285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_6
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 1117
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a6977c73b69e260800000000000000
+      internalID: 7127345772604516953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_7
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 1121
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e62d809df90ca40800000000000000
+      internalID: 5386480908839841434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_8
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 1121
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74969987f10400a40800000000000000
+      internalID: 5332332462718150983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_9
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 1125
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6297e7c0206c5b0800000000000000
+      internalID: -5348585254771153237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_10
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 1117
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6883c90066b8f5370800000000000000
+      internalID: 8313516707362388102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_11
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 949
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80546183fa4bcd3b0800000000000000
+      internalID: -5486311581390846712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_12
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 949
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a23056eb2a654620800000000000000
+      internalID: 2757727083614450342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_13
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 949
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262a5e9b06abb3f80800000000000000
+      internalID: -8125696178061467038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_14
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 949
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a82ec75419ee670800000000000000
+      internalID: 8569946868566624818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_15
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 949
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad25a01518031eca0800000000000000
+      internalID: -5989452697457503526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_16
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 949
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79f1169a76a827e0800000000000000
+      internalID: -1789997806445790850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_17
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 945
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ed41e63312bae70800000000000000
+      internalID: 9127425574570352212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_18
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 949
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3489961f027818320800000000000000
+      internalID: 2558474638882084931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_19
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 949
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84ae914ce0a0c650800000000000000
+      internalID: 6251173219363890316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_20
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 949
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41c9c91f89075440800000000000000
+      internalID: 4924415227770552655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_21
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 945
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34dafbb2ecdb34050800000000000000
+      internalID: 5783675039668743491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_22
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 777
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75df7d1039f6b5050800000000000000
+      internalID: 5790344423096712535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_23
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 777
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f73613d68f954e0800000000000000
+      internalID: -1992288212271005845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_24
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 777
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d7ca935a949db40800000000000000
+      internalID: 5465480596776844580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_25
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 777
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c8718cf31049f40800000000000000
+      internalID: 5734209599001037828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_26
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 777
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf7cfccd23902b30800000000000000
+      internalID: 4260567072414400452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_27
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 777
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a66b57f93d2a4f0800000000000000
+      internalID: -818859500399859068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_28
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 773
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ef474d5e120b780800000000000000
+      internalID: -8669392011692540266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_29
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 777
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba502f550f95a260800000000000000
+      internalID: 7108262432293804720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_30
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 777
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f0e7d5e86d3e1d0800000000000000
+      internalID: -3322576193127051404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_31
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 777
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05660b6f5d8e7fc0800000000000000
+      internalID: -3495200819835935478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_32
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 773
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8438dbfca0284fd20800000000000000
+      internalID: 3311414608970744648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_33
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 605
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88fd7b2a04e04ef20800000000000000
+      internalID: 3450898885243297672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_34
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 605
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab73ec8e84367ce0800000000000000
+      internalID: -1407880046652982355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_35
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 605
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1a9b3d059f311a0800000000000000
+      internalID: -6839849283500793406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_36
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 605
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42ea6e0ed0ff5440800000000000000
+      internalID: 4926921353881903690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_37
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 605
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efeb1f2a87fcdfe70800000000000000
+      internalID: 9150698134923493118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_38
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 605
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9ee6a99983ff4e0800000000000000
+      internalID: -1945774281628653148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_39
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 601
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b20675f3dc30a6a0800000000000000
+      internalID: -6440080586085891401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_40
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 605
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1995b991f954ae9a0800000000000000
+      internalID: -6203068987117708911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_41
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 605
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108c98daefde59310800000000000000
+      internalID: 1411295736339482625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_42
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 605
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ba8590d6ad7d260800000000000000
+      internalID: 7122401497552825098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_43
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 601
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87191155539456190800000000000000
+      internalID: -7969883472152915592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_44
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 433
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fcf6dd72ab8cbe00800000000000000
+      internalID: 1061877142164798713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_45
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 433
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368f6ac2f7e909b00800000000000000
+      internalID: 833340200110717027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_46
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 433
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fadda9fe5aba013b0800000000000000
+      internalID: -5543742412115223121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_47
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 433
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2480dc6497f4c90800000000000000
+      internalID: -7183389535638109475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_48
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 433
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf7f832902053420800000000000000
+      internalID: 2608993797405638593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_49
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 433
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5640f0e4d31e2f0800000000000000
+      internalID: -945407041302403612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_50
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 429
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee7d418b6a1f5c30800000000000000
+      internalID: 4350224814096350947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_51
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 433
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b091abd6a2b7d670800000000000000
+      internalID: 8563509646187401392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_52
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 433
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e538803dd7abd50800000000000000
+      internalID: 6753848936529878615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_53
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 433
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb12ba11bf767570800000000000000
+      internalID: 8464092948323245004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_54
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 429
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1125038a233dc30a0800000000000000
+      internalID: -6900408314514877935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_55
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 261
+        width: 82
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b318f5d91c161c0800000000000000
+      internalID: -4512112469992195229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_56
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 261
+        width: 82
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e3bce9b775284d0800000000000000
+      internalID: -3133846202239730143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_57
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 269
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638c7d21503956250800000000000000
+      internalID: 5937313333758117942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_58
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 261
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8928dbca49bcc5500800000000000000
+      internalID: 386407507460719256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_59
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 261
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc72b6ce8eadf440800000000000000
+      internalID: 4971321491929070804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_60
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 261
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b89bfe16140afba0800000000000000
+      internalID: -6054522255990613836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_61
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 261
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12f1ce86e7852980800000000000000
+      internalID: -8564289692067827170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_62
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 261
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583f5b9df79cb3ac0800000000000000
+      internalID: -3874281503471570043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_63
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 261
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb1990c2c96c2800800000000000000
+      internalID: 588961936454523852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_64
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 261
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143f911832e366c10800000000000000
+      internalID: 2046391402897208129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_65
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 257
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2926c157708a610800000000000000
+      internalID: 1632563064490595016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_66
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 89
+        width: 82
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0181a5136073e32b0800000000000000
+      internalID: -5602980386664998896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GangTay_67
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 89
+        width: 82
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7cccf065b85ba70800000000000000
+      internalID: 8842126645160364005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GangTay_0: -6783793866949330543
+      GangTay_1: -4851852649226736703
+      GangTay_10: 8313516707362388102
+      GangTay_11: -5486311581390846712
+      GangTay_12: 2757727083614450342
+      GangTay_13: -8125696178061467038
+      GangTay_14: 8569946868566624818
+      GangTay_15: -5989452697457503526
+      GangTay_16: -1789997806445790850
+      GangTay_17: 9127425574570352212
+      GangTay_18: 2558474638882084931
+      GangTay_19: 6251173219363890316
+      GangTay_2: 8170048603291638486
+      GangTay_20: 4924415227770552655
+      GangTay_21: 5783675039668743491
+      GangTay_22: 5790344423096712535
+      GangTay_23: -1992288212271005845
+      GangTay_24: 5465480596776844580
+      GangTay_25: 5734209599001037828
+      GangTay_26: 4260567072414400452
+      GangTay_27: -818859500399859068
+      GangTay_28: -8669392011692540266
+      GangTay_29: 7108262432293804720
+      GangTay_3: 7009389637265503094
+      GangTay_30: -3322576193127051404
+      GangTay_31: -3495200819835935478
+      GangTay_32: 3311414608970744648
+      GangTay_33: 3450898885243297672
+      GangTay_34: -1407880046652982355
+      GangTay_35: -6839849283500793406
+      GangTay_36: 4926921353881903690
+      GangTay_37: 9150698134923493118
+      GangTay_38: -1945774281628653148
+      GangTay_39: -6440080586085891401
+      GangTay_4: -5969385773971784890
+      GangTay_40: -6203068987117708911
+      GangTay_41: 1411295736339482625
+      GangTay_42: 7122401497552825098
+      GangTay_43: -7969883472152915592
+      GangTay_44: 1061877142164798713
+      GangTay_45: 833340200110717027
+      GangTay_46: -5543742412115223121
+      GangTay_47: -7183389535638109475
+      GangTay_48: 2608993797405638593
+      GangTay_49: -945407041302403612
+      GangTay_5: -837113713804882285
+      GangTay_50: 4350224814096350947
+      GangTay_51: 8563509646187401392
+      GangTay_52: 6753848936529878615
+      GangTay_53: 8464092948323245004
+      GangTay_54: -6900408314514877935
+      GangTay_55: -4512112469992195229
+      GangTay_56: -3133846202239730143
+      GangTay_57: 5937313333758117942
+      GangTay_58: 386407507460719256
+      GangTay_59: 4971321491929070804
+      GangTay_6: 7127345772604516953
+      GangTay_60: -6054522255990613836
+      GangTay_61: -8564289692067827170
+      GangTay_62: -3874281503471570043
+      GangTay_63: 588961936454523852
+      GangTay_64: 2046391402897208129
+      GangTay_65: 1632563064490595016
+      GangTay_66: -5602980386664998896
+      GangTay_67: 8842126645160364005
+      GangTay_7: 5386480908839841434
+      GangTay_8: 5332332462718150983
+      GangTay_9: -5348585254771153237
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

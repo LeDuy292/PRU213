@@ -1,0 +1,2119 @@
+fileFormatVersion: 2
+guid: 2f306fc88f1dc7843b941e20a904e534
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7386175668599407942
+    second: Khien_0
+  - first:
+      213: 7620556495337094671
+    second: Khien_1
+  - first:
+      213: -3379669722113465546
+    second: Khien_2
+  - first:
+      213: -2526459040004920655
+    second: Khien_3
+  - first:
+      213: 4167401967680545044
+    second: Khien_4
+  - first:
+      213: -2028582444795002113
+    second: Khien_5
+  - first:
+      213: 2693285947383986105
+    second: Khien_6
+  - first:
+      213: -1064180487134005268
+    second: Khien_7
+  - first:
+      213: 6290476204257847601
+    second: Khien_8
+  - first:
+      213: 2832850939700379196
+    second: Khien_9
+  - first:
+      213: 8674932717084698723
+    second: Khien_10
+  - first:
+      213: -3256831043078127071
+    second: Khien_11
+  - first:
+      213: 8191647642867173532
+    second: Khien_12
+  - first:
+      213: 5052371943936726808
+    second: Khien_13
+  - first:
+      213: -3155371187778467115
+    second: Khien_14
+  - first:
+      213: 1253944833349941539
+    second: Khien_15
+  - first:
+      213: -6627793235405428618
+    second: Khien_16
+  - first:
+      213: 6504138151976664372
+    second: Khien_17
+  - first:
+      213: 3255238043904345638
+    second: Khien_18
+  - first:
+      213: 8978058268599366004
+    second: Khien_19
+  - first:
+      213: -6097509177312066408
+    second: Khien_20
+  - first:
+      213: -7063439905407627087
+    second: Khien_21
+  - first:
+      213: -8403825255041011538
+    second: Khien_22
+  - first:
+      213: -2091245756542871148
+    second: Khien_23
+  - first:
+      213: -938916063740372202
+    second: Khien_24
+  - first:
+      213: 6076395957348290258
+    second: Khien_25
+  - first:
+      213: 5881635114451014253
+    second: Khien_26
+  - first:
+      213: -6347725124686511786
+    second: Khien_27
+  - first:
+      213: 852602828930524685
+    second: Khien_28
+  - first:
+      213: -7564681820094900452
+    second: Khien_29
+  - first:
+      213: -1188674235851951051
+    second: Khien_30
+  - first:
+      213: -3163243448535706522
+    second: Khien_31
+  - first:
+      213: 7303022795017486421
+    second: Khien_32
+  - first:
+      213: 1679329141902681750
+    second: Khien_33
+  - first:
+      213: -26882363759957394
+    second: Khien_34
+  - first:
+      213: -4719949355892633047
+    second: Khien_35
+  - first:
+      213: 5042754261311691750
+    second: Khien_36
+  - first:
+      213: -7045375679384826812
+    second: Khien_37
+  - first:
+      213: 4089390936347901301
+    second: Khien_38
+  - first:
+      213: 360650187313073584
+    second: Khien_39
+  - first:
+      213: -4867189958165878983
+    second: Khien_40
+  - first:
+      213: -550441595234301815
+    second: Khien_41
+  - first:
+      213: -7778890947811424833
+    second: Khien_42
+  - first:
+      213: -5982594491989553109
+    second: Khien_43
+  - first:
+      213: 6966388525750574841
+    second: Khien_44
+  - first:
+      213: 4624029190895351186
+    second: Khien_45
+  - first:
+      213: -1248849170265693802
+    second: Khien_46
+  - first:
+      213: 5336497350842950700
+    second: Khien_47
+  - first:
+      213: -7594020115656702813
+    second: Khien_48
+  - first:
+      213: -4940622020173207891
+    second: Khien_49
+  - first:
+      213: 6949949081240522998
+    second: Khien_50
+  - first:
+      213: 3326888809996560819
+    second: Khien_51
+  - first:
+      213: -3779972534922118900
+    second: Khien_52
+  - first:
+      213: 7498387963171860206
+    second: Khien_53
+  - first:
+      213: -3155180749572485416
+    second: Khien_54
+  - first:
+      213: -1520942123289441253
+    second: Khien_55
+  - first:
+      213: -8375465419331714273
+    second: Khien_56
+  - first:
+      213: 8887727332071855170
+    second: Khien_57
+  - first:
+      213: -5947252377692347511
+    second: Khien_58
+  - first:
+      213: -492511574541714296
+    second: Khien_59
+  - first:
+      213: -2650817155094331208
+    second: Khien_60
+  - first:
+      213: -6309289257892192506
+    second: Khien_61
+  - first:
+      213: -4097550259561970097
+    second: Khien_62
+  - first:
+      213: 1544903473347700251
+    second: Khien_63
+  - first:
+      213: 6584060311816517812
+    second: Khien_64
+  - first:
+      213: -6917227491080947777
+    second: Khien_65
+  - first:
+      213: -2642201390918135342
+    second: Khien_66
+  - first:
+      213: -6123991480265379212
+    second: Khien_67
+  - first:
+      213: 8346844792665017211
+    second: Khien_68
+  - first:
+      213: -4495602381753165981
+    second: Khien_69
+  - first:
+      213: 3102127517783092914
+    second: Khien_70
+  - first:
+      213: 3052235530046205507
+    second: Khien_71
+  - first:
+      213: 1541622706817800019
+    second: Khien_72
+  - first:
+      213: -4319810737309448877
+    second: Khien_73
+  - first:
+      213: 5584583490929477001
+    second: Khien_74
+  - first:
+      213: 6078889920711558404
+    second: Khien_75
+  - first:
+      213: -6307239792537658415
+    second: Khien_76
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Khien_0
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1123
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ababf70fc580f7990800000000000000
+      internalID: -7386175668599407942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_1
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1107
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0efc5fc1c7a1c960800000000000000
+      internalID: 7620556495337094671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_2
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1103
+        width: 74
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633a8434b400911d0800000000000000
+      internalID: -3379669722113465546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_3
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1103
+        width: 98
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1baaeec83e630fcd0800000000000000
+      internalID: -2526459040004920655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_4
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1107
+        width: 98
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411ecdf720695d930800000000000000
+      internalID: 4167401967680545044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_5
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1103
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2866ca30709d3e0800000000000000
+      internalID: -2028582444795002113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_6
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1103
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7bf5cac49706520800000000000000
+      internalID: 2693285947383986105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_7
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 1107
+        width: 106
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7b9773c754b31f0800000000000000
+      internalID: -1064180487134005268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_8
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 1103
+        width: 66
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13926d687c24c4750800000000000000
+      internalID: 6290476204257847601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_9
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 1103
+        width: 98
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ef87aabee405720800000000000000
+      internalID: 2832850939700379196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_10
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 1111
+        width: 82
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3686f3c285d836870800000000000000
+      internalID: 8674932717084698723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_11
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 951
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1220dd7fb696dc2d0800000000000000
+      internalID: -3256831043078127071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_12
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 935
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98834641249ea170800000000000000
+      internalID: 8191647642867173532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_13
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 931
+        width: 74
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8179f7fa381ad1640800000000000000
+      internalID: 5052371943936726808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_14
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 931
+        width: 98
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da46f16f9ed534d0800000000000000
+      internalID: -3155371187778467115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_15
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 939
+        width: 82
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32972c7ae28e66110800000000000000
+      internalID: 1253944833349941539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_16
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 931
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6782ceefa295504a0800000000000000
+      internalID: -6627793235405428618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_17
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 931
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d72a65037534a50800000000000000
+      internalID: 6504138151976664372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_18
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 935
+        width: 106
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626814201cdec2d20800000000000000
+      internalID: 3255238043904345638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_19
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 931
+        width: 106
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471bf907d68789c70800000000000000
+      internalID: 8978058268599366004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_20
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 931
+        width: 98
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89441af85bb416ba0800000000000000
+      internalID: -6097509177312066408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_21
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 935
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b01cd964de99fd90800000000000000
+      internalID: -7063439905407627087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_22
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 779
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0f2d6b47d9f5b80800000000000000
+      internalID: -8403825255041011538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_23
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 759
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499183770176af2e0800000000000000
+      internalID: -2091245756542871148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_24
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 759
+        width: 74
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61bd8da80dc48f2f0800000000000000
+      internalID: -938916063740372202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_25
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 759
+        width: 98
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de4d58dde1b35450800000000000000
+      internalID: 6076395957348290258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_26
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 767
+        width: 114
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62115f69f3cf9150800000000000000
+      internalID: 5881635114451014253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_27
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 759
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6510d3b71a958e7a0800000000000000
+      internalID: -6347725124686511786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_28
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 759
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06a5e071cd05db00800000000000000
+      internalID: 852602828930524685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_29
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 763
+        width: 106
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17536ac6f9d40790800000000000000
+      internalID: -7564681820094900452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_30
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 759
+        width: 106
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534b262941bf08fe0800000000000000
+      internalID: -1188674235851951051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_31
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 759
+        width: 98
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66492f7d7d6e914d0800000000000000
+      internalID: -3163243448535706522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_32
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 779
+        width: 122
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550099bf98c895560800000000000000
+      internalID: 7303022795017486421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_33
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 599
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696221405fc2e4710800000000000000
+      internalID: 1679329141902681750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_34
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 587
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a6d51f1ae70aff0800000000000000
+      internalID: -26882363759957394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_35
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 587
+        width: 74
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9229f24711f5f7eb0800000000000000
+      internalID: -4719949355892633047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_36
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 587
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb121378467bf540800000000000000
+      internalID: 5042754261311691750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_37
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 595
+        width: 82
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c4719c52cc93e90800000000000000
+      internalID: -7045375679384826812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_38
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 587
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57df7bcd36f60c830800000000000000
+      internalID: 4089390936347901301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_39
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 587
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd49fe3f69410500800000000000000
+      internalID: 360650187313073584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_40
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 591
+        width: 106
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937ac214584447cb0800000000000000
+      internalID: -4867189958165878983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_41
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 587
+        width: 106
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988c57619407c58f0800000000000000
+      internalID: -550441595234301815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_42
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 587
+        width: 98
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5c235b5e3db0490800000000000000
+      internalID: -7778890947811424833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_43
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 607
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2011c5b10e89fca0800000000000000
+      internalID: -5982594491989553109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_44
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 419
+        width: 98
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe58b464759da060800000000000000
+      internalID: 6966388525750574841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_45
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 419
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295ba5acc0adb2040800000000000000
+      internalID: 4624029190895351186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_46
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 415
+        width: 74
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691a54cdb423baee0800000000000000
+      internalID: -1248849170265693802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_47
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 415
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24aecd011c0f0a40800000000000000
+      internalID: 5336497350842950700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_48
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 419
+        width: 98
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a48c1d80fe9c9690800000000000000
+      internalID: -7594020115656702813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_49
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 415
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da66a1ef2726f6bb0800000000000000
+      internalID: -4940622020173207891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_50
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 383
+        width: 170
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0d462fddd237060800000000000000
+      internalID: 6949949081240522998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_51
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 419
+        width: 106
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9211ffebb7b2e20800000000000000
+      internalID: 3326888809996560819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_52
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 415
+        width: 66
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09fb33b107da8bc0800000000000000
+      internalID: -3779972534922118900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_53
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 415
+        width: 98
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee6ce4df10af0860800000000000000
+      internalID: 7498387963171860206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_54
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 415
+        width: 74
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dec49b33db8634d0800000000000000
+      internalID: -3155180749572485416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_55
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 263
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c8769723784eae0800000000000000
+      internalID: -1520942123289441253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_56
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 243
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f134a24839e54cb80800000000000000
+      internalID: -8375465419331714273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_57
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 243
+        width: 114
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2445ca85bec875b70800000000000000
+      internalID: 8887727332071855170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_58
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 243
+        width: 98
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983ec0ee87d177da0800000000000000
+      internalID: -5947252377692347511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_59
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 251
+        width: 98
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c3ca7155f3a29f0800000000000000
+      internalID: -492511574541714296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_60
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 243
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0471297d7663bd0800000000000000
+      internalID: -2650817155094331208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_61
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 243
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60fd52619d6e078a0800000000000000
+      internalID: -6309289257892192506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_62
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 243
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46cf79afb39227c0800000000000000
+      internalID: -4097550259561970097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_63
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 243
+        width: 82
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1628251689907510800000000000000
+      internalID: 1544903473347700251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_64
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 243
+        width: 66
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8329148f74f5b50800000000000000
+      internalID: 6584060311816517812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_65
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 243
+        width: 74
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7bd83fe321100a0800000000000000
+      internalID: -6917227491080947777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_66
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 91
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1184d75d3055bd0800000000000000
+      internalID: -2642201390918135342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_67
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 75
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472734be136330ba0800000000000000
+      internalID: -6123991480265379212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_68
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 67
+        width: 90
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b0e1e8d13f5d370800000000000000
+      internalID: 8346844792665017211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_69
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 71
+        width: 98
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367d338d3796c91c0800000000000000
+      internalID: -4495602381753165981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_70
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 79
+        width: 90
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2beec69aa88fc0b20800000000000000
+      internalID: 3102127517783092914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_71
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 71
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34eea3b0b08bb5a20800000000000000
+      internalID: 3052235530046205507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_72
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 71
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3571d891fa1f46510800000000000000
+      internalID: 1541622706817800019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_73
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 71
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35580c19503fc04c0800000000000000
+      internalID: -4319810737309448877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_74
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 71
+        width: 98
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985cc5bb81d608d40800000000000000
+      internalID: 5584583490929477001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_75
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 138
+        width: 62
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40507b0fc2e8c5450800000000000000
+      internalID: 6078889920711558404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Khien_76
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 138
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db959c63de2878a0800000000000000
+      internalID: -6307239792537658415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Khien_0: -7386175668599407942
+      Khien_1: 7620556495337094671
+      Khien_10: 8674932717084698723
+      Khien_11: -3256831043078127071
+      Khien_12: 8191647642867173532
+      Khien_13: 5052371943936726808
+      Khien_14: -3155371187778467115
+      Khien_15: 1253944833349941539
+      Khien_16: -6627793235405428618
+      Khien_17: 6504138151976664372
+      Khien_18: 3255238043904345638
+      Khien_19: 8978058268599366004
+      Khien_2: -3379669722113465546
+      Khien_20: -6097509177312066408
+      Khien_21: -7063439905407627087
+      Khien_22: -8403825255041011538
+      Khien_23: -2091245756542871148
+      Khien_24: -938916063740372202
+      Khien_25: 6076395957348290258
+      Khien_26: 5881635114451014253
+      Khien_27: -6347725124686511786
+      Khien_28: 852602828930524685
+      Khien_29: -7564681820094900452
+      Khien_3: -2526459040004920655
+      Khien_30: -1188674235851951051
+      Khien_31: -3163243448535706522
+      Khien_32: 7303022795017486421
+      Khien_33: 1679329141902681750
+      Khien_34: -26882363759957394
+      Khien_35: -4719949355892633047
+      Khien_36: 5042754261311691750
+      Khien_37: -7045375679384826812
+      Khien_38: 4089390936347901301
+      Khien_39: 360650187313073584
+      Khien_4: 4167401967680545044
+      Khien_40: -4867189958165878983
+      Khien_41: -550441595234301815
+      Khien_42: -7778890947811424833
+      Khien_43: -5982594491989553109
+      Khien_44: 6966388525750574841
+      Khien_45: 4624029190895351186
+      Khien_46: -1248849170265693802
+      Khien_47: 5336497350842950700
+      Khien_48: -7594020115656702813
+      Khien_49: -4940622020173207891
+      Khien_5: -2028582444795002113
+      Khien_50: 6949949081240522998
+      Khien_51: 3326888809996560819
+      Khien_52: -3779972534922118900
+      Khien_53: 7498387963171860206
+      Khien_54: -3155180749572485416
+      Khien_55: -1520942123289441253
+      Khien_56: -8375465419331714273
+      Khien_57: 8887727332071855170
+      Khien_58: -5947252377692347511
+      Khien_59: -492511574541714296
+      Khien_6: 2693285947383986105
+      Khien_60: -2650817155094331208
+      Khien_61: -6309289257892192506
+      Khien_62: -4097550259561970097
+      Khien_63: 1544903473347700251
+      Khien_64: 6584060311816517812
+      Khien_65: -6917227491080947777
+      Khien_66: -2642201390918135342
+      Khien_67: -6123991480265379212
+      Khien_68: 8346844792665017211
+      Khien_69: -4495602381753165981
+      Khien_7: -1064180487134005268
+      Khien_70: 3102127517783092914
+      Khien_71: 3052235530046205507
+      Khien_72: 1541622706817800019
+      Khien_73: -4319810737309448877
+      Khien_74: 5584583490929477001
+      Khien_75: 6078889920711558404
+      Khien_76: -6307239792537658415
+      Khien_8: 6290476204257847601
+      Khien_9: 2832850939700379196
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

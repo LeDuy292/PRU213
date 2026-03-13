@@ -10,9 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3c5922acc769b4e45af5d15f7423a214, type: 3}
-  m_Name: hihi
+  m_Name: AO_BANG
   m_EditorClassIdentifier: Assembly-CSharp::Item
   itemName: 
-  icon: {fileID: 3692149055393580539, guid: f310ad2ef6422a644b5405d8079267f4, type: 3}
-  itemType: 2
-  bonusHealth: 0
+  icon: {fileID: 1841978984226863362, guid: ab3c3fbcbdcdc544eac3751623c380b1, type: 3}
+  itemType: 3
+  bonusHealth: 55
+  bonusMoveSpeed: 0
+  bonusNormalDamagePercent: 0
+  bonusSkillDamagePercent: 0

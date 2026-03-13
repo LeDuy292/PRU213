@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3c5922acc769b4e45af5d15f7423a214, type: 3}
-  m_Name: New Item 1
+  m_Name: GIAY_BANG
   m_EditorClassIdentifier: Assembly-CSharp::Item
   itemName: 
-  icon: {fileID: 2725303956919028451, guid: f19bbaa782a7712489e22d898334775f, type: 3}
+  icon: {fileID: -4628076253220049131, guid: 2a6b0d7c960b9cb42a55e215f195b2bf, type: 3}
   itemType: 4
   bonusHealth: 5000
   bonusMoveSpeed: 20

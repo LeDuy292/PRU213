@@ -38,6 +38,13 @@ public class EnemyHealth : MonoBehaviour
         {
             enemyManager.EnemyDied(expReward); // truyền EXP
         }
+
+        // Rơi đồ
+        EnemyLoot loot = GetComponent<EnemyLoot>();
+        if (loot != null)
+        {
+            loot.DropLoot();
+        }
         
         Destroy(gameObject);
     }

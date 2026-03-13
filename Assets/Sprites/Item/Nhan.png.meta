@@ -1,0 +1,3601 @@
+fileFormatVersion: 2
+guid: a60de9f3466fb3c40aaa1b5f3b1a526d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8585741685442168571
+    second: Nhan_0
+  - first:
+      213: 106025226846395580
+    second: Nhan_1
+  - first:
+      213: -4099997733491564732
+    second: Nhan_2
+  - first:
+      213: -8940085707990588451
+    second: Nhan_3
+  - first:
+      213: -254691759673044781
+    second: Nhan_4
+  - first:
+      213: -3898448618771225840
+    second: Nhan_5
+  - first:
+      213: 1894929057430390731
+    second: Nhan_6
+  - first:
+      213: -5654963576342573137
+    second: Nhan_7
+  - first:
+      213: 7955803653481085201
+    second: Nhan_8
+  - first:
+      213: 1568053370838401185
+    second: Nhan_9
+  - first:
+      213: -6206103100576124457
+    second: Nhan_10
+  - first:
+      213: -1631442669923563757
+    second: Nhan_11
+  - first:
+      213: -996802140053887133
+    second: Nhan_12
+  - first:
+      213: -906480936991035858
+    second: Nhan_13
+  - first:
+      213: -5463904864324363821
+    second: Nhan_14
+  - first:
+      213: -6971717545323864273
+    second: Nhan_15
+  - first:
+      213: -4109430125601098916
+    second: Nhan_16
+  - first:
+      213: 3075433904527691647
+    second: Nhan_17
+  - first:
+      213: 6278175978794527952
+    second: Nhan_18
+  - first:
+      213: -2945200637985577157
+    second: Nhan_19
+  - first:
+      213: 1004135952426040191
+    second: Nhan_20
+  - first:
+      213: -7542844032370780565
+    second: Nhan_21
+  - first:
+      213: -1702090618338798510
+    second: Nhan_22
+  - first:
+      213: -2873630614060169900
+    second: Nhan_23
+  - first:
+      213: 4405052983428275106
+    second: Nhan_24
+  - first:
+      213: 5569407729813932571
+    second: Nhan_25
+  - first:
+      213: -6577471308837080733
+    second: Nhan_26
+  - first:
+      213: 2320536037044397625
+    second: Nhan_27
+  - first:
+      213: 4999172883257109325
+    second: Nhan_28
+  - first:
+      213: 4371502978297524085
+    second: Nhan_29
+  - first:
+      213: -4287978913896636728
+    second: Nhan_30
+  - first:
+      213: 1567855302501965564
+    second: Nhan_31
+  - first:
+      213: -6405342329333240158
+    second: Nhan_32
+  - first:
+      213: 3816584174752942806
+    second: Nhan_33
+  - first:
+      213: 3795007749458187213
+    second: Nhan_34
+  - first:
+      213: -1655823488905540624
+    second: Nhan_35
+  - first:
+      213: -3735135087729228119
+    second: Nhan_36
+  - first:
+      213: -974165217681980764
+    second: Nhan_37
+  - first:
+      213: -2410616797669787009
+    second: Nhan_38
+  - first:
+      213: -7928507167003419712
+    second: Nhan_39
+  - first:
+      213: -7580072659356758640
+    second: Nhan_40
+  - first:
+      213: 2229307378266622919
+    second: Nhan_41
+  - first:
+      213: -7328543826115248616
+    second: Nhan_42
+  - first:
+      213: 6647149089053546755
+    second: Nhan_43
+  - first:
+      213: 2607249440109133624
+    second: Nhan_44
+  - first:
+      213: 6805482476164366278
+    second: Nhan_45
+  - first:
+      213: 1998865160238819684
+    second: Nhan_46
+  - first:
+      213: 4129858878412349439
+    second: Nhan_47
+  - first:
+      213: -1652767688089200042
+    second: Nhan_48
+  - first:
+      213: -8505283181290050253
+    second: Nhan_49
+  - first:
+      213: 3039598523572057370
+    second: Nhan_50
+  - first:
+      213: 1950053691597734555
+    second: Nhan_51
+  - first:
+      213: -7464168527978785084
+    second: Nhan_52
+  - first:
+      213: -8628146731032764560
+    second: Nhan_53
+  - first:
+      213: -4958998430576829228
+    second: Nhan_54
+  - first:
+      213: -8349812582604326339
+    second: Nhan_55
+  - first:
+      213: 6152637786771136933
+    second: Nhan_56
+  - first:
+      213: 3556397083736628773
+    second: Nhan_57
+  - first:
+      213: -1010952886352315998
+    second: Nhan_58
+  - first:
+      213: -652276961884094379
+    second: Nhan_59
+  - first:
+      213: -6688825019025585505
+    second: Nhan_60
+  - first:
+      213: 4126464353007191711
+    second: Nhan_61
+  - first:
+      213: -997856146374123918
+    second: Nhan_62
+  - first:
+      213: 8593236794449889135
+    second: Nhan_63
+  - first:
+      213: -5076273269929339213
+    second: Nhan_64
+  - first:
+      213: -3994489976305340919
+    second: Nhan_65
+  - first:
+      213: -8975222764491451929
+    second: Nhan_66
+  - first:
+      213: -8135450903426018159
+    second: Nhan_67
+  - first:
+      213: 8133791083534436464
+    second: Nhan_68
+  - first:
+      213: 7882764665115366955
+    second: Nhan_69
+  - first:
+      213: 7611930213398205899
+    second: Nhan_70
+  - first:
+      213: 4337921342939470604
+    second: Nhan_71
+  - first:
+      213: -5179177749768100853
+    second: Nhan_72
+  - first:
+      213: 3069749116448817921
+    second: Nhan_73
+  - first:
+      213: 1022608611500085087
+    second: Nhan_74
+  - first:
+      213: 3875872491916394924
+    second: Nhan_75
+  - first:
+      213: 6990492553656257354
+    second: Nhan_76
+  - first:
+      213: -1442142781017278206
+    second: Nhan_77
+  - first:
+      213: -3598734289156394787
+    second: Nhan_78
+  - first:
+      213: -2717295525338933762
+    second: Nhan_79
+  - first:
+      213: 3729566700027580041
+    second: Nhan_80
+  - first:
+      213: 614673187951422696
+    second: Nhan_81
+  - first:
+      213: 627721297945434207
+    second: Nhan_82
+  - first:
+      213: 175297942244264756
+    second: Nhan_83
+  - first:
+      213: 347357616975601559
+    second: Nhan_84
+  - first:
+      213: -7812226702380968800
+    second: Nhan_85
+  - first:
+      213: -7826054118997005207
+    second: Nhan_86
+  - first:
+      213: -4380897087982509557
+    second: Nhan_87
+  - first:
+      213: -2639368267094504920
+    second: Nhan_88
+  - first:
+      213: 2520930535794275532
+    second: Nhan_89
+  - first:
+      213: 5329586111642970847
+    second: Nhan_90
+  - first:
+      213: -1348304115181567205
+    second: Nhan_91
+  - first:
+      213: -2921771247786403064
+    second: Nhan_92
+  - first:
+      213: 361102847406164297
+    second: Nhan_93
+  - first:
+      213: -6627026947217976503
+    second: Nhan_94
+  - first:
+      213: 6399732575979127126
+    second: Nhan_95
+  - first:
+      213: -1287291197664876716
+    second: Nhan_96
+  - first:
+      213: 3298766635201860673
+    second: Nhan_97
+  - first:
+      213: -7822581693208710729
+    second: Nhan_98
+  - first:
+      213: -8679067443775199020
+    second: Nhan_99
+  - first:
+      213: 3138374190602732420
+    second: Nhan_100
+  - first:
+      213: 3086915524527987891
+    second: Nhan_101
+  - first:
+      213: 4933737926686279059
+    second: Nhan_102
+  - first:
+      213: 3885831960929401093
+    second: Nhan_103
+  - first:
+      213: 4804874600936399672
+    second: Nhan_104
+  - first:
+      213: 8671257057104877629
+    second: Nhan_105
+  - first:
+      213: 1857200332056852300
+    second: Nhan_106
+  - first:
+      213: 6182144036490869251
+    second: Nhan_107
+  - first:
+      213: -5207268370475449815
+    second: Nhan_108
+  - first:
+      213: 4514824947050487595
+    second: Nhan_109
+  - first:
+      213: 1015141872495837341
+    second: Nhan_110
+  - first:
+      213: -6155012530924172548
+    second: Nhan_111
+  - first:
+      213: -1475205242945438669
+    second: Nhan_112
+  - first:
+      213: 5756788615417963552
+    second: Nhan_113
+  - first:
+      213: -1505754223964791010
+    second: Nhan_114
+  - first:
+      213: -8668426937403837294
+    second: Nhan_115
+  - first:
+      213: -5968231862516450336
+    second: Nhan_116
+  - first:
+      213: 8326086310276539814
+    second: Nhan_117
+  - first:
+      213: 4866593271180309346
+    second: Nhan_118
+  - first:
+      213: 8688545990742864531
+    second: Nhan_119
+  - first:
+      213: -7561097395658667559
+    second: Nhan_120
+  - first:
+      213: 7321976535004588432
+    second: Nhan_121
+  - first:
+      213: 1852769219282158259
+    second: Nhan_122
+  - first:
+      213: 3271803516637186579
+    second: Nhan_123
+  - first:
+      213: -2531798114971549396
+    second: Nhan_124
+  - first:
+      213: 4981887315826876595
+    second: Nhan_125
+  - first:
+      213: -4656400107186212900
+    second: Nhan_126
+  - first:
+      213: 1119423475122640131
+    second: Nhan_127
+  - first:
+      213: -5494808023217555453
+    second: Nhan_128
+  - first:
+      213: -1392179847659486940
+    second: Nhan_129
+  - first:
+      213: 3860634138048936370
+    second: Nhan_130
+  - first:
+      213: 3619438970459450313
+    second: Nhan_131
+  - first:
+      213: -3944002779654923248
+    second: Nhan_132
+  - first:
+      213: 1398623318118912407
+    second: Nhan_133
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nhan_0
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1032
+        width: 78
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf64b0ed29ea62770800000000000000
+      internalID: 8585741685442168571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_1
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1032
+        width: 94
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbcd86fc16da87100800000000000000
+      internalID: 106025226846395580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_2
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1032
+        width: 98
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f145bb8c1e917c0800000000000000
+      internalID: -4099997733491564732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_3
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 1036
+        width: 70
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3aca94a6f6ee380800000000000000
+      internalID: -8940085707990588451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_4
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 1136
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d01879a137277cf0800000000000000
+      internalID: -254691759673044781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_5
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 1032
+        width: 102
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0136707d2ade5e9c0800000000000000
+      internalID: -3898448618771225840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_6
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 1032
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc744be10f32c4a10800000000000000
+      internalID: 1894929057430390731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_7
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 1128
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf045ea6988581b0800000000000000
+      internalID: -5654963576342573137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_8
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 1128
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119be7c6541b86e60800000000000000
+      internalID: 7955803653481085201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_9
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1116
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a04dad9b38d2c510800000000000000
+      internalID: 1568053370838401185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_10
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1040
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1b5b28c1e7fd9a0800000000000000
+      internalID: -6206103100576124457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_11
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1040
+        width: 74
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3178ac31983fb59e0800000000000000
+      internalID: -1631442669923563757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_12
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1044
+        width: 74
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3672db22cb5aa22f0800000000000000
+      internalID: -996802140053887133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_13
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 1044
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e6cfaf3688b63f0800000000000000
+      internalID: -906480936991035858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_14
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 1120
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9da63997f4c24b0800000000000000
+      internalID: -5463904864324363821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_15
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 1108
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2fdc9c84db7f3f90800000000000000
+      internalID: -6971717545323864273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_16
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 1104
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53f14ec21f58f6c0800000000000000
+      internalID: -4109430125601098916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_17
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 1100
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7fc09187d22eaa20800000000000000
+      internalID: 3075433904527691647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_18
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 1096
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc207d1acf802750800000000000000
+      internalID: 6278175978794527952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_19
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 1080
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37ad94cf9b8027d0800000000000000
+      internalID: -2945200637985577157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_20
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 1092
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b7d8e14586fed00800000000000000
+      internalID: 1004135952426040191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_21
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 1076
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b665d56f05f625790800000000000000
+      internalID: -7542844032370780565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_22
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 1084
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2541466c995f068e0800000000000000
+      internalID: -1702090618338798510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_23
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 1064
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45581418e20de18d0800000000000000
+      internalID: -2873630614060169900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_24
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 1056
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab54067954e12d30800000000000000
+      internalID: 4405052983428275106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_25
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 1056
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1acfd082d28a4d40800000000000000
+      internalID: 5569407729813932571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_26
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 860
+        width: 78
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361317c81b028b4a0800000000000000
+      internalID: -6577471308837080733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_27
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 860
+        width: 94
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93626802b33343020800000000000000
+      internalID: 2320536037044397625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_28
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 860
+        width: 98
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b2e452041a06540800000000000000
+      internalID: 4999172883257109325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_29
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 864
+        width: 70
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f6cfb2cc2baac30800000000000000
+      internalID: 4371502978297524085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_30
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 964
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce53d085e90e74c0800000000000000
+      internalID: -4287978913896636728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_31
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 860
+        width: 102
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe97dc371422c510800000000000000
+      internalID: 1567855302501965564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_32
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 860
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aea153a617ab17a0800000000000000
+      internalID: -6405342329333240158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_33
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 956
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dac687f51b37f430800000000000000
+      internalID: 3816584174752942806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_34
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 868
+        width: 78
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc35f4af0739aa430800000000000000
+      internalID: 3795007749458187213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_35
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 956
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb890d4f455509e0800000000000000
+      internalID: -1655823488905540624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_36
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 944
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a64dc36d622a2cc0800000000000000
+      internalID: -3735135087729228119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_37
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 868
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2468755e11b72f0800000000000000
+      internalID: -974165217681980764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_38
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 872
+        width: 74
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a7d456bc4cb8ed0800000000000000
+      internalID: -2410616797669787009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_39
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 872
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb5f971db848f190800000000000000
+      internalID: -7928507167003419712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_40
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 948
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09dc367c31c2ec690800000000000000
+      internalID: -7580072659356758640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_41
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 936
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb4db8cf3710fe10800000000000000
+      internalID: 2229307378266622919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_42
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 932
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81eb48be738cb4a90800000000000000
+      internalID: -7328543826115248616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_43
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 928
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309191ed0ea6f3c50800000000000000
+      internalID: 6647149089053546755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_44
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 924
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f7a8e4d8fce2420800000000000000
+      internalID: 2607249440109133624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_45
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 908
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf3cec414ee17e50800000000000000
+      internalID: 6805482476164366278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_46
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 920
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46960f5d5456dbb10800000000000000
+      internalID: 1998865160238819684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_47
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 904
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fffd24cd4c4305930800000000000000
+      internalID: 4129858878412349439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_48
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 912
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a133f5b803019e0800000000000000
+      internalID: -1652767688089200042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_49
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 892
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d2a11720a27f980800000000000000
+      internalID: -8505283181290050253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_50
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 884
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a157051b0c2de2a20800000000000000
+      internalID: 3039598523572057370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_51
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 884
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b924f9c208bff0b10800000000000000
+      internalID: 1950053691597734555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_52
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 688
+        width: 78
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c69c2a4542f96890800000000000000
+      internalID: -7464168527978785084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_53
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 688
+        width: 94
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f18d2134aa24880800000000000000
+      internalID: -8628146731032764560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_54
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 688
+        width: 102
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc9fb783391e2bb0800000000000000
+      internalID: -4958998430576829228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_55
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 692
+        width: 70
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a38c002b18f1c80800000000000000
+      internalID: -8349812582604326339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_56
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 792
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1a320187f826550800000000000000
+      internalID: 6152637786771136933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_57
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 684
+        width: 102
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e5b581e4cda5130800000000000000
+      internalID: 3556397083736628773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_58
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 688
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a97054c4bf58f1f0800000000000000
+      internalID: -1010952886352315998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_59
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 784
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5504abf1f85a2f6f0800000000000000
+      internalID: -652276961884094379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_60
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 784
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a0c3885158c23a0800000000000000
+      internalID: -6688825019025585505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_61
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 772
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f964e435775244930800000000000000
+      internalID: 4126464353007191711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_62
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 696
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e1e6a2f17e622f0800000000000000
+      internalID: -997856146374123918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_63
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 696
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f67800ce55f414770800000000000000
+      internalID: 8593236794449889135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_64
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 700
+        width: 74
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b61d033b547d89b0800000000000000
+      internalID: -5076273269929339213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_65
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 700
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e267fb788b098c0800000000000000
+      internalID: -3994489976305340919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_66
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 776
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1dc7ec27a917380800000000000000
+      internalID: -8975222764491451929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_67
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 764
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19459adb182191f80800000000000000
+      internalID: -8135450903426018159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_68
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 760
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0784f4355e701e070800000000000000
+      internalID: 8133791083534436464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_69
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 756
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26d330c2b4356d60800000000000000
+      internalID: 7882764665115366955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_70
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 752
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5d9a8033203a960800000000000000
+      internalID: 7611930213398205899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_71
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 736
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b1e756a74633c30800000000000000
+      internalID: 4337921342939470604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_72
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 748
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04277ce64ddf18b0800000000000000
+      internalID: -5179177749768100853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_73
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 732
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1034083ae80f99a20800000000000000
+      internalID: 3069749116448817921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_74
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 740
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5fc7b83d19013e00800000000000000
+      internalID: 1022608611500085087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_75
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 720
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca182630f7dd9c530800000000000000
+      internalID: 3875872491916394924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_76
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 712
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4bc1b9b0f7330160800000000000000
+      internalID: 6990492553656257354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_77
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 712
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209321e08ca7cfbe0800000000000000
+      internalID: -1442142781017278206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_78
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 516
+        width: 78
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0b0dd1b3abe0ec0800000000000000
+      internalID: -3598734289156394787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_79
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 516
+        width: 94
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef51a66dd1a3a4ad0800000000000000
+      internalID: -2717295525338933762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_80
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 516
+        width: 102
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e0541572512c330800000000000000
+      internalID: 3729566700027580041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_81
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 520
+        width: 70
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec2dccf102c78800800000000000000
+      internalID: 614673187951422696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_82
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 620
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f581cf5d13d16b800800000000000000
+      internalID: 627721297945434207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_83
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 512
+        width: 102
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b8359bc88ce6200800000000000000
+      internalID: 175297942244264756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_84
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 516
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f5bd989ef02d400800000000000000
+      internalID: 347357616975601559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_85
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 612
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4d2c38435659390800000000000000
+      internalID: -7812226702380968800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_86
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 612
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c63343e35446390800000000000000
+      internalID: -7826054118997005207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_87
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 600
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0262493f4de333c0800000000000000
+      internalID: -4380897087982509557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_88
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 524
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ac4688b841f5bd0800000000000000
+      internalID: -2639368267094504920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_89
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 528
+        width: 74
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4f37147f42cf220800000000000000
+      internalID: 2520930535794275532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_90
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 528
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdaa558c45e76f940800000000000000
+      internalID: 5329586111642970847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_91
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 604
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13c7650d8cd94de0800000000000000
+      internalID: -1348304115181567205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_92
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 524
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bddb4c788c377d0800000000000000
+      internalID: -2921771247786403064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_93
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 592
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949c6036025e20500800000000000000
+      internalID: 361102847406164297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_94
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 588
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943912e5a121804a0800000000000000
+      internalID: -6627026947217976503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_95
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 584
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6514bb0eeda60d850800000000000000
+      internalID: 6399732575979127126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_96
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 580
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457a2b0e97f922ee0800000000000000
+      internalID: -1287291197664876716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_97
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 564
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1441e10f6c297cd20800000000000000
+      internalID: 3298766635201860673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_98
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 576
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b132d5556b907390800000000000000
+      internalID: -7822581693208710729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_99
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 560
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d82f10c422cd8780800000000000000
+      internalID: -8679067443775199020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_100
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 568
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4834123d2bebd8b20800000000000000
+      internalID: 3138374190602732420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_101
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 548
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc112b705de6da20800000000000000
+      internalID: 3086915524527987891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_102
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 540
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39502071188287440800000000000000
+      internalID: 4933737926686279059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_103
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 540
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5097e08949f3de530800000000000000
+      internalID: 3885831960929401093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_104
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 344
+        width: 78
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8336c130ef75ea240800000000000000
+      internalID: 4804874600936399672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_105
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 344
+        width: 94
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38d5d4e95e765870800000000000000
+      internalID: 8671257057104877629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_106
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 344
+        width: 102
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c477cf4bcd916c910800000000000000
+      internalID: 1857200332056852300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_107
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 348
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a765d2f336bc550800000000000000
+      internalID: 6182144036490869251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_108
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 348
+        width: 70
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9220faf91011cb7b0800000000000000
+      internalID: -5207268370475449815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_109
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 448
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f14086e51e7ae30800000000000000
+      internalID: 4514824947050487595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_110
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 344
+        width: 102
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d904db29722861e00800000000000000
+      internalID: 1015141872495837341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_111
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 344
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfacf2ab6b0059aa0800000000000000
+      internalID: -6155012530924172548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_112
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 440
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c7173c5a4078be0800000000000000
+      internalID: -1475205242945438669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_113
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 440
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0242005beb834ef40800000000000000
+      internalID: 5756788615417963552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_114
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 428
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1fd889d28c7a1be0800000000000000
+      internalID: -1505754223964791010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_115
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 352
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294fd92b0af83b780800000000000000
+      internalID: -8668426937403837294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_116
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 356
+        width: 74
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ebf989fdb49c2da0800000000000000
+      internalID: -5968231862516450336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_117
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 356
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5a64db2633c8370800000000000000
+      internalID: 8326086310276539814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_118
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 432
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263320bbbcc998340800000000000000
+      internalID: 4866593271180309346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_119
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 420
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3927fd07b8ae39870800000000000000
+      internalID: 8688545990742864531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_120
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 416
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d942a3aaf5911790800000000000000
+      internalID: -7561097395658667559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_121
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 412
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099a1b67dd2ec9560800000000000000
+      internalID: 7321976535004588432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_122
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 408
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2471ed9cb56b910800000000000000
+      internalID: 1852769219282158259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_123
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 392
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a8800b6f7c76d20800000000000000
+      internalID: 3271803516637186579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_124
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 404
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c210e1a470f3ddcd0800000000000000
+      internalID: -2531798114971549396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_125
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 388
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0a2ea5e18332540800000000000000
+      internalID: 4981887315826876595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_126
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 396
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf231fe5c4216fb0800000000000000
+      internalID: -4656400107186212900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_127
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 376
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3051beb38bdf88f00800000000000000
+      internalID: 1119423475122640131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_128
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 368
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308b62337358eb3b0800000000000000
+      internalID: -5494808023217555453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_129
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 368
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4218cccfdcbfdace0800000000000000
+      internalID: -1392179847659486940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_130
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 172
+        width: 98
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b937264b4ab39530800000000000000
+      internalID: 3860634138048936370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_131
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 180
+        width: 78
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cbe0782194da3230800000000000000
+      internalID: 3619438970459450313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_132
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 184
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01cd38d3e561449c0800000000000000
+      internalID: -3944002779654923248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhan_133
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 184
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7915e036f78e86310800000000000000
+      internalID: 1398623318118912407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Nhan_0: 8585741685442168571
+      Nhan_1: 106025226846395580
+      Nhan_10: -6206103100576124457
+      Nhan_100: 3138374190602732420
+      Nhan_101: 3086915524527987891
+      Nhan_102: 4933737926686279059
+      Nhan_103: 3885831960929401093
+      Nhan_104: 4804874600936399672
+      Nhan_105: 8671257057104877629
+      Nhan_106: 1857200332056852300
+      Nhan_107: 6182144036490869251
+      Nhan_108: -5207268370475449815
+      Nhan_109: 4514824947050487595
+      Nhan_11: -1631442669923563757
+      Nhan_110: 1015141872495837341
+      Nhan_111: -6155012530924172548
+      Nhan_112: -1475205242945438669
+      Nhan_113: 5756788615417963552
+      Nhan_114: -1505754223964791010
+      Nhan_115: -8668426937403837294
+      Nhan_116: -5968231862516450336
+      Nhan_117: 8326086310276539814
+      Nhan_118: 4866593271180309346
+      Nhan_119: 8688545990742864531
+      Nhan_12: -996802140053887133
+      Nhan_120: -7561097395658667559
+      Nhan_121: 7321976535004588432
+      Nhan_122: 1852769219282158259
+      Nhan_123: 3271803516637186579
+      Nhan_124: -2531798114971549396
+      Nhan_125: 4981887315826876595
+      Nhan_126: -4656400107186212900
+      Nhan_127: 1119423475122640131
+      Nhan_128: -5494808023217555453
+      Nhan_129: -1392179847659486940
+      Nhan_13: -906480936991035858
+      Nhan_130: 3860634138048936370
+      Nhan_131: 3619438970459450313
+      Nhan_132: -3944002779654923248
+      Nhan_133: 1398623318118912407
+      Nhan_14: -5463904864324363821
+      Nhan_15: -6971717545323864273
+      Nhan_16: -4109430125601098916
+      Nhan_17: 3075433904527691647
+      Nhan_18: 6278175978794527952
+      Nhan_19: -2945200637985577157
+      Nhan_2: -4099997733491564732
+      Nhan_20: 1004135952426040191
+      Nhan_21: -7542844032370780565
+      Nhan_22: -1702090618338798510
+      Nhan_23: -2873630614060169900
+      Nhan_24: 4405052983428275106
+      Nhan_25: 5569407729813932571
+      Nhan_26: -6577471308837080733
+      Nhan_27: 2320536037044397625
+      Nhan_28: 4999172883257109325
+      Nhan_29: 4371502978297524085
+      Nhan_3: -8940085707990588451
+      Nhan_30: -4287978913896636728
+      Nhan_31: 1567855302501965564
+      Nhan_32: -6405342329333240158
+      Nhan_33: 3816584174752942806
+      Nhan_34: 3795007749458187213
+      Nhan_35: -1655823488905540624
+      Nhan_36: -3735135087729228119
+      Nhan_37: -974165217681980764
+      Nhan_38: -2410616797669787009
+      Nhan_39: -7928507167003419712
+      Nhan_4: -254691759673044781
+      Nhan_40: -7580072659356758640
+      Nhan_41: 2229307378266622919
+      Nhan_42: -7328543826115248616
+      Nhan_43: 6647149089053546755
+      Nhan_44: 2607249440109133624
+      Nhan_45: 6805482476164366278
+      Nhan_46: 1998865160238819684
+      Nhan_47: 4129858878412349439
+      Nhan_48: -1652767688089200042
+      Nhan_49: -8505283181290050253
+      Nhan_5: -3898448618771225840
+      Nhan_50: 3039598523572057370
+      Nhan_51: 1950053691597734555
+      Nhan_52: -7464168527978785084
+      Nhan_53: -8628146731032764560
+      Nhan_54: -4958998430576829228
+      Nhan_55: -8349812582604326339
+      Nhan_56: 6152637786771136933
+      Nhan_57: 3556397083736628773
+      Nhan_58: -1010952886352315998
+      Nhan_59: -652276961884094379
+      Nhan_6: 1894929057430390731
+      Nhan_60: -6688825019025585505
+      Nhan_61: 4126464353007191711
+      Nhan_62: -997856146374123918
+      Nhan_63: 8593236794449889135
+      Nhan_64: -5076273269929339213
+      Nhan_65: -3994489976305340919
+      Nhan_66: -8975222764491451929
+      Nhan_67: -8135450903426018159
+      Nhan_68: 8133791083534436464
+      Nhan_69: 7882764665115366955
+      Nhan_7: -5654963576342573137
+      Nhan_70: 7611930213398205899
+      Nhan_71: 4337921342939470604
+      Nhan_72: -5179177749768100853
+      Nhan_73: 3069749116448817921
+      Nhan_74: 1022608611500085087
+      Nhan_75: 3875872491916394924
+      Nhan_76: 6990492553656257354
+      Nhan_77: -1442142781017278206
+      Nhan_78: -3598734289156394787
+      Nhan_79: -2717295525338933762
+      Nhan_8: 7955803653481085201
+      Nhan_80: 3729566700027580041
+      Nhan_81: 614673187951422696
+      Nhan_82: 627721297945434207
+      Nhan_83: 175297942244264756
+      Nhan_84: 347357616975601559
+      Nhan_85: -7812226702380968800
+      Nhan_86: -7826054118997005207
+      Nhan_87: -4380897087982509557
+      Nhan_88: -2639368267094504920
+      Nhan_89: 2520930535794275532
+      Nhan_9: 1568053370838401185
+      Nhan_90: 5329586111642970847
+      Nhan_91: -1348304115181567205
+      Nhan_92: -2921771247786403064
+      Nhan_93: 361102847406164297
+      Nhan_94: -6627026947217976503
+      Nhan_95: 6399732575979127126
+      Nhan_96: -1287291197664876716
+      Nhan_97: 3298766635201860673
+      Nhan_98: -7822581693208710729
+      Nhan_99: -8679067443775199020
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

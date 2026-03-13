@@ -20,4 +20,14 @@ public class ProjectileBlizzardVortex : MonoBehaviour
     {
         transform.position += (Vector3)(direction * speed * Time.deltaTime);
     }
+
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.CompareTag("Player"))
+        {
+            PlayerHealth ph = other.GetComponent<PlayerHealth>();
+            if (ph != null) ph.TakeDamage(30);   // đòn mạnh
+            Destroy(gameObject);
+        }
+    }
 }

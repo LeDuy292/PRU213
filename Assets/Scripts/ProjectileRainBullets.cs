@@ -30,4 +30,14 @@ public class ProjectileRainBullets : MonoBehaviour
         // Di chuyển theo hướng (thường là Vector2.down)
         transform.position += (Vector3)(direction * speed * Time.deltaTime);
     }
+
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.CompareTag("Player"))
+        {
+            PlayerHealth ph = other.GetComponent<PlayerHealth>();
+            if (ph != null) ph.TakeDamage(10);
+            Destroy(gameObject);
+        }
+    }
 }

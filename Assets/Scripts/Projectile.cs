@@ -24,10 +24,19 @@ public class Projectile : MonoBehaviour
     }
     private void OnTriggerEnter2D(Collider2D other)
     {
+        Debug.Log($"[Projectile] Trigger với: Tag={other.tag}, Name={other.gameObject.name}");
         if (other.CompareTag("Player"))
         {
+            Debug.Log("[Projectile] → Trúng PLAYER! Gây 15 damage.");
             PlayerHealth ph = other.GetComponent<PlayerHealth>();
-            if (ph != null) ph.TakeDamage(15);   // chỉnh số damage tùy ý
+            if (ph != null)
+            {
+                ph.TakeDamage(50);
+            }
+            else
+            {
+                Debug.LogError("[Projectile] Player không có PlayerHealth!");
+            }
             Destroy(gameObject);
         }
     }

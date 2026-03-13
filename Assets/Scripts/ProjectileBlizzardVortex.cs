@@ -23,10 +23,12 @@ public class ProjectileBlizzardVortex : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
+        Debug.Log($"[BlizzardVortex] Trigger với: Tag={other.tag}, Name={other.gameObject.name}");
         if (other.CompareTag("Player"))
         {
+            Debug.Log("[BlizzardVortex] → Trúng PLAYER! Gây 30 damage.");
             PlayerHealth ph = other.GetComponent<PlayerHealth>();
-            if (ph != null) ph.TakeDamage(30);   // đòn mạnh
+            if (ph != null) ph.TakeDamage(100);
             Destroy(gameObject);
         }
     }

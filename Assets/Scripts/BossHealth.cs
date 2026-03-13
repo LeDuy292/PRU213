@@ -3,34 +3,38 @@
 public class BossHealth : MonoBehaviour
 {
     [Header("Boss Health")]
-    [SerializeField] private int maxHP = 3000;           // HP boss lớn (có thể chỉnh)
+    [SerializeField] private int maxHP = 3000;
     private int currentHP;
 
-    [Header("UI (tùy chọn)")]
-    [SerializeField] private UnityEngine.UI.Image healthBarFill; // Kéo HealthBar của boss vào đây
+    [Header("Optional - Effects")]
+    [SerializeField] private float destroyDelayAfterDeath = 3f;
 
     private Boss_BorealController bossController;
 
-    private void Start()
+    private void Awake()
     {
         currentHP = maxHP;
+    }
+
+    private void Start()
+    {
         bossController = GetComponent<Boss_BorealController>();
 
-        if (healthBarFill != null)
-            healthBarFill.fillAmount = 1f;
+        if (bossController == null)
+        {
+            Debug.LogError("[BossHealth] Không tìm thấy Boss_BorealController trên cùng GameObject!");
+        }
 
-        Debug.Log("BossHealth khởi tạo: " + maxHP + " HP");
+        Debug.Log($"Boss khởi tạo với {maxHP} HP");
     }
 
     public void TakeDamage(int damage)
     {
+        if (currentHP <= 0) return;
+
         Debug.Log($"Boss nhận damage: {damage}");
 
-        currentHP -= damage;
-
-        // Cập nhật health bar
-        if (healthBarFill != null)
-            healthBarFill.fillAmount = (float)currentHP / maxHP;
+        currentHP = Mathf.Max(0, currentHP - damage);
 
         if (currentHP <= 0)
         {
@@ -44,15 +48,16 @@ public class BossHealth : MonoBehaviour
 
         if (bossController != null)
         {
-            bossController.Die();           // Dừng mọi coroutine, state, movement
-            bossController.TriggerAnimator("Die"); // (nếu bạn có animation Die)
+            bossController.Die();
+            bossController.TriggerAnimator("Die");
         }
 
-        // TODO: Sau này có thể thêm: drop item, mở cổng teleport, win screen...
-        // Destroy(gameObject, 2f); // hoặc để animation chết chạy xong mới destroy
+        enabled = false;
+        // Destroy(gameObject, destroyDelayAfterDeath); // mở ra nếu muốn tự hủy
     }
 
-    // Getter cho các script khác nếu cần
-    public int CurrentHP => currentHP;
-    public int MaxHP => maxHP;
+    // Getter cho BossHealthBarUI
+    public int GetCurrentHealth() => currentHP;
+    public int GetMaxHealth() => maxHP;
+    public bool IsDead() => currentHP <= 0;
 }

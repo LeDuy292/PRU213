@@ -51,7 +51,7 @@ public class BossMeleeAttack : MonoBehaviour
             PlayerHealth ph = collision.gameObject.GetComponent<PlayerHealth>();
             if (ph != null && Time.time >= lastMeleeTime + 0.8f) // tránh spam damage
             {
-                ph.TakeDamage(25);           // chỉnh damage melee
+                ph.TakeDamage(50);           // chỉnh damage melee
                 lastMeleeTime = Time.time;
             }
         }

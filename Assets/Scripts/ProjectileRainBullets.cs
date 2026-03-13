@@ -33,10 +33,12 @@ public class ProjectileRainBullets : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
+        Debug.Log($"[RainBullet] Trigger với: Tag={other.tag}, Name={other.gameObject.name}");
         if (other.CompareTag("Player"))
         {
+            Debug.Log("[RainBullet] → Trúng PLAYER! Gây 10 damage.");
             PlayerHealth ph = other.GetComponent<PlayerHealth>();
-            if (ph != null) ph.TakeDamage(10);
+            if (ph != null) ph.TakeDamage(35);
             Destroy(gameObject);
         }
     }

@@ -5,6 +5,8 @@ public class InventorySlot : MonoBehaviour
 {
     public Image icon;
     public Button button;
+
+    [Header("Debug")]
     public Item debugItem;
 
     private Item currentItem;
@@ -24,36 +26,96 @@ public class InventorySlot : MonoBehaviour
     public void AddItem(Item item)
     {
         currentItem = item;
-        icon.sprite = item.icon;
-        icon.enabled = true;
+
+        if (icon != null)
+        {
+            icon.sprite = item.icon;
+            icon.enabled = true;
+        }
     }
 
     void OnClick()
     {
-        if (currentItem == null)
-            return;
+        if (currentItem == null) return;
+
+        if (ItemActionUI.Instance != null)
+        {
+            ItemActionUI.Instance.Show(this);
+        }
+    }
+
+    // DÙNG ITEM (Potion)
+    public void UseItem()
+    {
+        if (currentItem == null) return;
 
         if (currentItem.itemType == ItemType.Consumable)
         {
             currentItem.Use();
             RemoveItem();
         }
-        else
-        {
-            bool equipped = EquipmentManager.Instance.Equip(currentItem);
+    }
 
-            if (equipped)
-            {
-                RemoveItem();
-            }
+    // EQUIP ITEM
+    public void EquipItem()
+    {
+        if (currentItem == null) return;
+
+        if (currentItem.itemType == ItemType.Consumable)
+        {
+            Debug.Log("Consumable không thể equip!");
+            return;
         }
+
+        if (EquipmentManager.Instance == null)
+        {
+            Debug.LogError("EquipmentManager not found in scene!");
+            return;
+        }
+
+        bool equipped = EquipmentManager.Instance.Equip(currentItem);
+
+        if (equipped)
+        {
+            RemoveItem();
+        }
+    }
+
+    // DROP ITEM
+    public void DropItem()
+    {
+        if (currentItem == null) return;
+
+        if (InventoryManager.Instance == null)
+        {
+            Debug.LogError("InventoryManager not found!");
+            return;
+        }
+
+        GameObject player = GameObject.FindGameObjectWithTag("Player");
+
+        if (player == null)
+        {
+            Debug.LogError("Player not found!");
+            return;
+        }
+
+        Vector3 dropPos = player.transform.position;
+
+        InventoryManager.Instance.DropItem(currentItem, dropPos);
+
+        RemoveItem();
     }
 
     public void RemoveItem()
     {
         currentItem = null;
-        icon.sprite = null;
-        icon.enabled = false;
+
+        if (icon != null)
+        {
+            icon.sprite = null;
+            icon.enabled = false;
+        }
     }
 
     public bool IsEmpty()
@@ -61,18 +123,8 @@ public class InventorySlot : MonoBehaviour
         return currentItem == null;
     }
 
-    public void UseItem()
+    public Item GetItem()
     {
-        if (currentItem == null) return;
-
-        if (currentItem.itemType != ItemType.Consumable)
-        {
-            bool equipped = EquipmentManager.Instance.Equip(currentItem);
-
-            if (equipped)
-            {
-                RemoveItem(); // chỉ xóa khi equip thành công
-            }
-        }
+        return currentItem;
     }
 }

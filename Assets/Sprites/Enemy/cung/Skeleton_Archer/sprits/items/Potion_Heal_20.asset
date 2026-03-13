@@ -15,6 +15,9 @@ MonoBehaviour:
   itemName: Health Potion
   icon: {fileID: 8956044983153187035, guid: 3d18b4045b741074d9d2775e913e6e3e, type: 3}
   itemType: 0
-  isEquipment: 0
-  bonusHealth: 0
+  bonusHealth: 20
+  bonusMoveSpeed: 0
+  bonusNormalDamagePercent: 0
+  bonusSkillDamagePercent: 0
+  worldPrefab: {fileID: 0}
   healAmount: 20

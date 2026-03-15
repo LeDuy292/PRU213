@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using System.Collections.Generic;
 
 /// <summary>
 /// Controller cho IntroductionScene - Quản lý các nút bấm và chuyển cảnh
@@ -10,24 +11,61 @@ public class IntroductionController : MonoBehaviour
     public string gameSceneName = "GameScene";
 
     // ---------------------------------------------------------
+    // KẾT NỐI NÚT CONTINUE MỚI
+    // ---------------------------------------------------------
+    [Header("UI Buttons")]
+    public GameObject continueButton;             // Kéo nút Continue bồ vừa tạo vào đây
+
+    // ---------------------------------------------------------
     // MUSIC TOGGLE - References cho 2 buttons và AudioSource
     // ---------------------------------------------------------
     [Header("Music Toggle Settings")]
-    public AudioSource backgroundMusic;           // Kéo AudioSource của nhạc nền vào đây
-    public GameObject soundButtonOn;              // Kéo Sound Button On vào đây
-    public GameObject soundButtonOff;             // Kéo Sound Button Off vào đây
-    
-    private bool isMusicOn = true;                // Trạng thái nhạc (mặc định bật)
-    private const string MUSIC_STATE_KEY = "MusicEnabled"; // Key lưu trong PlayerPrefs
+    public AudioSource backgroundMusic;
+    public GameObject soundButtonOn;
+    public GameObject soundButtonOff;
+
+    private bool isMusicOn = true;
+    private const string MUSIC_STATE_KEY = "MusicEnabled";
+
+    void Start()
+    {
+        Debug.Log("IntroductionController đã được khởi tạo!");
+
+        if (!string.IsNullOrEmpty(gameSceneName))
+        {
+            Debug.Log($"Scene target: {gameSceneName}");
+        }
+
+        // 1. NGAY KHI MỞ GAME: Kiểm tra file save để bật/tắt nút Continue
+        CheckSaveFile();
+
+        // 2. Load và áp dụng trạng thái nhạc đã lưu
+        LoadMusicState();
+        ApplyMusicState();
+    }
 
     // ---------------------------------------------------------
-    // Hàm được gọi khi người chơi bấm nút "START"
+    // HÀM KIỂM TRA FILE SAVE (ẨN/HIỆN NÚT CONTINUE)
+    // ---------------------------------------------------------
+    private void CheckSaveFile()
+    {
+        string savePath = System.IO.Path.Combine(Application.persistentDataPath, "savegame.json");
+
+        if (continueButton != null)
+        {
+            // Nếu có file save -> Bật nút, không có -> Tắt nút
+            bool hasSave = System.IO.File.Exists(savePath);
+            continueButton.SetActive(hasSave);
+            Debug.Log($"Trạng thái nút Continue: {(hasSave ? "BẬT" : "TẮT")}");
+        }
+    }
+
+    // ---------------------------------------------------------
+    // KHI BẤM NÚT START (CHƠI MỚI TỪ ĐẦU)
     // ---------------------------------------------------------
     public void OnStartButtonClicked()
     {
         Debug.Log("Nút START đã được bấm! Đang chuyển sang video trailer...");
-
-        // Chuyển sang VideoTrailerScene thay vì GameScene
         string videoSceneName = "VideoTrailerScene";
 
         if (Application.CanStreamedLevelBeLoaded(videoSceneName))
@@ -37,70 +75,97 @@ public class IntroductionController : MonoBehaviour
         else
         {
             Debug.LogWarning($"Không tìm thấy scene: {videoSceneName}. Chuyển thẳng sang GameScene...");
-            // Fallback: Nếu không có video scene, chuyển thẳng sang game
             SceneManager.LoadScene(gameSceneName);
         }
+    }
+
+    // ---------------------------------------------------------
+    // KHI BẤM NÚT CONTINUE (CHƠI TIẾP FILE CŨ)
+    // ---------------------------------------------------------
+    public void OnContinueButtonClicked()
+    {
+        Debug.Log("Nút CONTINUE đã được bấm! Đang load dữ liệu và vào game...");
+
+        // 1. Đọc lại dữ liệu
+        LoadGameData();
+
+        // 2. Chuyển thẳng vào GameScene (bỏ qua video trailer)
+        SceneManager.LoadScene(gameSceneName);
     }
 
     // ---------------------------------------------------------
     // SETTINGS PANEL
     // ---------------------------------------------------------
     [Header("Settings Panel")]
-    public GameObject settingsPanel;              // Kéo Settings Panel vào đây
+    public GameObject settingsPanel;
 
-    // ---------------------------------------------------------
-    // Hàm được gọi khi người chơi bấm nút "SETTINGS"
-    // ---------------------------------------------------------
     public void OnSettingsButtonClicked()
     {
-        Debug.Log("Nút SETTINGS đã được bấm!");
-        
         if (settingsPanel != null)
         {
-            // Bật/tắt panel Settings (nếu đang bật thì tắt, đang tắt thì bật)
             settingsPanel.SetActive(!settingsPanel.activeSelf);
-        }
-        else
-        {
-            Debug.LogWarning("Chưa gán Settings Panel trong Unity Inspector!");
         }
     }
 
-    // Đối tượng dữ liệu mẫu để lưu (bạn có thể tuỳ chỉnh theo dữ liệu thực tế của game)
+    // ---------------------------------------------------------
+    // CẤU TRÚC LƯU GAME PHÂN TẦNG
+    // ---------------------------------------------------------
     [System.Serializable]
     public class GameData
     {
-        public int level = 1;
-        public float health = 100f;
+        public PlayerStats playerStats = new PlayerStats();
+        public GameProgress progress = new GameProgress();
+        public GameSettings settings = new GameSettings();
+        public float[] playerPosition = new float[3];
+    }
+
+    [System.Serializable]
+    public class PlayerStats
+    {
         public string playerName = "Hero";
-        // Thêm các biến khác bạn muốn lưu ở đây
+        public int level = 1;
+        public float maxHealth = 100f;
+        public float currentHealth = 100f;
+        public int gold = 0;
+        public List<string> inventoryItemIDs = new List<string>();
+    }
+
+    [System.Serializable]
+    public class GameProgress
+    {
+        public int highestLevelReached = 1;
+        public List<string> defeatedBosses = new List<string>();
+        public bool hasUnlockedDoubleJump = false;
+        public bool hasUnlockedDash = false;
+    }
+
+    [System.Serializable]
+    public class GameSettings
+    {
+        public bool isMusicOn = true;
+        public float masterVolume = 1f;
     }
 
     // ---------------------------------------------------------
-    // Hàm được gọi khi người chơi bấm nút "SAVE GAME"
+    // KHI BẤM NÚT SAVE GAME 
     // ---------------------------------------------------------
     public void OnSaveGameButtonClicked()
     {
         Debug.Log("Nút SAVE GAME đang thực thi...");
-        
-        // 1. Tạo và gán dữ liệu cần lưu
+
         GameData dataToSave = new GameData();
-        // Ví dụ thực tế: dataToSave.level = GameManager.Instance.currentLevel;
-
-        // 2. Chuyển đổi đối tượng GameData thành chuỗi JSON (để dễ đọc, true = pretty print)
         string json = JsonUtility.ToJson(dataToSave, true);
-
-        // 3. Tạo đường dẫn an toàn bằng persistentDataPath (hoạt động tốt trên Windows, Android, iOS...)
         string savePath = System.IO.Path.Combine(Application.persistentDataPath, "savegame.json");
-
-        // 4. Ghi chuỗi JSON đó vào file
         System.IO.File.WriteAllText(savePath, json);
 
         Debug.Log("<color=green>Game đã được lưu thành công tại:</color> " + savePath);
+
+        // QUAN TRỌNG: Gọi lại hàm này để nút Continue mọc ra ngay lập tức
+        CheckSaveFile();
     }
 
     // ---------------------------------------------------------
-    // Bổ sung: Hàm LOAD GAME để bạn có thể gọi khi cần load lại dữ liệu
+    // HÀM LOAD GAME
     // ---------------------------------------------------------
     public void LoadGameData()
     {
@@ -108,16 +173,10 @@ public class IntroductionController : MonoBehaviour
 
         if (System.IO.File.Exists(savePath))
         {
-            // Nếu có file save, đọc nội dung file
             string json = System.IO.File.ReadAllText(savePath);
-
-            // Chuyển đổi JSON text ngược lại thành object GameData
             GameData loadedData = JsonUtility.FromJson<GameData>(json);
-            
-            Debug.Log("<color=cyan>Đã load game thành công!</color> Người chơi: " + loadedData.playerName + ", Level: " + loadedData.level);
-            
-            // TODO: Áp dụng loadedData vào game của bạn
-            // Ví dụ: PlayerController.Instance.health = loadedData.health;
+
+            Debug.Log("<color=cyan>Đã load game thành công!</color> Người chơi: " + loadedData.playerStats.playerName + ", Level: " + loadedData.playerStats.level);
         }
         else
         {
@@ -126,111 +185,47 @@ public class IntroductionController : MonoBehaviour
     }
 
     // ---------------------------------------------------------
-    // Hàm được gọi khi người chơi bấm nút "QUIT" (nếu có)
+    // KHI BẤM NÚT QUIT
     // ---------------------------------------------------------
     public void OnQuitButtonClicked()
     {
         Debug.Log("Nút QUIT đã được bấm! Đang thoát game...");
-        
-        #if UNITY_EDITOR
-        // Trong Unity Editor, dừng chế độ Play
+#if UNITY_EDITOR
         UnityEditor.EditorApplication.isPlaying = false;
-        #else
-        // Trong bản build, thoát ứng dụng
+#else
         Application.Quit();
-        #endif
+#endif
     }
 
     // ---------------------------------------------------------
-    // Optional: Hàm để test xem script có hoạt động không
-    // ---------------------------------------------------------
-    void Start()
-    {
-        Debug.Log("IntroductionController đã được khởi tạo!");
-        
-        // Kiểm tra xem scene target có tồn tại không
-        if (!string.IsNullOrEmpty(gameSceneName))
-        {
-            Debug.Log($"Scene target: {gameSceneName}");
-        }
-
-        // Load và áp dụng trạng thái nhạc đã lưu
-        LoadMusicState();
-        ApplyMusicState();
-    }
-
-    // ---------------------------------------------------------
-    // Hàm được gọi khi người chơi bấm nút TOGGLE MUSIC
+    // CÁC HÀM QUẢN LÝ ÂM THANH
     // ---------------------------------------------------------
     public void OnMusicToggleClicked()
     {
-        // Đảo trạng thái nhạc
         isMusicOn = !isMusicOn;
-        
-        Debug.Log($"Music toggled: {(isMusicOn ? "ON" : "OFF")}");
-        
-        // Áp dụng trạng thái mới
         ApplyMusicState();
-        
-        // Lưu trạng thái vào PlayerPrefs
         SaveMusicState();
     }
 
-    // ---------------------------------------------------------
-    // Áp dụng trạng thái nhạc (bật/tắt nhạc và swap buttons)
-    // ---------------------------------------------------------
     private void ApplyMusicState()
     {
-        // Kiểm tra references
-        if (backgroundMusic == null)
-        {
-            Debug.LogWarning("Background Music AudioSource chưa được gán!");
-            return;
-        }
+        if (backgroundMusic == null || soundButtonOn == null || soundButtonOff == null) return;
 
-        if (soundButtonOn == null || soundButtonOff == null)
-        {
-            Debug.LogWarning("Sound Buttons chưa được gán!");
-            return;
-        }
+        if (isMusicOn) { if (!backgroundMusic.isPlaying) backgroundMusic.Play(); }
+        else { if (backgroundMusic.isPlaying) backgroundMusic.Pause(); }
 
-        // Bật/tắt nhạc
-        if (isMusicOn)
-        {
-            if (!backgroundMusic.isPlaying)
-                backgroundMusic.Play();
-        }
-        else
-        {
-            if (backgroundMusic.isPlaying)
-                backgroundMusic.Pause();
-        }
-
-        // Swap buttons: Hiện button phù hợp
-        soundButtonOn.SetActive(isMusicOn);      // Hiện ON khi nhạc BẬT
-        soundButtonOff.SetActive(!isMusicOn);    // Hiện OFF khi nhạc TẮT
-
-        Debug.Log($"Music state applied: Playing={backgroundMusic.isPlaying}, ButtonOn={isMusicOn}");
+        soundButtonOn.SetActive(isMusicOn);
+        soundButtonOff.SetActive(!isMusicOn);
     }
 
-    // ---------------------------------------------------------
-    // Lưu trạng thái nhạc vào PlayerPrefs
-    // ---------------------------------------------------------
     private void SaveMusicState()
     {
         PlayerPrefs.SetInt(MUSIC_STATE_KEY, isMusicOn ? 1 : 0);
         PlayerPrefs.Save();
-        Debug.Log($"Music state saved: {isMusicOn}");
     }
 
-    // ---------------------------------------------------------
-    // Load trạng thái nhạc từ PlayerPrefs
-    // ---------------------------------------------------------
     private void LoadMusicState()
     {
-        // Mặc định là bật (1), lần đầu sẽ lấy giá trị này
         isMusicOn = PlayerPrefs.GetInt(MUSIC_STATE_KEY, 1) == 1;
-        Debug.Log($"Music state loaded: {isMusicOn}");
     }
-
 }

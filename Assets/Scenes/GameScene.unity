@@ -5885,8 +5885,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 25.521677, y: 3.909095, z: 1}
-  m_Center: {x: -0.013548503, y: -5.520798, z: 0}
+  m_Size: {x: 25.521677, y: 4.6753454, z: 1}
+  m_Center: {x: -0.013548503, y: -5.1376815, z: 0}
 --- !u!1 &198051714
 GameObject:
   m_ObjectHideFlags: 0
@@ -6212,7 +6212,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: -32768
   m_MaskInteraction: 0
-  m_Sprite: {fileID: -3817889102826187509, guid: b32728e904229044699f1eb74795ce72, type: 3}
+  m_Sprite: {fileID: -7501053119281618891, guid: 5d108af63ed1cc6468b5673d854f2a10, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0

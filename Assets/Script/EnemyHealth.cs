@@ -7,7 +7,9 @@ public class EnemyHealth : MonoBehaviour
 
     [SerializeField] private int expReward = 20;
 
+
     private EnemyManager enemyManager;
+
 
     void Start()
     {
@@ -45,6 +47,8 @@ public class EnemyHealth : MonoBehaviour
         {
             loot.DropLoot();
         }
+
+
         
         Destroy(gameObject);
     }

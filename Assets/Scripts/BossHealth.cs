@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 
 public class BossHealth : MonoBehaviour
 {
@@ -7,9 +7,13 @@ public class BossHealth : MonoBehaviour
     private int currentHP;
 
     [Header("Optional - Effects")]
-    [SerializeField] private float destroyDelayAfterDeath = 3f;
+    [SerializeField] private GameObject portalPrefab;
+    [SerializeField] private GameObject scenePortal; // Đối tượng portal có sẵn trong scene
 
     private Boss_BorealController bossController;
+
+
+
 
     private void Awake()
     {
@@ -18,14 +22,22 @@ public class BossHealth : MonoBehaviour
 
     private void Start()
     {
-        bossController = GetComponent<Boss_BorealController>();
+        // Tìm ở chính nó hoặc cha (đề phòng collider ở đối tượng con)
+        bossController = GetComponentInParent<Boss_BorealController>();
 
         if (bossController == null)
         {
-            Debug.LogError("[BossHealth] Không tìm thấy Boss_BorealController trên cùng GameObject!");
+            Debug.LogError("[BossHealth] Không tìm thấy Boss_BorealController trên GameObject này hoặc cha!");
         }
 
+
         Debug.Log($"Boss khởi tạo với {maxHP} HP");
+
+        // Ẩn portal nếu được gán sẵn trong scene
+        if (scenePortal != null)
+        {
+            scenePortal.SetActive(false);
+        }
     }
 
     public void TakeDamage(int damage)
@@ -52,9 +64,21 @@ public class BossHealth : MonoBehaviour
             bossController.TriggerAnimator("Die");
         }
 
+        if (portalPrefab != null)
+        {
+            Instantiate(portalPrefab, transform.position, Quaternion.identity);
+        }
+
+        // Hiện portal nếu có sẵn trong scene
+        if (scenePortal != null)
+        {
+            scenePortal.SetActive(true);
+        }
+
         enabled = false;
-        // Destroy(gameObject, destroyDelayAfterDeath); // mở ra nếu muốn tự hủy
+
     }
+
 
     // Getter cho BossHealthBarUI
     public int GetCurrentHealth() => currentHP;

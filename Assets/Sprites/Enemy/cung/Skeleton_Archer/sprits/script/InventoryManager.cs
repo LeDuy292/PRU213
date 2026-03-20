@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 
 public class InventoryManager : MonoBehaviour
 {
@@ -8,7 +8,19 @@ public class InventoryManager : MonoBehaviour
 
     void Awake()
     {
-        Instance = this;
+        if (Instance == null)
+        {
+            Instance = this;
+            // Chỉ gọi DontDestroyOnLoad nếu object này là root (không có cha)
+            if (transform.parent == null)
+            {
+                DontDestroyOnLoad(gameObject);
+            }
+        }
+        else
+        {
+            Destroy(gameObject);
+        }
     }
 
     public bool AddItem(Item item)

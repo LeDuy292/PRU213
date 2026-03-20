@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 
 [RequireComponent(typeof(Rigidbody2D))]
 [RequireComponent(typeof(Animator))]
@@ -130,8 +130,21 @@ public class Boss_BorealController : MonoBehaviour
 
     public void TriggerAnimator(string triggerName)
     {
-        animator.SetTrigger(triggerName);
+        if (animator == null) return;
+
+        // Kiểm tra xem parameter có tồn tại trong Animator không để tránh lỗi Console
+        foreach (AnimatorControllerParameter param in animator.parameters)
+        {
+            if (param.name == triggerName)
+            {
+                animator.SetTrigger(triggerName);
+                return;
+            }
+        }
+        
+        Debug.LogWarning($"[BossController] Animator thiếu parameter Trigger: {triggerName}");
     }
+
 
     public void SetAnimatorBool(string name, bool value)
     {

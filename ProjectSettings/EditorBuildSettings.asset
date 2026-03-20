@@ -14,6 +14,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/GameScene.unity
     guid: 812358e99cba78a418bb4138290771ee
+  - enabled: 1
+    path: Assets/Scenes/Map_IceCave.unity
+    guid: b7137e298edd7c14b8e2acd2fbde1c31
+  - enabled: 1
+    path: Assets/Scenes/Map_DeepCave.unity
+    guid: bb38c8d2b54ded446a39a5d1e5e6c31e
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

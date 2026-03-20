@@ -1,6 +1,7 @@
 using System;
 using UnityEngine;
 using System.Collections;
+using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour
 {
@@ -64,17 +65,117 @@ public class PlayerController : MonoBehaviour
     private Animator animator;
     private Rigidbody2D rb;
 
+    public static PlayerController instance;
+
     // ==================== UNITY ====================
 
     private void Awake()
     {
+        if (instance == null)
+        {
+            instance = this;
+            DontDestroyOnLoad(gameObject);
+        }
+        else
+        {
+            Destroy(gameObject);
+            return;
+        }
+
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         originalSpeed = speed;
+
+        // Kết nối UI ngay từ scene đầu tiên
+        ReconnectUI();
+    }
+
+
+    private void OnEnable()
+    {
+        SceneManager.sceneLoaded += OnSceneLoaded;
+    }
+
+    private void OnDisable()
+    {
+        SceneManager.sceneLoaded -= OnSceneLoaded;
+    }
+
+    private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
+    {
+        ReconnectUI();
+        StopCoroutine(nameof(ReconnectCameraDelay));
+        StartCoroutine(ReconnectCameraDelay());
+    }
+
+    private void ReconnectUI()
+    {
+        SkillCooldownUI[] allSkills = UnityEngine.Object.FindObjectsByType<SkillCooldownUI>(FindObjectsSortMode.None);
+        
+        foreach (var s in allSkills)
+        {
+            // Kiểm tra tên đối tượng để gán đúng slot
+            string n = s.name.ToLower();
+            if (n.Contains("skill1")) skill1UI = s;
+            else if (n.Contains("skill2")) skill2UI = s;
+            else if (n.Contains("skill3")) skill3UI = s;
+        }
+
+        Debug.Log($"[PlayerController] Đã kết nối lại {allSkills.Length} UI Skills.");
+    }
+
+    private IEnumerator ReconnectCameraDelay()
+    {
+        // Chờ 1-2 frame để các object trong scene mới được Awake/Start
+        yield return new WaitForEndOfFrame();
+        yield return new WaitForSeconds(0.1f);
+
+        CameraTargetSync camSync = null;
+
+        // 1. Ưu tiên tìm theo tên GameObject camera phổ biến trước
+        string[] camNames = { "CinemachineCamera", "Virtual Camera", "CM vcam1", "Main Camera" };
+        GameObject camObj = null;
+
+        foreach (string name in camNames)
+        {
+            camObj = GameObject.Find(name);
+            if (camObj != null) break;
+        }
+
+        if (camObj != null)
+        {
+            camSync = camObj.GetComponent<CameraTargetSync>();
+            if (camSync == null)
+                camSync = camObj.AddComponent<CameraTargetSync>();
+        }
+        else
+        {
+            // 2. Nếu không thấy tên cụ thể, mới tìm bất kỳ script nào trong scene (nhưng bỏ qua chính Player)
+            CameraTargetSync[] allSyncs = UnityEngine.Object.FindObjectsByType<CameraTargetSync>(FindObjectsSortMode.None);
+            foreach (var s in allSyncs)
+            {
+                if (s.gameObject != gameObject) // Không phải Player
+                {
+                    camSync = s;
+                    break;
+                }
+            }
+        }
+
+        if (camSync != null)
+        {
+            camSync.SetTarget(transform);
+            Debug.Log("[PlayerController] Camera connected to Player successfully!");
+        }
+        else
+        {
+            Debug.LogWarning("[PlayerController] Không tìm thấy Camera nào để gán Target!");
+        }
     }
 
     void Update()
     {
+
         UpdateAttackState();
 
         HandleMovement();

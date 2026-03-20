@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 
 public class SkillDamage : MonoBehaviour
 {
@@ -12,22 +12,28 @@ public class SkillDamage : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.CompareTag("Enemy"))   // Boss cũng phải có tag "Enemy"
+        // Chỉ dùng tag Enemy để tránh lỗi nếu user chưa tạo tag Boss
+        if (other.CompareTag("Enemy"))
         {
-            // Hỗ trợ cả enemy nhỏ lẫn Boss
-            EnemyHealth normalEnemy = other.GetComponent<EnemyHealth>();
+            // Thử lấy EnemyHealth trước (cho quái thường)
+            EnemyHealth normalEnemy = other.GetComponentInParent<EnemyHealth>();
             if (normalEnemy != null)
             {
                 normalEnemy.TakeDamage(damage);
                 return;
             }
 
-            BossHealth boss = other.GetComponent<BossHealth>();
+            // Thử lấy BossHealth (cho Boss)
+            BossHealth boss = other.GetComponentInParent<BossHealth>();
             if (boss != null)
             {
                 boss.TakeDamage(damage);
                 return;
             }
+            
+            Debug.LogWarning($"[SkillDamage] Va chạm với {other.name} nhưng không tìm thấy health script!");
         }
     }
 }
+
+

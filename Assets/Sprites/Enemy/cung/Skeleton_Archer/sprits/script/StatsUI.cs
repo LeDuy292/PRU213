@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 using TMPro;
 
 public class StatsUI : MonoBehaviour
@@ -14,6 +14,12 @@ public class StatsUI : MonoBehaviour
 
     void Update()
     {
+        if (playerHealth == null) playerHealth = UnityEngine.Object.FindFirstObjectByType<PlayerHealth>();
+        if (playerStats == null) playerStats = UnityEngine.Object.FindFirstObjectByType<PlayerStats>();
+        if (playerController == null) playerController = UnityEngine.Object.FindFirstObjectByType<PlayerController>();
+
+        if (playerHealth == null || playerStats == null || playerController == null) return;
+
         txtHealth.text = "Máu: "
             + playerHealth.GetCurrentHealth()
             + "/"

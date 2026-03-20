@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerLevel : MonoBehaviour
 {
@@ -14,8 +15,32 @@ public class PlayerLevel : MonoBehaviour
     private PlayerController playerController;
     private PlayerHealth playerHealth;
 
+    private void OnEnable()
+    {
+        SceneManager.sceneLoaded += OnSceneLoaded;
+    }
+
+    private void OnDisable()
+    {
+        SceneManager.sceneLoaded -= OnSceneLoaded;
+    }
+
+    private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
+    {
+        ReconnectUI();
+    }
+
+    private void ReconnectUI()
+    {
+        // Tìm tất cả các thanh EXP có trong Scene mới
+        expBars = Object.FindObjectsByType<EXPBar>(FindObjectsSortMode.None);
+        UpdateUI();
+        Debug.Log($"[PlayerLevel] Đã kết nối lại {expBars.Length} thanh EXP.");
+    }
+
     void Start()
     {
+
         playerController = GetComponent<PlayerController>();
         playerHealth = GetComponent<PlayerHealth>();
 

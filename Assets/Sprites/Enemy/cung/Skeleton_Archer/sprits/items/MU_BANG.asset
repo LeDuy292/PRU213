@@ -19,4 +19,4 @@ MonoBehaviour:
   bonusMoveSpeed: 0
   bonusNormalDamagePercent: 0
   bonusSkillDamagePercent: 0
-  worldPrefab: {fileID: 4793726642797486557, guid: fd7d538cfecfdcb4da711ab0766bac20, type: 3}
+  worldPrefab: {fileID: 5472846557210733892, guid: a60e0f8410711c04da636286d653d454, type: 3}
